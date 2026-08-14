@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 551 | 🐛 19 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 552 | 🐛 19 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 90,735 | 🐛 490 | 🌐 Python | 📅 2026-08-11
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,313 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-13, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,090 | 🐛 493 | 🌐 Python | 📅 2026-08-11
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,319 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-13, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -204,7 +204,7 @@
 
   <span dir=ltr>Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... - Alfanous-team/alfanous</span>
 
-* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 231 | 🐛 1 | 📅 2023-02-15
+* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 232 | 🐛 1 | 📅 2023-02-15
 
   <span dir=rtl>كل كتب وصور تطبيقات القرآن.</span>
 
@@ -236,7 +236,7 @@
 
   <span dir=ltr>Iqra is a tool meant to allow Muslims to search the Quran using speech recognition. This repo contains the code for the website. There are also repos for the Android client and iOS client. The website's back-end is a Flask server, and the front-end is React combined with Redux.</span>
 
-* <https://github.com/yucefsourani/albasheer-electronic-quran-browser> ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-01-17
+* <https://github.com/yucefsourani/albasheer-electronic-quran-browser> ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-01-17
 
   <span dir=ltr><https://arfedora.blogspot.com> <https://github.com/ojuba-org/othman> ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2024-03-26 Port To Python3 Add Switch To On/Off Dark Theme. Support Change Background/Foreground Color. Make Windows exe (pyinstaller/msys/mingw64) Add Option To add Amiri Font (Windows Only). support Audio Tilawa (mp3 from ayat) And add Option To add Audio tilawa from ayat files (\*.ayt). support Auto Scroll + Run Tilawa .</span>
 
@@ -326,7 +326,7 @@
 
   <span dir=ltr>An Islamic bot for Discord with the following features: Qur'an, with support for 100+ translations. Tafsir, with 9 available in English and 37 in Arabic. Hadith in English and Arabic, from sunnah.com. Prayer times for any location in the world, with the ability to set reminders and change the calculation method.</span>
 
-* <https://github.com/arabeyes-org/ITL> ⭐ 91 | 🐛 8 | 🌐 C | 📅 2024-05-27
+* <https://github.com/arabeyes-org/ITL> ⭐ 92 | 🐛 8 | 🌐 C | 📅 2024-05-27
 
   <span dir=ltr>The Islamic Tools and Libraries (ITL) project provides a fully featured library for performing common Islamic calculations. ITL is currently composed of two library-modules: prayertime: Geographically-aware prayer time and Qibla calculation routines. hijri: Hijri date generation/calculation and conversion routines.</span>
 
@@ -348,7 +348,7 @@
 
 هذه القناة - ألف اختراع واختراع - تبين للعالم تاريخنا الذهبي وحضارة الإسلام العظيمة: <https://www.youtube.com/user/1001Inventions>.
 
-* <https://github.com/softvenue/i18n> ⭐ 72 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-29
+* <https://github.com/softvenue/i18n> ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-29
 
   <span dir=rtl>يحتوي هذا المشروع على المصطلحات التقنية الإنجليزية وما يقابلها في اللغة العربية، وذلك بقصد المساعدة في تعريب التوثيقات الخاصة بكافة التقنيات المتعلقة بعلوم الحاسوب. قريبا : SQL, XML, HTML يعاني المحتوى العربي من نقص فادح خصوصا عندما يتعلق الأمر بمجال البرمجة وعلوم الحاسوب ولذلك ارتأينا أن نقوم بالمبادرة وأن نبدأ في توفير ترجمة للمصطلحات التقنية المستعصية لغوياً وللاستعانة بها في تعريب تقنيات ومجالات أخرى مستقبلا.</span>
 
@@ -648,7 +648,7 @@
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
-  * <https://github.com/aliftype/aref-ruqaa> ⭐ 132 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
+  * <https://github.com/aliftype/aref-ruqaa> ⭐ 133 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
 
     <span dir=ltr>Aref Ruqaa (رقعة عارف) is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Arabic part of Aref Ruqaa is designed by the Arabic calligrapher and type designer Abdullah Aref, while the Latin part is based on AMS Euler, but spaced for regular text rather than mathematics.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

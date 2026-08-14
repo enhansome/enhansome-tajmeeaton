@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T14:41:19Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 90735
+            "stars": 91090
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:01Z",
+            "last_commit": "2026-08-13T20:17:44Z",
             "owner": "KaTeX",
             "repo": "KaTeX",
-            "stars": 20313
+            "stars": 20319
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2023-02-15T06:18:44Z",
             "owner": "Mohamed-Nagdy",
             "repo": "Quran-App-Data",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2024-05-27T05:56:48Z",
             "owner": "arabeyes-org",
             "repo": "ITL",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:10:35.184Z",
+    "last_updated": "2026-08-14T16:07:05.193Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
