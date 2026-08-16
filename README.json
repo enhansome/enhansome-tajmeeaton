@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:30:30Z",
+            "last_commit": "2026-08-15T18:23:32Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 91195
+            "stars": 91303
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T18:49:33Z",
             "owner": "KaTeX",
             "repo": "KaTeX",
-            "stars": 20323
+            "stars": 20324
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2020-05-12T19:55:09Z",
             "owner": "bilalbentoumi",
             "repo": "quran-database",
-            "stars": 84
+            "stars": 85
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:35:32.444Z",
+    "last_updated": "2026-08-16T15:36:58.159Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",

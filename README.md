@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,195 | 🐛 493 | 🌐 Python | 📅 2026-08-14
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,323 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-14, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,303 | 🐛 493 | 🌐 Python | 📅 2026-08-15
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,324 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-14, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -224,7 +224,7 @@
 
   <span dir=ltr>Qutuf (قُطُوْف): An Arabic Morphological analyzer and Part-Of-Speech tagger as an Expert System. - Qutuf/Qutuf</span>
 
-* <https://github.com/bilalbentoumi/qurandatabase> ⭐ 84 | 🐛 1 | 📅 2020-05-12
+* <https://github.com/bilalbentoumi/qurandatabase> ⭐ 85 | 🐛 1 | 📅 2020-05-12
 
   <span dir=ltr>Database for Holy Quran.</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 52 | 🐛 26 | 🌐 C++ | 📅 2026-07-10
+* <https://github.com/Alusus/Alusus> ⭐ 52 | 🐛 27 | 🌐 C++ | 📅 2026-07-10
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -482,7 +482,7 @@
 
   <span dir=ltr>Thia Arabic Word Embeddings Word2vec and vector length is 300 taken from Wikipedia Arabic articles Steps to Start this Application:- 1- Download pretrained Word2Vec model from this link:- <https://drive.google.com/open?id=1y_195XEjo5HaSwj40hGVzR5JVp859jfj> 2- Change this line in Views.py to your directory model = Word2Vec.load('ToDo from your directory') 3- Start Python Flask server.</span>
 
-* <https://github.com/linuxscout/languagetool> ⭐ 21 | 🐛 0 | 🌐 Java | 📅 2025-03-26
+* <https://github.com/linuxscout/languagetool> ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2025-03-26
 
   <span dir=ltr>LanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect. For more information, please see our homepage at <https://languagetool.org>, this README, and CHANGES. LanguageTool is freely available under the LGPL 2.1 or later.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
