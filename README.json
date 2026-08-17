@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T18:23:32Z",
+            "last_commit": "2026-08-16T17:09:36Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 91303
+            "stars": 91455
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:49:33Z",
+            "last_commit": "2026-08-16T20:55:19Z",
             "owner": "KaTeX",
             "repo": "KaTeX",
-            "stars": 20324
+            "stars": 20322
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2021-11-10T19:46:23Z",
             "owner": "TarteelAI",
             "repo": "tarteel-ml",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:36:58.159Z",
+    "last_updated": "2026-08-17T15:42:05.845Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
