@@ -10,16 +10,16 @@
 
 **كيفية المساهمة:**
 
-يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
+يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
-* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2024-04-24
-* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24
 
 **ملاحظات:**
 
-* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
+* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
 * التجميعة على موقع نوشن: <https://www.notion.so/ms2052001/3f677c2054ee49efad36e321cd88e1ac>
 * لا بد أن نعي أن معظم هذه المشروعات تعتبر جهود فردية أو فريق بسيط له شؤون حياته الخاصة وتعلمه وعمله، ومعظمها بَطُؤ أو تَوقّف تطويره، فلا بد أن نتحمل مسؤولية دعم هذه المشروعات ودفعها للأمام، سواء أكان دعما ماديا أو مساهمة في التطوير
 * فليكن هدفك الوحيد رضا الله، ولذا أنصح برخصة "[وقف](https://ojuba.org/waqf-2.0:%D8%B1%D8%AE%D8%B5%D8%A9_%D9%88%D9%82%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9)" بدلا من رخص مثل GPL وال MIT، وغيرهما. كما يمكن إنشاء رخصة بها شروط مختلفة منطلقة من نفس المبدأ لمشاريعك المستقبلية إن شاء الله
@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 606 | 🐛 9 | 📅 2026-07-15
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 607 | 🐛 9 | 📅 2026-07-15
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,455 | 🐛 495 | 🌐 Python | 📅 2026-08-16
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,322 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-16, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,586 | 🐛 486 | 🌐 Python | 📅 2026-08-17
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,325 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-18, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -194,7 +194,7 @@
 
 وبسبب وجود محاولات لإنشاء لغة عربية قادرة على التحدي والظهور، فلا بد من توافر خط، منضد، للنص العربي ليكون أحادي المسافة وملائما للغة العربية والأكواد المكتوبة بها. يوجد محاولات جيدة مثل [خط كوكب](https://makkuk.com/kawkab-mono/)، لكن ليس كل الحروف إلزاما أن يكون تواجدها بنفس العرض، يمكنك الإطلاع على [هذه التويتة](https://twitter.com/KhaledGhetas/status/1416918281169121282) لخالد حسني...
 
-اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24
 
 # في خدمة الإسلام
 
@@ -278,7 +278,7 @@
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
-* <https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt> ⭐ 108 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-05
+* <https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt> ⭐ 107 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-05
 
   <span dir=ltr>Build in association with East London Mosque. The Mosque Screens project is a self funded project and does not have any financial income. As with all tech projects, there are costs which are incurred by the maintainers. These include: Servers, domains, databases etc. Please help by donating to the project via the following link.</span>
 
@@ -734,8 +734,8 @@
 
 # الرخصة
 
-هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
+هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

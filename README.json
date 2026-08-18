@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:09:36Z",
+            "last_commit": "2026-08-17T20:15:32Z",
             "owner": "3b1b",
             "repo": "manim",
-            "stars": 91455
+            "stars": 91586
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T20:55:19Z",
+            "last_commit": "2026-08-18T09:16:51Z",
             "owner": "KaTeX",
             "repo": "KaTeX",
-            "stars": 20322
+            "stars": 20325
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2023-11-05T02:57:05Z",
             "owner": "Mosque-Screens",
             "repo": "Mosque-Screen",
-            "stars": 108
+            "stars": 107
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:42:05.845Z",
+    "last_updated": "2026-08-18T15:47:26.987Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
