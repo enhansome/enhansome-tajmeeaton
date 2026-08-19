@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 551 | 🐛 19 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 552 | 🐛 19 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,7 +116,7 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,695 | 🐛 487 | 🌐 Python | 📅 2026-08-18
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,709 | 🐛 487 | 🌐 Python | 📅 2026-08-18
 * [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,326 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-18, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
@@ -212,7 +212,7 @@
 
   <span dir=ltr>This repo is designed to house code related to Tarteel machine learning related tasks. 🔬 Specifically, things like: Model selection ✅ Preprocessing of data 🔉 Model training, validation, and and iteration 🔁 Code here is mostly experimental so check back regularly for updates. If you found this repo helpful, please keep it's contributors in your duaa 🙌.</span>
 
-* <https://github.com/cpfair/quran-tajweed> ⭐ 184 | 🐛 7 | 🌐 Python | 📅 2021-10-12
+* <https://github.com/cpfair/quran-tajweed> ⭐ 185 | 🐛 7 | 🌐 Python | 📅 2021-10-12
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
@@ -348,7 +348,7 @@
 
 هذه القناة - ألف اختراع واختراع - تبين للعالم تاريخنا الذهبي وحضارة الإسلام العظيمة: <https://www.youtube.com/user/1001Inventions>.
 
-* <https://github.com/softvenue/i18n> ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-29
+* <https://github.com/softvenue/i18n> ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-29
 
   <span dir=rtl>يحتوي هذا المشروع على المصطلحات التقنية الإنجليزية وما يقابلها في اللغة العربية، وذلك بقصد المساعدة في تعريب التوثيقات الخاصة بكافة التقنيات المتعلقة بعلوم الحاسوب. قريبا : SQL, XML, HTML يعاني المحتوى العربي من نقص فادح خصوصا عندما يتعلق الأمر بمجال البرمجة وعلوم الحاسوب ولذلك ارتأينا أن نقوم بالمبادرة وأن نبدأ في توفير ترجمة للمصطلحات التقنية المستعصية لغوياً وللاستعانة بها في تعريب تقنيات ومجالات أخرى مستقبلا.</span>
 
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 443 | 🐛 20 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 443 | 🐛 22 | 🌐 Python | 📅 2026-04-28
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
