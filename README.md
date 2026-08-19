@@ -10,16 +10,16 @@
 
 **كيفية المساهمة:**
 
-يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
+يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
-* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24
-* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24
 
 **ملاحظات:**
 
-* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
+* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
 * التجميعة على موقع نوشن: <https://www.notion.so/ms2052001/3f677c2054ee49efad36e321cd88e1ac>
 * لا بد أن نعي أن معظم هذه المشروعات تعتبر جهود فردية أو فريق بسيط له شؤون حياته الخاصة وتعلمه وعمله، ومعظمها بَطُؤ أو تَوقّف تطويره، فلا بد أن نتحمل مسؤولية دعم هذه المشروعات ودفعها للأمام، سواء أكان دعما ماديا أو مساهمة في التطوير
 * فليكن هدفك الوحيد رضا الله، ولذا أنصح برخصة "[وقف](https://ojuba.org/waqf-2.0:%D8%B1%D8%AE%D8%B5%D8%A9_%D9%88%D9%82%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9)" بدلا من رخص مثل GPL وال MIT، وغيرهما. كما يمكن إنشاء رخصة بها شروط مختلفة منطلقة من نفس المبدأ لمشاريعك المستقبلية إن شاء الله
@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 607 | 🐛 9 | 📅 2026-07-15
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 608 | 🐛 9 | 📅 2026-07-15
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 552 | 🐛 19 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 551 | 🐛 19 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,586 | 🐛 486 | 🌐 Python | 📅 2026-08-17
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,325 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-18, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,695 | 🐛 487 | 🌐 Python | 📅 2026-08-18
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,326 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-18, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -194,7 +194,7 @@
 
 وبسبب وجود محاولات لإنشاء لغة عربية قادرة على التحدي والظهور، فلا بد من توافر خط، منضد، للنص العربي ليكون أحادي المسافة وملائما للغة العربية والأكواد المكتوبة بها. يوجد محاولات جيدة مثل [خط كوكب](https://makkuk.com/kawkab-mono/)، لكن ليس كل الحروف إلزاما أن يكون تواجدها بنفس العرض، يمكنك الإطلاع على [هذه التويتة](https://twitter.com/KhaledGhetas/status/1416918281169121282) لخالد حسني...
 
-اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24
 
 # في خدمة الإسلام
 
@@ -270,7 +270,7 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 404 | 🐛 2 | 📅 2023-03-29
+* <https://github.com/batoulapps/Adhan> ⭐ 403 | 🐛 2 | 📅 2023-03-29
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
@@ -528,7 +528,7 @@
 
 ## النص من وإلى الصوت
 
-* <https://github.com/ARBML/klaam> ⭐ 432 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
+* <https://github.com/ARBML/klaam> ⭐ 433 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
 
   <span dir=ltr>Arabic speech recognition, classification and text-to-speech using many advanced models like wave2vec and fastspeech2. This repository allows training and prediction using pretrained models. There are two avilable models for recognition trageting MSA and egyptian dialect . You can set any of them using the lang attribute We currently support four models, three of them are avilable on transformers.</span>
 
@@ -734,8 +734,8 @@
 
 # الرخصة
 
-هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 341 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
+هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

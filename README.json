@@ -1,518 +1,853 @@
 {
   "items": [
     {
-      "description": "محررات ومصيرات معادلات الرياضيات. ونريد أن تُنشأ مكونات للواجهة للمواقع وتطبيقات الأندرويد والآيفون وأطر العمل .المختلفة\nما نريد أن ننشيء مثله:",
+      "description": "مجموعة من المشاريع المطلوب تواجدها بدلا من العمل على مشاريع موجودة وإعادة اختراع العجلة، وإذا كنت تريد تنمية مهاراتك في مشاريع بسيطة والمشاريع المطلوبة تتطلب خبرة وجهدا، أو ليست في مجالك وأردت المساهمة، ساهم في تنمية المشاريع الموجودة بالفعل، ستجد الكثير قد مضى عليه فترة من الزمن، ويحتاج بعض التحديثات والتنمية.\nملاحظات:\nمقتراحات ورُؤى أخرى:",
       "items": [
         {
-          "node_type": "item",
-          "title": "Manim",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T20:15:32Z",
-            "owner": "3b1b",
-            "repo": "manim",
-            "stars": 91586
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Katex",
-          "description": ", Mathjax",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T09:16:51Z",
-            "owner": "KaTeX",
-            "repo": "KaTeX",
-            "stars": 20325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mathquill",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-02T21:51:47Z",
-            "owner": "mathquill",
-            "repo": "mathquill",
-            "stars": 2864
-          }
-        }
-      ],
-      "title": "مصيرات ومحررات المعادلات"
-    },
-    {
-      "description": "أكاد أقول أن الجهد المبذول في مجتمع المصدر المفتوح لتعليم اللغة العربية، نحوا وصرفا وبلاغة إلخ، شبه منعدم... فحرىّ بنا أن ننال شرف تعليم لغة القرآن للعرب وغيرهم من المتشوقين لفهم كلام ربهم، أو حتى الذين يريدون تعلم العربية لغير هذا الهدف العظيم.",
-      "items": [],
-      "title": "تعليم اللغة العربية"
-    },
-    {
-      "description": "كتابة الأرقام من اليمين لليسار، فمثلا 123 تُقرأ \"ثلاثة وعشرون ومائة\"، وكذلك نريد كتابتها من اليمين لليسار. أما السبب وراء هذا أنني عند المساهمة في لغة ألف بعمل محرر لها باستخدام CodeMirro@6 وأردت تعريب الأرقام السداسية العشرية، مثلا ، كتابة أظن أنك لاحظت المشكلة هنا 😥. ويمكننا جعل هذه الطريقة في الكتابة خيارية في المحررات المعروفة، ليس لدي فكرة واضحة عن المكان الذي يجب تطوير هذه الخاصية فيه أو اللغة البرمجية المطلوبة، لكن عسى الله أن يوفق أحدا لهذا. اقرأ هذه التدوينة",
-      "items": [],
-      "title": "الأرقام العربية من اليمين لليسار"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "خطوط عربية للاحتياجات الجديدة"
-    },
-    {
-      "description": "نحتاج خطوط لتلائم طريقة كتابة المعادلات الرياضية. في مرحلة التعليم الأساسي في مصر (البلد الذي نشأت فيه)، كانت المعادلات والرموز باللغة العربية نتاج جهود التعريب المستمرة التي لم تكلّ. ومشروع مثل \"مصيرات ومحررات المعادلات\" يحتاج مثل هذه الخطوط. وهذا مثال...",
-      "items": [],
-      "title": "معادلات ورموز للرياضيات"
-    },
-    {
-      "description": "وبسبب وجود محاولات لإنشاء لغة عربية قادرة على التحدي والظهور، فلا بد من توافر خط، منضد، للنص العربي ليكون أحادي المسافة وملائما للغة العربية والأكواد المكتوبة بها. يوجد محاولات جيدة مثل خط كوكب، لكن ليس كل الحروف إلزاما أن يكون تواجدها بنفس العرض، يمكنك الإطلاع على هذه التويتة لخالد حسني...\nاللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، انظر الخطوط أحادية المسافة",
-      "items": [],
-      "title": "لغات البرمجة"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/Alfanous-team/alfanous",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-14T00:57:27Z",
-            "owner": "Alfanous-team",
-            "repo": "alfanous",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Mohamed-Nagdy/Quran-App-Data",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-15T06:18:44Z",
-            "owner": "Mohamed-Nagdy",
-            "repo": "Quran-App-Data",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Tarteel-io/tarteel-ml",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-11-10T19:46:23Z",
-            "owner": "TarteelAI",
-            "repo": "tarteel-ml",
-            "stars": 230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/cpfair/quran-tajweed",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-12T16:20:18Z",
-            "owner": "cpfair",
-            "repo": "quran-tajweed",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/hci-lab/PyQuran",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-24T13:40:24Z",
-            "owner": "hci-lab",
-            "repo": "PyQuran",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Qutuf/Qutuf",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-12T00:05:36Z",
-            "owner": "Qutuf",
-            "repo": "Qutuf",
-            "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/bilalbentoumi/qurandatabase",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-05-12T19:55:09Z",
-            "owner": "bilalbentoumi",
-            "repo": "quran-database",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ojuba-org/othman",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-26T18:21:31Z",
-            "owner": "ojuba-org",
-            "repo": "othman",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Crescent-Labs/iqra-web",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-27T15:38:29Z",
-            "owner": "Crescent-Labs",
-            "repo": "iqra-web",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/yucefsourani/albasheer-electronic-quran-browser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-17T15:51:57Z",
-            "owner": "yucefsourani",
-            "repo": "albasheer-electronic-quran-browser",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/malayyoub/Ahkam-Al-Tajweed",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-06-28T14:38:12Z",
-            "owner": "malayyoub",
-            "repo": "Ahkam-Al-Tajweed",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/moroclash/Visualization-Of-Quran",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-06-25T15:08:56Z",
-            "owner": "moroclash",
-            "repo": "Visualization-Of-Quran",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "https://github.com/quran",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/quran/ayah-detection",
+              "title": "Manim",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32689863,
                 "language": "Python",
-                "last_commit": "2023-04-02T13:41:49Z",
-                "owner": "quran",
-                "repo": "ayah-detection",
-                "stars": 113
+                "last_commit": "2026-08-18T21:03:49Z",
+                "owner": "3b1b",
+                "repo": "manim",
+                "stars": 91695
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/quran/tajweed",
+              "title": "Katex",
+              "description": ", Mathjax",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11195700,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T18:07:20Z",
+                "owner": "KaTeX",
+                "repo": "KaTeX",
+                "stars": 20326
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mathquill",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Java",
-                "last_commit": "2018-10-07T12:59:05Z",
-                "owner": "quran",
-                "repo": "tajweed",
-                "stars": 75
+                "id": 598343,
+                "language": "TypeScript",
+                "last_commit": "2025-06-02T21:51:47Z",
+                "owner": "mathquill",
+                "repo": "mathquill",
+                "stars": 2864
               }
             }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Yassine-Lafryhi/Ayaaty",
-          "description": null,
-          "children": []
+          ],
+          "description": "محررات ومصيرات معادلات الرياضيات. ونريد أن تُنشأ مكونات للواجهة للمواقع وتطبيقات الأندرويد والآيفون وأطر العمل .المختلفة\nما نريد أن ننشيء مثله:\nومثال على هذا:\nلكن الأمثلة السابقة ليست كما ينبغي إذ أن خط.س خدمة للحصول على صور تنزلها وتستخدمها وما نريده هو مكتبه للواجهات المختلفة تعرضه كنص وليس صورة كما في Katex.\nومكتبة arabic-mathjax هي إضافة لل mathjax وتكتب معادلاتك بالإنجليزية وهي تعرب أنواع محددة من الرموز والدوال ولا يوجد إلى الآن ما يلبي الرغبات وتراه مستخدما كمكتبة في تطبيقات عليها إقبال كما هو الحال في katex, mathjax والمحرر Mathquill...",
+          "node_type": "group",
+          "title": "مصيرات ومحررات المعادلات"
         }
       ],
-      "title": "قرآن"
+      "title": "أفكار لمشاريع"
     },
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Alfanous-team/alfanous",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4617289,
+                "language": "Python",
+                "last_commit": "2026-06-14T00:57:27Z",
+                "owner": "Alfanous-team",
+                "repo": "alfanous",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Mohamed-Nagdy/Quran-App-Data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329273479,
+                "language": null,
+                "last_commit": "2023-02-15T06:18:44Z",
+                "owner": "Mohamed-Nagdy",
+                "repo": "Quran-App-Data",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Tarteel-io/tarteel-ml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 162787708,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-11-10T19:46:23Z",
+                "owner": "TarteelAI",
+                "repo": "tarteel-ml",
+                "stars": 230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/cpfair/quran-tajweed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88276028,
+                "language": "Python",
+                "last_commit": "2021-10-12T16:20:18Z",
+                "owner": "cpfair",
+                "repo": "quran-tajweed",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hci-lab/PyQuran",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139259534,
+                "language": "Python",
+                "last_commit": "2024-05-24T13:40:24Z",
+                "owner": "hci-lab",
+                "repo": "PyQuran",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Qutuf/Qutuf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103699775,
+                "language": "Python",
+                "last_commit": "2022-12-12T00:05:36Z",
+                "owner": "Qutuf",
+                "repo": "Qutuf",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/bilalbentoumi/qurandatabase",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263408830,
+                "language": null,
+                "last_commit": "2020-05-12T19:55:09Z",
+                "owner": "bilalbentoumi",
+                "repo": "quran-database",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ojuba-org/othman",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8841553,
+                "language": "Python",
+                "last_commit": "2024-03-26T18:21:31Z",
+                "owner": "ojuba-org",
+                "repo": "othman",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Crescent-Labs/iqra-web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66892392,
+                "language": "JavaScript",
+                "last_commit": "2023-02-27T15:38:29Z",
+                "owner": "Crescent-Labs",
+                "repo": "iqra-web",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yucefsourani/albasheer-electronic-quran-browser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320653293,
+                "language": "Python",
+                "last_commit": "2026-01-17T15:51:57Z",
+                "owner": "yucefsourani",
+                "repo": "albasheer-electronic-quran-browser",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/malayyoub/Ahkam-Al-Tajweed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147501865,
+                "language": null,
+                "last_commit": "2019-06-28T14:38:12Z",
+                "owner": "malayyoub",
+                "repo": "Ahkam-Al-Tajweed",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/moroclash/Visualization-Of-Quran",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325310293,
+                "language": "JavaScript",
+                "last_commit": "2021-06-25T15:08:56Z",
+                "owner": "moroclash",
+                "repo": "Visualization-Of-Quran",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "https://github.com/quran",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/quran/ayah-detection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27692583,
+                    "language": "Python",
+                    "last_commit": "2023-04-02T13:41:49Z",
+                    "owner": "quran",
+                    "repo": "ayah-detection",
+                    "stars": 113
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/quran/tajweed",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48966959,
+                    "language": "Java",
+                    "last_commit": "2018-10-07T12:59:05Z",
+                    "owner": "quran",
+                    "repo": "tajweed",
+                    "stars": 75
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "قرآن"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/batoulapps/Adhan",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52242994,
+                "language": null,
+                "last_commit": "2023-03-29T02:51:13Z",
+                "owner": "batoulapps",
+                "repo": "Adhan",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AbdelrahmanBayoumi/Azkar-App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290850826,
+                "language": "Java",
+                "last_commit": "2026-08-08T15:03:54Z",
+                "owner": "AbdelrahmanBayoumi",
+                "repo": "Azkar-App",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164725635,
+                "language": "JavaScript",
+                "last_commit": "2023-11-05T02:57:05Z",
+                "owner": "Mosque-Screens",
+                "repo": "Mosque-Screen",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AbdeltwabMF/nxprayer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 404178720,
+                "language": "C",
+                "last_commit": "2023-04-02T00:00:38Z",
+                "owner": "AbdeltwabMF",
+                "repo": "next-prayer",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/insha/salah",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166846127,
+                "language": "Rust",
+                "last_commit": "2026-08-06T20:40:08Z",
+                "owner": "insha",
+                "repo": "salah",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/meltuhamy/belfastsalah",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31821353,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T17:57:40Z",
+                "owner": "meltuhamy",
+                "repo": "belfastsalah",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/meltuhamy/masjid-times",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9011331,
+                "language": "JavaScript",
+                "last_commit": "2013-09-29T11:19:44Z",
+                "owner": "meltuhamy",
+                "repo": "masjid-times",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hayalasalah/adhan.py",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47964754,
+                "language": "Python",
+                "last_commit": "2015-12-24T22:35:59Z",
+                "owner": "hayalasalah",
+                "repo": "adhan.py",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "صلاة"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/choubari/Muslim-App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 255736768,
+                "language": "Java",
+                "last_commit": "2022-10-13T14:39:52Z",
+                "owner": "choubari",
+                "repo": "Muslim-App",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/abougouffa/pyIslam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16716541,
+                "language": "Python",
+                "last_commit": "2025-06-15T23:01:40Z",
+                "owner": "abougouffa",
+                "repo": "pyIslam",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/galacticwarrior9/IslamBot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271675731,
+                "language": "Python",
+                "last_commit": "2026-01-06T21:01:55Z",
+                "owner": "galacticwarrior9",
+                "repo": "IslamBot",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/arabeyes-org/ITL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19785855,
+                "language": "C",
+                "last_commit": "2024-05-27T05:56:48Z",
+                "owner": "arabeyes-org",
+                "repo": "ITL",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/challenge-azkar/tanafaso-frontend",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250859077,
+                "language": "Dart",
+                "last_commit": "2026-03-08T05:25:40Z",
+                "owner": "tanafaso",
+                "repo": "tanafaso",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eneserdogan/iftar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61781198,
+                "language": "JavaScript",
+                "last_commit": "2026-01-19T15:50:22Z",
+                "owner": "eneserdogan",
+                "repo": "iftar",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AhmedAshrafAZ/BoycottFrench",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342258758,
+                "language": "JavaScript",
+                "last_commit": "2021-05-19T12:53:59Z",
+                "owner": "AhmedAshrafAZ",
+                "repo": "BoycottFrench",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "منوعات"
+        }
+      ],
+      "title": "في خدمة الإسلام"
+    },
+    {
+      "description": "المقصود هنا هو تعريبها تعريبا حقيقيا بإيجاد بديل للمصطلحات الإنجليزية في لغتنا الغزيرة بالكلمات والجزور، وليس مجرد ترجمة للكلام مع ترك المصطلحات، مع أهمية فعل ذلك أيضا لكن ليس بالقيمة الكبيرة المضافة.\nهذه القناة - ألف اختراع واختراع - تبين للعالم تاريخنا الذهبي وحضارة الإسلام العظيمة: https://www.youtube.com/user/1001Inventions.",
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/batoulapps/Adhan",
+          "title": "https://github.com/softvenue/i18n",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2023-03-29T02:51:13Z",
-            "owner": "batoulapps",
-            "repo": "Adhan",
-            "stars": 404
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/AbdelrahmanBayoumi/Azkar-App",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-08T15:03:54Z",
-            "owner": "AbdelrahmanBayoumi",
-            "repo": "Azkar-App",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 175304449,
             "language": "JavaScript",
-            "last_commit": "2023-11-05T02:57:05Z",
-            "owner": "Mosque-Screens",
-            "repo": "Mosque-Screen",
-            "stars": 107
+            "last_commit": "2026-04-29T04:03:37Z",
+            "owner": "softvenue",
+            "repo": "i18n",
+            "stars": 73
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AbdeltwabMF/nxprayer",
+          "title": "https://github.com/aosus/arabic-tech-dictionary/",
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-04-02T00:00:38Z",
-            "owner": "AbdeltwabMF",
-            "repo": "next-prayer",
-            "stars": 55
+            "archived": true,
+            "id": 382693063,
+            "language": "Vue",
+            "last_commit": "2023-01-27T18:37:14Z",
+            "owner": "aosus",
+            "repo": "aosus-dictionary",
+            "stars": 45
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/insha/salah",
+          "title": "https://github.com/01walid/Nibras",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-06T20:40:08Z",
-            "owner": "insha",
-            "repo": "salah",
-            "stars": 47
+            "id": 5134292,
+            "language": "C++",
+            "last_commit": "2014-12-10T16:13:59Z",
+            "owner": "01walid",
+            "repo": "Nibras",
+            "stars": 33
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/meltuhamy/belfastsalah",
+          "title": "https://github.com/OmarIthawi/arabic-mathjax",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T17:57:40Z",
-            "owner": "meltuhamy",
-            "repo": "belfastsalah",
+            "id": 117674462,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T10:33:21Z",
+            "owner": "OmarIthawi",
+            "repo": "arabic-mathjax",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/forabi/arabic-tech-terminology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29675830,
+            "language": "Shell",
+            "last_commit": "2015-02-08T13:00:50Z",
+            "owner": "forabi",
+            "repo": "arabic-tech-terminology",
             "stars": 15
           }
-        },
+        }
+      ],
+      "title": "تعريب العلوم"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/meltuhamy/masjid-times",
+          "title": "https://github.com/nasser/---",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7283676,
             "language": "JavaScript",
-            "last_commit": "2013-09-29T11:19:44Z",
-            "owner": "meltuhamy",
-            "repo": "masjid-times",
+            "last_commit": "2024-03-09T23:34:07Z",
+            "owner": "nasser",
+            "repo": "---",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/SimplyAhmazing/noor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36685610,
+            "language": "JavaScript",
+            "last_commit": "2018-11-05T17:08:19Z",
+            "owner": "SimplyAhmazing",
+            "repo": "noor",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/javascript-in-arabic/core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302985861,
+            "language": "JavaScript",
+            "last_commit": "2021-05-14T15:54:49Z",
+            "owner": "arabi-js",
+            "repo": "arabi",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/alifcommunity/compiler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 284758823,
+            "language": "C++",
+            "last_commit": "2022-06-27T02:21:20Z",
+            "owner": "alifcommunity",
+            "repo": "compiler",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Alusus/Alusus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176015477,
+            "language": "C++",
+            "last_commit": "2026-07-10T18:33:28Z",
+            "owner": "Alusus",
+            "repo": "Alusus",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/fakoua/labiba",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190556013,
+            "language": "JavaScript",
+            "last_commit": "2026-01-23T07:44:17Z",
+            "owner": "fakoua",
+            "repo": "labiba",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mobadarah/kalimat-lang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383176303,
+            "language": "C++",
+            "last_commit": "2021-07-06T22:14:54Z",
+            "owner": "mobadarah",
+            "repo": "kalimat-lang",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mobadarah/Ammoria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383150408,
+            "language": "VBA",
+            "last_commit": "2021-07-17T11:49:25Z",
+            "owner": "mobadarah",
+            "repo": "Ammoria",
             "stars": 11
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hayalasalah/adhan.py",
+          "title": "https://github.com/alkhawarizm/examples",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2015-12-24T22:35:59Z",
-            "owner": "hayalasalah",
-            "repo": "adhan.py",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "صلاة"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/choubari/Muslim-App",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-10-13T14:39:52Z",
-            "owner": "choubari",
-            "repo": "Muslim-App",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/abougouffa/pyIslam",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-15T23:01:40Z",
-            "owner": "abougouffa",
-            "repo": "pyIslam",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/galacticwarrior9/IslamBot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-06T21:01:55Z",
-            "owner": "galacticwarrior9",
-            "repo": "IslamBot",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/arabeyes-org/ITL",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-27T05:56:48Z",
-            "owner": "arabeyes-org",
-            "repo": "ITL",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/challenge-azkar/tanafaso-frontend",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-03-08T05:25:40Z",
-            "owner": "tanafaso",
-            "repo": "tanafaso",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eneserdogan/iftar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-19T15:50:22Z",
-            "owner": "eneserdogan",
-            "repo": "iftar",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/AhmedAshrafAZ/BoycottFrench",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-05-19T12:53:59Z",
-            "owner": "AhmedAshrafAZ",
-            "repo": "BoycottFrench",
+            "id": 207348422,
+            "language": null,
+            "last_commit": "2023-03-01T19:51:56Z",
+            "owner": "alkhawarizm",
+            "repo": "examples",
             "stars": 7
           }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/KL13NT/nabdjs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259966315,
+            "language": "JavaScript",
+            "last_commit": "2020-05-01T16:11:15Z",
+            "owner": "KL13NT",
+            "repo": "nabdjs",
+            "stars": 4
+          }
         }
       ],
-      "title": "منوعات"
+      "title": "لغات برمجة عربية"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/javascript-tutorial/ar.javascript.info",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202420542,
+            "language": "HTML",
+            "last_commit": "2026-08-17T05:00:08Z",
+            "owner": "javascript-tutorial",
+            "repo": "ar.javascript.info",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 347642968,
+            "language": "JavaScript",
+            "last_commit": "2021-03-14T14:25:17Z",
+            "owner": "imAbdelhadi",
+            "repo": "coursera-subtitle-translation-arabic",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "ترجمات"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/aub-mind/arabert",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242163521,
+            "language": "Python",
+            "last_commit": "2022-10-17T00:26:39Z",
+            "owner": "aub-mind",
+            "repo": "arabert",
+            "stars": 727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/linuxscout/pyarabic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16910168,
+            "language": "Python",
+            "last_commit": "2026-01-16T09:40:41Z",
+            "owner": "linuxscout",
+            "repo": "pyarabic",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mpcabd/python-arabic-reshaper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4286622,
+            "language": "Python",
+            "last_commit": "2026-04-28T13:52:00Z",
+            "owner": "mpcabd",
+            "repo": "python-arabic-reshaper",
+            "stars": 443
+          }
+        },
         {
           "node_type": "item",
           "title": "https://github.com/HusseinYoussef/Arabic-OCR",
@@ -520,6 +855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220806719,
             "language": "Python",
             "last_commit": "2023-10-04T00:56:52Z",
             "owner": "HusseinYoussef",
@@ -529,315 +865,717 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SemanticFrontiers/ArabicNLP",
+          "title": "https://github.com/linuxscout/arabicnlptoolslist",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2013-10-10T05:20:33Z",
-            "owner": "SemanticFrontiers",
-            "repo": "ArabicNLP",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/LiyuanLucasLiu/ArabicNER",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-03-12T15:13:12Z",
-            "owner": "LiyuanLucasLiu",
-            "repo": "ArabicNER",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/HassanAzzam/Arabic-NER",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-02-01T12:51:56Z",
-            "owner": "HassanAzzam",
-            "repo": "Arabic-NER",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/JubbaSmail/Arabic-Handwriting-Recognition-Using-Matlab",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Matlab",
-            "last_commit": "2016-09-19T04:07:07Z",
-            "owner": "JubbaSmail",
-            "repo": "Arabic-Handwriting-Recognition-Using-Matlab",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Fahad-Alsaidi/raqin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-12-18T16:01:12Z",
-            "owner": "Fahad-Alsaidi",
-            "repo": "raqin",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/d7miiZ/Arabic-Font-Detector",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-05-27T19:00:33Z",
-            "owner": "d7miiZ",
-            "repo": "Arabic-Font-Detector",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "استخراج الكلم من الصور"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/ARBML/klaam",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-09-30T08:50:06Z",
-            "owner": "ARBML",
-            "repo": "klaam",
-            "stars": 432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/youssefsharief/arabic-tacotron-tts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-05T10:42:56Z",
-            "owner": "yoosif0",
-            "repo": "arabic-tacotron-tts",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/linuxscout/festival-tts-arabic-voices",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scheme",
-            "last_commit": "2022-08-02T19:43:54Z",
+            "id": 161761938,
+            "language": null,
+            "last_commit": "2022-12-17T20:09:48Z",
             "owner": "linuxscout",
-            "repo": "festival-tts-arabic-voices",
-            "stars": 72
+            "repo": "arabicnlptoolslist",
+            "stars": 93
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nawarhalabi/festival-tts-arabic-voices-docker",
+          "title": "https://github.com/ARBML/tnkeeh",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285426674,
             "language": "Python",
-            "last_commit": "2021-02-12T17:36:25Z",
-            "owner": "nawarhalabi",
-            "repo": "festival-tts-arabic-voices-docker",
-            "stars": 31
+            "last_commit": "2023-09-28T16:52:54Z",
+            "owner": "ARBML",
+            "repo": "tnkeeh",
+            "stars": 77
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/asrajeh/arabic-tts",
+          "title": "https://github.com/maidaly/Arabic_OCR",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332780973,
+            "language": "Python",
+            "last_commit": "2022-09-07T14:30:36Z",
+            "owner": "maidaly",
+            "repo": "Arabic_OCR",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/linuxscout/adawat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164723301,
+            "language": "Python",
+            "last_commit": "2020-08-27T19:07:49Z",
+            "owner": "linuxscout",
+            "repo": "adawat",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MTG/ArabicTransliterator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21463643,
+            "language": "Python",
+            "last_commit": "2022-05-15T17:35:55Z",
+            "owner": "MTG",
+            "repo": "ArabicTransliterator",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/linuxscout/ayaspell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76684018,
             "language": "Shell",
-            "last_commit": "2019-09-16T11:28:51Z",
-            "owner": "asrajeh",
-            "repo": "arabic-tts",
+            "last_commit": "2020-08-27T19:48:14Z",
+            "owner": "linuxscout",
+            "repo": "ayaspell",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/rozester/Arabic-Word-Embeddings-Word2vec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161435857,
+            "language": "JavaScript",
+            "last_commit": "2018-12-13T02:07:05Z",
+            "owner": "rozester",
+            "repo": "Arabic-Word-Embeddings-Word2vec",
             "stars": 27
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/malayyoub/Ahkam-Al-Tajweed",
+          "title": "https://github.com/linuxscout/languagetool",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2019-06-28T14:38:12Z",
-            "owner": "malayyoub",
-            "repo": "Ahkam-Al-Tajweed",
-            "stars": 8
+            "id": 85608100,
+            "language": "Java",
+            "last_commit": "2025-03-26T15:58:03Z",
+            "owner": "linuxscout",
+            "repo": "languagetool",
+            "stars": 22
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/HusseinYoussef/Arabic-OCR",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220806719,
+                "language": "Python",
+                "last_commit": "2023-10-04T00:56:52Z",
+                "owner": "HusseinYoussef",
+                "repo": "Arabic-OCR",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/SemanticFrontiers/ArabicNLP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9038421,
+                "language": "Python",
+                "last_commit": "2013-10-10T05:20:33Z",
+                "owner": "SemanticFrontiers",
+                "repo": "ArabicNLP",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/LiyuanLucasLiu/ArabicNER",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188776272,
+                "language": "Python",
+                "last_commit": "2020-03-12T15:13:12Z",
+                "owner": "LiyuanLucasLiu",
+                "repo": "ArabicNER",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/HassanAzzam/Arabic-NER",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149921623,
+                "language": "Python",
+                "last_commit": "2020-02-01T12:51:56Z",
+                "owner": "HassanAzzam",
+                "repo": "Arabic-NER",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/JubbaSmail/Arabic-Handwriting-Recognition-Using-Matlab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29541296,
+                "language": "Matlab",
+                "last_commit": "2016-09-19T04:07:07Z",
+                "owner": "JubbaSmail",
+                "repo": "Arabic-Handwriting-Recognition-Using-Matlab",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Fahad-Alsaidi/raqin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344044514,
+                "language": "JavaScript",
+                "last_commit": "2021-12-18T16:01:12Z",
+                "owner": "Fahad-Alsaidi",
+                "repo": "raqin",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/d7miiZ/Arabic-Font-Detector",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386312134,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-27T19:00:33Z",
+                "owner": "d7miiZ",
+                "repo": "Arabic-Font-Detector",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "استخراج الكلم من الصور"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ARBML/klaam",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353305030,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-30T08:50:06Z",
+                "owner": "ARBML",
+                "repo": "klaam",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/youssefsharief/arabic-tacotron-tts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152964992,
+                "language": "Python",
+                "last_commit": "2024-04-05T10:42:56Z",
+                "owner": "yoosif0",
+                "repo": "arabic-tacotron-tts",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/linuxscout/festival-tts-arabic-voices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272512631,
+                "language": "Scheme",
+                "last_commit": "2022-08-02T19:43:54Z",
+                "owner": "linuxscout",
+                "repo": "festival-tts-arabic-voices",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nawarhalabi/festival-tts-arabic-voices-docker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276913063,
+                "language": "Python",
+                "last_commit": "2021-02-12T17:36:25Z",
+                "owner": "nawarhalabi",
+                "repo": "festival-tts-arabic-voices-docker",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/asrajeh/arabic-tts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193238847,
+                "language": "Shell",
+                "last_commit": "2019-09-16T11:28:51Z",
+                "owner": "asrajeh",
+                "repo": "arabic-tts",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/malayyoub/Ahkam-Al-Tajweed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147501865,
+                "language": null,
+                "last_commit": "2019-06-28T14:38:12Z",
+                "owner": "malayyoub",
+                "repo": "Ahkam-Al-Tajweed",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "النص من وإلى الصوت"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Barqawiz/Shakkala",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112287108,
+                "language": "Python",
+                "last_commit": "2023-03-25T01:50:27Z",
+                "owner": "Barqawiz",
+                "repo": "Shakkala",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/linuxscout/mishkal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19991085,
+                "language": "Python",
+                "last_commit": "2025-09-18T19:01:04Z",
+                "owner": "linuxscout",
+                "repo": "mishkal",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AliOsm/shakkelha",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172766302,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-24T22:25:44Z",
+                "owner": "AliOsm",
+                "repo": "shakkelha",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AliOsm/arabic-text-diacritization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172094673,
+                "language": "Python",
+                "last_commit": "2026-04-07T17:55:31Z",
+                "owner": "AliOsm",
+                "repo": "arabic-text-diacritization",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "تشكيل الكلم"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/assem-ch/arabicstemmer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49428595,
+                "language": "Python",
+                "last_commit": "2026-02-16T11:33:42Z",
+                "owner": "assem-ch",
+                "repo": "arabicstemmer",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ejtaal/jsastem",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5371827,
+                "language": "JavaScript",
+                "last_commit": "2012-12-01T00:52:28Z",
+                "owner": "ejtaal",
+                "repo": "jsastem",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ج ذ ر الكلمة"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/linuxscout/qutrub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45793464,
+                "language": "Python",
+                "last_commit": "2023-07-31T16:27:18Z",
+                "owner": "linuxscout",
+                "repo": "qutrub",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/alsaydi/sarf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123865448,
+                "language": "Gherkin",
+                "last_commit": "2024-09-29T17:03:35Z",
+                "owner": "alsaydi",
+                "repo": "sarf",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "تصريف"
         }
       ],
-      "title": "النص من وإلى الصوت"
+      "title": "معالجة اللغات الطبيعية"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Barqawiz/Shakkala",
+          "title": "https://github.com/Gue3bara/Cairo",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-25T01:50:27Z",
-            "owner": "Barqawiz",
-            "repo": "Shakkala",
-            "stars": 355
+            "id": 38047357,
+            "language": "Shell",
+            "last_commit": "2023-03-06T15:42:38Z",
+            "owner": "Gue3bara",
+            "repo": "Cairo",
+            "stars": 193
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/mishkal",
+          "title": "https://github.com/aiaf/kawkab-mono",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-18T19:01:04Z",
-            "owner": "linuxscout",
-            "repo": "mishkal",
-            "stars": 318
+            "id": 45929178,
+            "language": null,
+            "last_commit": "2016-01-15T17:28:01Z",
+            "owner": "aiaf",
+            "repo": "kawkab-mono",
+            "stars": 169
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AliOsm/shakkelha",
+          "title": "https://github.com/aiaf/nimra",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-03-24T22:25:44Z",
-            "owner": "AliOsm",
-            "repo": "shakkelha",
-            "stars": 97
+            "id": 124781571,
+            "language": null,
+            "last_commit": "2018-03-14T14:09:56Z",
+            "owner": "aiaf",
+            "repo": "nimra",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "https://github.com/aliftype",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/aliftype/amiri",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39611099,
+                "language": "Python",
+                "last_commit": "2026-04-25T22:27:42Z",
+                "owner": "aliftype",
+                "repo": "amiri",
+                "stars": 472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/aliftype/aref-ruqaa",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34182455,
+                "language": "Makefile",
+                "last_commit": "2026-08-01T23:00:51Z",
+                "owner": "aliftype",
+                "repo": "aref-ruqaa",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/aliftype/qahiri",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245898205,
+                "language": "Makefile",
+                "last_commit": "2026-08-01T23:07:00Z",
+                "owner": "aliftype",
+                "repo": "qahiri",
+                "stars": 57
+              }
+            }
+          ]
+        }
+      ],
+      "title": "خطوط (منصدات الخط)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/drelhaj/OsmanReadability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44053917,
+            "language": "Java",
+            "last_commit": "2025-07-04T10:44:59Z",
+            "owner": "drelhaj",
+            "repo": "OsmanReadability",
+            "stars": 25
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AliOsm/arabic-text-diacritization",
+          "title": "https://github.com/KL13NT/AIUX",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-07T17:55:31Z",
-            "owner": "AliOsm",
-            "repo": "arabic-text-diacritization",
+            "id": 287436440,
+            "language": "SCSS",
+            "last_commit": "2021-04-21T03:00:44Z",
+            "owner": "KL13NT",
+            "repo": "AIUX",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "الوصولية (A11y)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/AqeelAT/arabic-apis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 354011542,
+            "language": null,
+            "last_commit": "2022-07-21T14:38:34Z",
+            "owner": "aqeelat",
+            "repo": "arabic-apis",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MohsenAlyafei/tafqit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286500883,
+            "language": "JavaScript",
+            "last_commit": "2022-02-28T09:04:58Z",
+            "owner": "MohsenAlyafei",
+            "repo": "tafqit",
             "stars": 78
           }
-        }
-      ],
-      "title": "تشكيل الكلم"
-    },
-    {
-      "description": "",
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "https://github.com/assem-ch/arabicstemmer",
+          "title": "https://github.com/latiif/ara",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-16T11:33:42Z",
-            "owner": "assem-ch",
-            "repo": "arabicstemmer",
-            "stars": 151
+            "id": 207110525,
+            "language": "Go",
+            "last_commit": "2026-08-07T16:02:06Z",
+            "owner": "latiif",
+            "repo": "ara",
+            "stars": 56
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ejtaal/jsastem",
+          "title": "https://github.com/imAbdelhadi/simplemde-rtl",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338800383,
             "language": "JavaScript",
-            "last_commit": "2012-12-01T00:52:28Z",
-            "owner": "ejtaal",
-            "repo": "jsastem",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "ج ذ ر الكلمة"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/linuxscout/qutrub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-31T16:27:18Z",
-            "owner": "linuxscout",
-            "repo": "qutrub",
-            "stars": 107
+            "last_commit": "2021-02-16T13:55:20Z",
+            "owner": "imAbdelhadi",
+            "repo": "simplemde-rtl",
+            "stars": 54
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/alsaydi/sarf",
+          "title": "https://github.com/mhsabbagh/mujallad",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Gherkin",
-            "last_commit": "2024-09-29T17:03:35Z",
-            "owner": "alsaydi",
-            "repo": "sarf",
-            "stars": 49
+            "id": 250834996,
+            "language": "HTML",
+            "last_commit": "2020-12-22T09:55:41Z",
+            "owner": "mhsabbagh",
+            "repo": "mujallad",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mhsabbagh/helallinux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9865960,
+            "language": "Python",
+            "last_commit": "2021-10-13T19:50:21Z",
+            "owner": "mhsabbagh",
+            "repo": "helallinux",
+            "stars": 19
           }
         }
       ],
-      "title": "تصريف"
+      "title": "تقنية - عام"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:47:26.987Z",
+    "last_updated": "2026-08-19T12:53:07.260Z",
     "original_repository": "mobadarah/tajmeeaton",
+    "original_repository_id": 326423100,
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
     "enhanced_repository_description": null,
