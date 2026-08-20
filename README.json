@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91709
+                "stars": 91759
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 11195700,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T18:07:20Z",
+                "last_commit": "2026-08-19T23:50:46Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20326
+                "stars": 20328
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-06-02T21:51:47Z",
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2864
+                "stars": 2865
               }
             }
           ],
@@ -1573,7 +1573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:47:30.314Z",
+    "last_updated": "2026-08-20T15:49:43.562Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_id": 326423100,
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
