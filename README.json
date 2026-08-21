@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91759
+                "stars": 91825
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-19T23:50:46Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20328
+                "stars": 20332
               }
             },
             {
@@ -260,7 +260,7 @@
                     "last_commit": "2023-04-02T13:41:49Z",
                     "owner": "quran",
                     "repo": "ayah-detection",
-                    "stars": 113
+                    "stars": 112
                   }
                 },
                 {
@@ -299,7 +299,7 @@
                 "last_commit": "2023-03-29T02:51:13Z",
                 "owner": "batoulapps",
                 "repo": "Adhan",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -456,7 +456,7 @@
                 "last_commit": "2026-01-06T21:01:55Z",
                 "owner": "galacticwarrior9",
                 "repo": "IslamBot",
-                "stars": 110
+                "stars": 111
               }
             },
             {
@@ -815,7 +815,7 @@
             "last_commit": "2022-10-17T00:26:39Z",
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 727
+            "stars": 728
           }
         },
         {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2023-09-30T08:50:06Z",
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 433
+                "stars": 434
               }
             },
             {
@@ -1206,7 +1206,7 @@
                 "last_commit": "2023-03-25T01:50:27Z",
                 "owner": "Barqawiz",
                 "repo": "Shakkala",
-                "stars": 355
+                "stars": 356
               }
             },
             {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2026-04-07T17:55:31Z",
                 "owner": "AliOsm",
                 "repo": "arabic-text-diacritization",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -1366,7 +1366,7 @@
             "last_commit": "2016-01-15T17:28:01Z",
             "owner": "aiaf",
             "repo": "kawkab-mono",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -1573,7 +1573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:49:43.562Z",
+    "last_updated": "2026-08-21T15:49:48.013Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_id": 326423100,
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",

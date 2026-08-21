@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 552 | 🐛 19 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 551 | 🐛 19 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,759 | 🐛 487 | 🌐 Python | 📅 2026-08-18
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,328 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-19, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,825 | 🐛 487 | 🌐 Python | 📅 2026-08-18
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,332 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-19, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,865 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -250,7 +250,7 @@
 
 * <https://github.com/quran>
 
-  * <https://github.com/quran/ayah-detection> ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2023-04-02
+  * <https://github.com/quran/ayah-detection> ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2023-04-02
 
     <span dir=rtl>بسم الله الرحمن الرحيم Quran utils is a set of scripts for detecting ayat in quran images. it's very rough, but it definitely works (tested on 3 sets of images - shamerly, qaloon, and warsh images). ayat.py - detects ayah images in a particular image.</span>
 
@@ -270,7 +270,7 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 403 | 🐛 2 | 📅 2023-03-29
+* <https://github.com/batoulapps/Adhan> ⭐ 404 | 🐛 2 | 📅 2023-03-29
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
@@ -322,7 +322,7 @@
 
   <span dir=ltr>is a python islamic library, it can calculates prayer times, qibla direction, convert between gregorian and hijri, calculate zakat and mirath. Actually, the library can does: Simply run: Note that the pip package name is islam and not pyIslam, pyIslam is taken by another project on PyPi.</span>
 
-* <https://github.com/galacticwarrior9/IslamBot> ⭐ 110 | 🐛 17 | 🌐 Python | 📅 2026-01-06
+* <https://github.com/galacticwarrior9/IslamBot> ⭐ 111 | 🐛 17 | 🌐 Python | 📅 2026-01-06
 
   <span dir=ltr>An Islamic bot for Discord with the following features: Qur'an, with support for 100+ translations. Tafsir, with 9 available in English and 37 in Arabic. Hadith in English and Arabic, from sunnah.com. Prayer times for any location in the world, with the ability to set reminders and change the calculation method.</span>
 
@@ -420,7 +420,7 @@
 
 ## لغير العرب
 
-* <https://github.com/ejtaal/mr> ⭐ 72 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-29
+* <https://github.com/ejtaal/mr> ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-29
 
   <span dir=ltr>Arabic - English word based dictionaries compilation - ejtaal/mr</span>
 
@@ -438,7 +438,7 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 727 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 728 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
@@ -528,7 +528,7 @@
 
 ## النص من وإلى الصوت
 
-* <https://github.com/ARBML/klaam> ⭐ 433 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
+* <https://github.com/ARBML/klaam> ⭐ 434 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
 
   <span dir=ltr>Arabic speech recognition, classification and text-to-speech using many advanced models like wave2vec and fastspeech2. This repository allows training and prediction using pretrained models. There are two avilable models for recognition trageting MSA and egyptian dialect . You can set any of them using the lang attribute We currently support four models, three of them are avilable on transformers.</span>
 
@@ -572,7 +572,7 @@
 
 ## تشكيل الكلم
 
-* <https://github.com/Barqawiz/Shakkala> ⭐ 355 | 🐛 5 | 🌐 Python | 📅 2023-03-25
+* <https://github.com/Barqawiz/Shakkala> ⭐ 356 | 🐛 5 | 🌐 Python | 📅 2023-03-25
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
@@ -584,7 +584,7 @@
 
   <span dir=ltr>This repository contains the models, dataset, helpers, and systems' comparison for our paper on Arabic Text Diacritization: " Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation", Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh and Mahmoud Al-Ayyoub, EMNLP-IJCNLP 2019.</span>
 
-* <https://github.com/AliOsm/arabic-text-diacritization> ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2026-04-07
+* <https://github.com/AliOsm/arabic-text-diacritization> ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2026-04-07
 
   <span dir=ltr>This repository contains the dataset, helpers, and systems comparison for our paper on Arabic Text Diacritization: " Arabic Text Diacritization Using Deep Neural Networks", Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh, and Mahmoud Al-Ayyoub, ICCAIS 2019.</span>
 
@@ -632,7 +632,7 @@
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
-* <https://github.com/aiaf/kawkab-mono> ⭐ 169 | 🐛 9 | 📅 2016-01-15
+* <https://github.com/aiaf/kawkab-mono> ⭐ 170 | 🐛 9 | 📅 2016-01-15
 
   <span dir=ltr>Kawkab Mono (كوكب مونو) is a monospaced Arabic typeface. It's designed for code and text-editing in particular, and whenever having a fixed-pitch font is necessary, such as when composing tabular data using text. There's a dearth in monospaced Arabic fonts and Kawkab comes to fill a void in this niche.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
