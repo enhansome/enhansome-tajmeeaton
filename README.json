@@ -1,8 +1,164 @@
 {
   "items": [
     {
+      "description": "ملاحظات:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/mobadarah/tajmeeaton/issues/7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326423100,
+            "language": "Python",
+            "last_commit": "2024-04-24T13:54:08Z",
+            "owner": "mobadarah",
+            "repo": "tajmeeaton",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mobadarah/tajmeeaton/discussions/11",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326423100,
+            "language": "Python",
+            "last_commit": "2024-04-24T13:54:08Z",
+            "owner": "mobadarah",
+            "repo": "tajmeeaton",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في .\\انتج-ملف-اقرأني",
+          "description": "، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326423100,
+            "language": "Python",
+            "last_commit": "2024-04-24T13:54:08Z",
+            "owner": "mobadarah",
+            "repo": "tajmeeaton",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/choubari/Awesome-Muslims",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357182222,
+            "language": null,
+            "last_commit": "2026-07-15T15:58:43Z",
+            "owner": "choubari",
+            "repo": "Awesome-Muslims",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/abdumostafa/awesome-in-arabic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247261230,
+            "language": null,
+            "last_commit": "2024-01-09T08:50:08Z",
+            "owner": "abdumostafa",
+            "repo": "awesome-in-arabic",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/01walid/awesome-arabic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42784577,
+            "language": null,
+            "last_commit": "2026-06-09T14:00:51Z",
+            "owner": "01walid",
+            "repo": "awesome-arabic",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/AhmedKamal/awesome-Islam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45251821,
+            "language": null,
+            "last_commit": "2025-04-05T20:44:29Z",
+            "owner": "AhmedKamal",
+            "repo": "awesome-Islam",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/linuxscout/arabicnlptoolslist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161761938,
+            "language": null,
+            "last_commit": "2022-12-17T20:09:48Z",
+            "owner": "linuxscout",
+            "repo": "arabicnlptoolslist",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/aissa-bouguern/arabic-programming-blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 402853343,
+            "language": null,
+            "last_commit": "2024-01-22T19:26:03Z",
+            "owner": "aissa-bouguern",
+            "repo": "arabic-programming-blogs",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "مجموعة من المشاريع المطلوب تواجدها بدلا من العمل على مشاريع موجودة وإعادة اختراع العجلة، وإذا كنت تريد تنمية مهاراتك في مشاريع بسيطة والمشاريع المطلوبة تتطلب خبرة وجهدا، أو ليست في مجالك وأردت المساهمة، ساهم في تنمية المشاريع الموجودة بالفعل، ستجد الكثير قد مضى عليه فترة من الزمن، ويحتاج بعض التحديثات والتنمية.\nملاحظات:\nمقتراحات ورُؤى أخرى:",
       "items": [
+        {
+          "node_type": "item",
+          "title": "هنا مستودع KL14NT/AIUX",
+          "description": "وتجد نقاشات عن مشاريع يتطلب وجودها، وما هو موجود هنا مشكلات واجهتني شخصيا في مشاريع تتعلق باللغة العربية، وبعضها من تفيكري وعصف الذهن، والآخر رأيت بعض الناس يريدونها أو يتناقشون عنها.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287436440,
+            "language": "SCSS",
+            "last_commit": "2021-04-21T03:00:44Z",
+            "owner": "KL13NT",
+            "repo": "AIUX",
+            "stars": 18
+          }
+        },
         {
           "children": [
             {
@@ -17,7 +173,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91950
+                "stars": 91995
               }
             },
             {
@@ -29,10 +185,10 @@
                 "archived": false,
                 "id": 11195700,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T10:23:46Z",
+                "last_commit": "2026-08-23T22:42:33Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20334
+                "stars": 20337
               }
             },
             {
@@ -48,6 +204,21 @@
                 "owner": "mathquill",
                 "repo": "mathquill",
                 "stars": 2865
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/OmarIthawi/arabic-mathjax",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117674462,
+                "language": "JavaScript",
+                "last_commit": "2026-07-01T10:33:21Z",
+                "owner": "OmarIthawi",
+                "repo": "arabic-mathjax",
+                "stars": 30
               }
             }
           ],
@@ -120,7 +291,7 @@
                 "last_commit": "2021-10-12T16:20:18Z",
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 185
+                "stars": 186
               }
             },
             {
@@ -411,6 +582,28 @@
           "description": null,
           "node_type": "group",
           "title": "صلاة"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/AbdelrahmanBayoumi/Azkar-App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290850826,
+                "language": "Java",
+                "last_commit": "2026-08-08T15:03:54Z",
+                "owner": "AbdelrahmanBayoumi",
+                "repo": "Azkar-App",
+                "stars": 140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "أذكار"
         },
         {
           "children": [
@@ -776,7 +969,7 @@
             "archived": false,
             "id": 202420542,
             "language": "HTML",
-            "last_commit": "2026-08-17T05:00:08Z",
+            "last_commit": "2026-08-24T05:00:10Z",
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
             "stars": 65
@@ -1196,6 +1389,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://github.com/sohaibafifi/languagetool-tools-ar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231960817,
+                "language": "Java",
+                "last_commit": "2020-05-17T17:15:53Z",
+                "owner": "sohaibafifi",
+                "repo": "languagetool-tools-ar",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "تصحيح الأخطاء ✅️"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "https://github.com/Barqawiz/Shakkala",
               "description": null,
               "children": [],
@@ -1325,13 +1540,35 @@
                 "last_commit": "2024-09-29T17:03:35Z",
                 "owner": "alsaydi",
                 "repo": "sarf",
-                "stars": 49
+                "stars": 50
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "تصريف"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/hayderkharrufa/arabic_poem_generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260945091,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-12-13T17:23:56Z",
+                "owner": "hayderkharrufa",
+                "repo": "arabic_poem_generator",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "الشعر - انتاج شعر"
         }
       ],
       "title": "معالجة اللغات الطبيعية"
@@ -1573,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:38:21.118Z",
+    "last_updated": "2026-08-24T14:29:59.961Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_id": 326423100,
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",

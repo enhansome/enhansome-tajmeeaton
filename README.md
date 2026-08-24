@@ -107,8 +107,8 @@
 
 **مقتراحات ورُؤى أخرى:**
 
-1. هنا على مدونة عرب آيز تجد [مجموعة من المشاريع](https://www.arabeyes.org/ArabeyesTodo) التي رأوا أن العربية بحاجة لها.
-2. هنا [مستودع KL14NT/AIUX](https://github.com/KL13NT/AIUX) ⭐ 18 | 🐛 6 | 🌐 SCSS | 📅 2021-04-21 وتجد نقاشات عن مشاريع يتطلب وجودها، وما هو موجود هنا مشكلات واجهتني شخصيا في مشاريع تتعلق باللغة العربية، وبعضها من تفيكري وعصف الذهن، والآخر رأيت بعض الناس يريدونها أو يتناقشون عنها.
+1. هنا [مستودع KL14NT/AIUX](https://github.com/KL13NT/AIUX) ⭐ 18 | 🐛 6 | 🌐 SCSS | 📅 2021-04-21 وتجد نقاشات عن مشاريع يتطلب وجودها، وما هو موجود هنا مشكلات واجهتني شخصيا في مشاريع تتعلق باللغة العربية، وبعضها من تفيكري وعصف الذهن، والآخر رأيت بعض الناس يريدونها أو يتناقشون عنها.
+2. هنا على مدونة عرب آيز تجد [مجموعة من المشاريع](https://www.arabeyes.org/ArabeyesTodo) التي رأوا أن العربية بحاجة لها.
 
 ## مصيرات ومحررات المعادلات
 
@@ -116,21 +116,21 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 91,950 | 🐛 487 | 🌐 Python | 📅 2026-08-18
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,334 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-23, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 91,995 | 🐛 488 | 🌐 Python | 📅 2026-08-18
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,337 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-23, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,865 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
 **ومثال على هذا:**
 
-* <https://khatt.org/>
-
-  <span dir=rtl>خط سين: نظام تنضيد (كتابة) الرياضيات بالعربية Khatt.Seen: Arabic Mathematical Notation Typesetting System أدخل أوامر هنا: الصور الناتجة عن نظام خط.س مرخصة تحت الملكية العامة. Images rendered by Khatt.Seen are under public domain license.</span>
-
 * <https://github.com/OmarIthawi/arabic-mathjax> ⭐ 30 | 🐛 18 | 🌐 JavaScript | 📅 2026-07-01
 
   <span dir=ltr>This is an extension to MathJax (v2.5+), that provides basic Arabic support to MathJax. The extension so far only supports TeX input with HTML-CSS output. However, support to other input and output jaxes is possible. It provides the following: Flip the Equation and render it the Right-to-left (RTL) way!</span>
+
+* <https://khatt.org/>
+
+  <span dir=rtl>خط سين: نظام تنضيد (كتابة) الرياضيات بالعربية Khatt.Seen: Arabic Mathematical Notation Typesetting System أدخل أوامر هنا: الصور الناتجة عن نظام خط.س مرخصة تحت الملكية العامة. Images rendered by Khatt.Seen are under public domain license.</span>
 
 * <https://play.google.com/store/apps/details?id=com.kahraba4u.jabr> <span dir=rtl>جبر: أول برنامج أندرويد يمكنه حل مسائل رياضيات وعرضها بالصيغ والأرقام العربية لكن للأسف ليس مفتوح المصدر.</span>
 
@@ -212,7 +212,7 @@
 
   <span dir=ltr>This repo is designed to house code related to Tarteel machine learning related tasks. 🔬 Specifically, things like: Model selection ✅ Preprocessing of data 🔉 Model training, validation, and and iteration 🔁 Code here is mostly experimental so check back regularly for updates. If you found this repo helpful, please keep it's contributors in your duaa 🙌.</span>
 
-* <https://github.com/cpfair/quran-tajweed> ⭐ 185 | 🐛 7 | 🌐 Python | 📅 2021-10-12
+* <https://github.com/cpfair/quran-tajweed> ⭐ 186 | 🐛 7 | 🌐 Python | 📅 2021-10-12
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
@@ -274,7 +274,7 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 44 | 🌐 Java | 📅 2026-08-08
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 46 | 🌐 Java | 📅 2026-08-08
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 44 | 🌐 Java | 📅 2026-08-08
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 46 | 🌐 Java | 📅 2026-08-08
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -426,7 +426,7 @@
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 65 | 🐛 19 | 🌐 HTML | 📅 2026-08-17
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 65 | 🐛 19 | 🌐 HTML | 📅 2026-08-24
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 489 | 🐛 16 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 489 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -558,13 +558,13 @@
 
 ## تصحيح الأخطاء ✅️
 
-* <http://ghalatawi.sourceforge.net/>
-
-  <span dir=rtl>التصحيح الإملائي من أهم الأدوات المستعملة في النشر والكتابة الإلكترونية، وتستعمل في البحث والاستعلامات، كما يعد من أهم الأدوات المرافقة للبرامج المكتبية. وفي بعض الحالات نحتاج لما يسمى بالتصحيح التلقائي للكلمات، وهو اقتراح تصحيح لأخطاء شائعة في الكتابة، مثل قلب حرفين، أو عدم الضغط على زر ما لإعطاء كلمة خاطئة، وتشيع في الكتابة بالعربية بعض الأخطاء مثل عدم التفريق بين همزة الوصل وهمزة القطع، والخلط بين الضاد والظاء، وإغفال نقطتي الياء، وكتابة التاء المربوطة هاء.</span>
-
 * <https://github.com/sohaibafifi/languagetool-tools-ar> ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2020-05-17
 
   <span dir=ltr>Dev Tools for Arabic and LanguageTool Most tools are extracted from languagetool and slightly adapted to Arabic. 1 - download the languagetool-tools-ar-4.8-jar-with-dependencies.jar from releases 2 - download the latest arwiki-latest-pages-articles.xml.bz2 from <http://dumps.wikimedia.org/arwiki/latest/>. java -cp languagetool-tools-ar-4.8-jar-with-dependencies.jar org.languagetool.dev.tools.WikipediaSentenceExtractor arwiki-latest-pages-articles.xml arwiki-latest-pages-articles.txt java -cp languagetool-tools-ar-4.8-jar-with-dependencies.jar org.languagetool.dev.tools.TextIndexCreator index arwiki-latest-pages-articles.txt java -cp languagetool-tools-ar-4.8-jar-with-dependencies.jar org.languagetool.dev.tools.TextToNgram arwiki-latest-pages-articles.txt ngrams</span>
+
+* <http://ghalatawi.sourceforge.net/>
+
+  <span dir=rtl>التصحيح الإملائي من أهم الأدوات المستعملة في النشر والكتابة الإلكترونية، وتستعمل في البحث والاستعلامات، كما يعد من أهم الأدوات المرافقة للبرامج المكتبية. وفي بعض الحالات نحتاج لما يسمى بالتصحيح التلقائي للكلمات، وهو اقتراح تصحيح لأخطاء شائعة في الكتابة، مثل قلب حرفين، أو عدم الضغط على زر ما لإعطاء كلمة خاطئة، وتشيع في الكتابة بالعربية بعض الأخطاء مثل عدم التفريق بين همزة الوصل وهمزة القطع، والخلط بين الضاد والظاء، وإغفال نقطتي الياء، وكتابة التاء المربوطة هاء.</span>
 
 * <https://gitlab.com/arabeyes-dev/duali>
 
@@ -604,7 +604,7 @@
 
   <span dir=ltr>Qutrub: Arabic verb conjugation software قطرب: تصريف الأفعال العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com pyarabic>=0.6.2 enable mod\_python in Apache extract the qutrub package and run it from the web. The program don't need a database.</span>
 
-* <https://github.com/alsaydi/sarf> ⭐ 49 | 🐛 7 | 🌐 Gherkin | 📅 2024-09-29
+* <https://github.com/alsaydi/sarf> ⭐ 50 | 🐛 7 | 🌐 Gherkin | 📅 2024-09-29
 
   <span dir=ltr>I found the source code posted on sourceforge here <https://sourceforge.net/projects/sarf/files/sarf/sarf%201.0/>. The code is also hosted by others. Here is an example: <https://raw.githubusercontent.com/linuxscout/sarf>. The original Sarf code contains a tremendous effort and handles numerous cases. Also, it has invaluable documentation Documentations I wanted to keep the Sarf program available for others who may find it useful for their purposes.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
