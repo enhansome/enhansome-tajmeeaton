@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mobadarah/tajmeeaton/issues/7",
+          "title": "mobadarah/tajmeeaton",
           "description": null,
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mobadarah/tajmeeaton/discussions/11",
+          "title": "mobadarah/tajmeeaton",
           "description": null,
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/choubari/Awesome-Muslims",
+          "title": "choubari/Awesome-Muslims",
           "description": null,
           "children": [],
           "repo_info": {
@@ -60,12 +60,12 @@
             "last_commit": "2026-07-15T15:58:43Z",
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 611
+            "stars": 614
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/abdumostafa/awesome-in-arabic",
+          "title": "abdumostafa/awesome-in-arabic",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/01walid/awesome-arabic",
+          "title": "01walid/awesome-arabic",
           "description": null,
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AhmedKamal/awesome-Islam",
+          "title": "AhmedKamal/awesome-Islam",
           "description": null,
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/arabicnlptoolslist",
+          "title": "linuxscout/arabicnlptoolslist",
           "description": null,
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aissa-bouguern/arabic-programming-blogs",
+          "title": "aissa-bouguern/arabic-programming-blogs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 91998
+                "stars": 92016
               }
             },
             {
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 11195700,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T22:42:33Z",
+                "last_commit": "2026-08-24T18:22:16Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20338
+                "stars": 20340
               }
             },
             {
@@ -203,12 +203,12 @@
                 "last_commit": "2025-06-02T21:51:47Z",
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2865
+                "stars": 2864
               }
             },
             {
               "node_type": "item",
-              "title": "https://github.com/OmarIthawi/arabic-mathjax",
+              "title": "OmarIthawi/arabic-mathjax",
               "description": null,
               "children": [],
               "repo_info": {
@@ -236,7 +236,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Alfanous-team/alfanous",
+              "title": "Alfanous-team/alfanous",
               "description": null,
               "children": [],
               "repo_info": {
@@ -251,7 +251,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Mohamed-Nagdy/Quran-App-Data",
+              "title": "Mohamed-Nagdy/Quran-App-Data",
               "description": null,
               "children": [],
               "repo_info": {
@@ -266,7 +266,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Tarteel-io/tarteel-ml",
+              "title": "TarteelAI/tarteel-ml",
               "description": null,
               "children": [],
               "repo_info": {
@@ -281,7 +281,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/cpfair/quran-tajweed",
+              "title": "cpfair/quran-tajweed",
               "description": null,
               "children": [],
               "repo_info": {
@@ -296,7 +296,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/hci-lab/PyQuran",
+              "title": "hci-lab/PyQuran",
               "description": null,
               "children": [],
               "repo_info": {
@@ -311,7 +311,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Qutuf/Qutuf",
+              "title": "Qutuf/Qutuf",
               "description": null,
               "children": [],
               "repo_info": {
@@ -326,7 +326,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/bilalbentoumi/qurandatabase",
+              "title": "bilalbentoumi/quran-database",
               "description": null,
               "children": [],
               "repo_info": {
@@ -341,7 +341,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ojuba-org/othman",
+              "title": "ojuba-org/othman",
               "description": null,
               "children": [],
               "repo_info": {
@@ -356,7 +356,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Crescent-Labs/iqra-web",
+              "title": "Crescent-Labs/iqra-web",
               "description": null,
               "children": [],
               "repo_info": {
@@ -371,7 +371,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/yucefsourani/albasheer-electronic-quran-browser",
+              "title": "yucefsourani/albasheer-electronic-quran-browser",
               "description": null,
               "children": [],
               "repo_info": {
@@ -386,7 +386,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/malayyoub/Ahkam-Al-Tajweed",
+              "title": "malayyoub/Ahkam-Al-Tajweed",
               "description": null,
               "children": [],
               "repo_info": {
@@ -401,7 +401,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/moroclash/Visualization-Of-Quran",
+              "title": "moroclash/Visualization-Of-Quran",
               "description": null,
               "children": [],
               "repo_info": {
@@ -421,7 +421,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/quran/ayah-detection",
+                  "title": "quran/ayah-detection",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -436,7 +436,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/quran/tajweed",
+                  "title": "quran/tajweed",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -460,7 +460,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/batoulapps/Adhan",
+              "title": "batoulapps/Adhan",
               "description": null,
               "children": [],
               "repo_info": {
@@ -475,7 +475,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/AbdelrahmanBayoumi/Azkar-App",
+              "title": "AbdelrahmanBayoumi/Azkar-App",
               "description": null,
               "children": [],
               "repo_info": {
@@ -490,7 +490,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt",
+              "title": "Mosque-Screens/Mosque-Screen",
               "description": null,
               "children": [],
               "repo_info": {
@@ -505,7 +505,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/AbdeltwabMF/nxprayer",
+              "title": "AbdeltwabMF/next-prayer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -520,7 +520,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/insha/salah",
+              "title": "insha/salah",
               "description": null,
               "children": [],
               "repo_info": {
@@ -535,7 +535,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/meltuhamy/belfastsalah",
+              "title": "meltuhamy/belfastsalah",
               "description": null,
               "children": [],
               "repo_info": {
@@ -550,7 +550,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/meltuhamy/masjid-times",
+              "title": "meltuhamy/masjid-times",
               "description": null,
               "children": [],
               "repo_info": {
@@ -565,7 +565,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/hayalasalah/adhan.py",
+              "title": "hayalasalah/adhan.py",
               "description": null,
               "children": [],
               "repo_info": {
@@ -587,7 +587,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/AbdelrahmanBayoumi/Azkar-App",
+              "title": "AbdelrahmanBayoumi/Azkar-App",
               "description": null,
               "children": [],
               "repo_info": {
@@ -609,7 +609,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/choubari/Muslim-App",
+              "title": "choubari/Muslim-App",
               "description": null,
               "children": [],
               "repo_info": {
@@ -624,7 +624,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/abougouffa/pyIslam",
+              "title": "abougouffa/pyIslam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -639,7 +639,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/galacticwarrior9/IslamBot",
+              "title": "galacticwarrior9/IslamBot",
               "description": null,
               "children": [],
               "repo_info": {
@@ -654,7 +654,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/arabeyes-org/ITL",
+              "title": "arabeyes-org/ITL",
               "description": null,
               "children": [],
               "repo_info": {
@@ -669,7 +669,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/challenge-azkar/tanafaso-frontend",
+              "title": "tanafaso/tanafaso",
               "description": null,
               "children": [],
               "repo_info": {
@@ -684,7 +684,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/eneserdogan/iftar",
+              "title": "eneserdogan/iftar",
               "description": null,
               "children": [],
               "repo_info": {
@@ -699,7 +699,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/AhmedAshrafAZ/BoycottFrench",
+              "title": "AhmedAshrafAZ/BoycottFrench",
               "description": null,
               "children": [],
               "repo_info": {
@@ -725,7 +725,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/softvenue/i18n",
+          "title": "softvenue/i18n",
           "description": null,
           "children": [],
           "repo_info": {
@@ -740,7 +740,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aosus/arabic-tech-dictionary/",
+          "title": "aosus/aosus-dictionary",
           "description": null,
           "children": [],
           "repo_info": {
@@ -755,7 +755,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/01walid/Nibras",
+          "title": "01walid/Nibras",
           "description": null,
           "children": [],
           "repo_info": {
@@ -770,7 +770,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/OmarIthawi/arabic-mathjax",
+          "title": "OmarIthawi/arabic-mathjax",
           "description": null,
           "children": [],
           "repo_info": {
@@ -785,7 +785,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/forabi/arabic-tech-terminology",
+          "title": "forabi/arabic-tech-terminology",
           "description": null,
           "children": [],
           "repo_info": {
@@ -806,7 +806,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/nasser/---",
+          "title": "nasser/---",
           "description": null,
           "children": [],
           "repo_info": {
@@ -821,7 +821,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SimplyAhmazing/noor",
+          "title": "SimplyAhmazing/noor",
           "description": null,
           "children": [],
           "repo_info": {
@@ -836,7 +836,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/javascript-in-arabic/core",
+          "title": "arabi-js/arabi",
           "description": null,
           "children": [],
           "repo_info": {
@@ -851,7 +851,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/alifcommunity/compiler",
+          "title": "alifcommunity/compiler",
           "description": null,
           "children": [],
           "repo_info": {
@@ -866,7 +866,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Alusus/Alusus",
+          "title": "Alusus/Alusus",
           "description": null,
           "children": [],
           "repo_info": {
@@ -881,7 +881,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/fakoua/labiba",
+          "title": "fakoua/labiba",
           "description": null,
           "children": [],
           "repo_info": {
@@ -896,7 +896,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mobadarah/kalimat-lang",
+          "title": "mobadarah/kalimat-lang",
           "description": null,
           "children": [],
           "repo_info": {
@@ -911,7 +911,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mobadarah/Ammoria",
+          "title": "mobadarah/Ammoria",
           "description": null,
           "children": [],
           "repo_info": {
@@ -926,7 +926,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/alkhawarizm/examples",
+          "title": "alkhawarizm/examples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -941,7 +941,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/KL13NT/nabdjs",
+          "title": "KL13NT/nabdjs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -962,7 +962,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/javascript-tutorial/ar.javascript.info",
+          "title": "javascript-tutorial/ar.javascript.info",
           "description": null,
           "children": [],
           "repo_info": {
@@ -977,7 +977,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic",
+          "title": "imAbdelhadi/coursera-subtitle-translation-arabic",
           "description": null,
           "children": [],
           "repo_info": {
@@ -998,7 +998,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/aub-mind/arabert",
+          "title": "aub-mind/arabert",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1013,7 +1013,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/pyarabic",
+          "title": "linuxscout/pyarabic",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1028,7 +1028,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mpcabd/python-arabic-reshaper",
+          "title": "mpcabd/python-arabic-reshaper",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1043,7 +1043,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/HusseinYoussef/Arabic-OCR",
+          "title": "HusseinYoussef/Arabic-OCR",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1058,7 +1058,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/arabicnlptoolslist",
+          "title": "linuxscout/arabicnlptoolslist",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1073,7 +1073,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ARBML/tnkeeh",
+          "title": "ARBML/tnkeeh",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1088,7 +1088,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/maidaly/Arabic_OCR",
+          "title": "maidaly/Arabic_OCR",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1103,7 +1103,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/adawat",
+          "title": "linuxscout/adawat",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1118,7 +1118,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MTG/ArabicTransliterator",
+          "title": "MTG/ArabicTransliterator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1133,7 +1133,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/ayaspell",
+          "title": "linuxscout/ayaspell",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1148,7 +1148,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rozester/Arabic-Word-Embeddings-Word2vec",
+          "title": "rozester/Arabic-Word-Embeddings-Word2vec",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1163,7 +1163,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linuxscout/languagetool",
+          "title": "linuxscout/languagetool",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1180,7 +1180,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/HusseinYoussef/Arabic-OCR",
+              "title": "HusseinYoussef/Arabic-OCR",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1195,7 +1195,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/SemanticFrontiers/ArabicNLP",
+              "title": "SemanticFrontiers/ArabicNLP",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1210,7 +1210,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/LiyuanLucasLiu/ArabicNER",
+              "title": "LiyuanLucasLiu/ArabicNER",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1225,7 +1225,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/HassanAzzam/Arabic-NER",
+              "title": "HassanAzzam/Arabic-NER",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1240,7 +1240,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/JubbaSmail/Arabic-Handwriting-Recognition-Using-Matlab",
+              "title": "JubbaSmail/Arabic-Handwriting-Recognition-Using-Matlab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1255,7 +1255,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Fahad-Alsaidi/raqin",
+              "title": "Fahad-Alsaidi/raqin",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1270,7 +1270,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/d7miiZ/Arabic-Font-Detector",
+              "title": "d7miiZ/Arabic-Font-Detector",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1292,7 +1292,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/ARBML/klaam",
+              "title": "ARBML/klaam",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1307,7 +1307,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/youssefsharief/arabic-tacotron-tts",
+              "title": "yoosif0/arabic-tacotron-tts",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1322,7 +1322,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/linuxscout/festival-tts-arabic-voices",
+              "title": "linuxscout/festival-tts-arabic-voices",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1337,7 +1337,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/nawarhalabi/festival-tts-arabic-voices-docker",
+              "title": "nawarhalabi/festival-tts-arabic-voices-docker",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1352,7 +1352,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/asrajeh/arabic-tts",
+              "title": "asrajeh/arabic-tts",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1367,7 +1367,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/malayyoub/Ahkam-Al-Tajweed",
+              "title": "malayyoub/Ahkam-Al-Tajweed",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1389,7 +1389,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/sohaibafifi/languagetool-tools-ar",
+              "title": "sohaibafifi/languagetool-tools-ar",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1411,7 +1411,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Barqawiz/Shakkala",
+              "title": "Barqawiz/Shakkala",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1426,7 +1426,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/linuxscout/mishkal",
+              "title": "linuxscout/mishkal",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1441,7 +1441,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/AliOsm/shakkelha",
+              "title": "AliOsm/shakkelha",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1456,7 +1456,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/AliOsm/arabic-text-diacritization",
+              "title": "AliOsm/arabic-text-diacritization",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1478,7 +1478,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/assem-ch/arabicstemmer",
+              "title": "assem-ch/arabicstemmer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1493,7 +1493,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ejtaal/jsastem",
+              "title": "ejtaal/jsastem",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1515,7 +1515,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/linuxscout/qutrub",
+              "title": "linuxscout/qutrub",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1530,7 +1530,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/alsaydi/sarf",
+              "title": "alsaydi/sarf",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1552,7 +1552,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/hayderkharrufa/arabic_poem_generator",
+              "title": "hayderkharrufa/arabic_poem_generator",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1578,7 +1578,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Gue3bara/Cairo",
+          "title": "Gue3bara/Cairo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1593,7 +1593,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aiaf/kawkab-mono",
+          "title": "aiaf/kawkab-mono",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1608,7 +1608,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aiaf/nimra",
+          "title": "aiaf/nimra",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1628,7 +1628,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/aliftype/amiri",
+              "title": "aliftype/amiri",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1643,7 +1643,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/aliftype/aref-ruqaa",
+              "title": "aliftype/aref-ruqaa",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1658,7 +1658,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/aliftype/qahiri",
+              "title": "aliftype/qahiri",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1681,7 +1681,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/drelhaj/OsmanReadability",
+          "title": "drelhaj/OsmanReadability",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1696,7 +1696,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/KL13NT/AIUX",
+          "title": "KL13NT/AIUX",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1717,7 +1717,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/AqeelAT/arabic-apis",
+          "title": "aqeelat/arabic-apis",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1732,7 +1732,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MohsenAlyafei/tafqit",
+          "title": "MohsenAlyafei/tafqit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1747,7 +1747,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/latiif/ara",
+          "title": "latiif/ara",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1762,7 +1762,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/imAbdelhadi/simplemde-rtl",
+          "title": "imAbdelhadi/simplemde-rtl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1777,7 +1777,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mhsabbagh/mujallad",
+          "title": "mhsabbagh/mujallad",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1792,7 +1792,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mhsabbagh/helallinux",
+          "title": "mhsabbagh/helallinux",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1810,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:56:56.198Z",
+    "last_updated": "2026-08-25T06:23:50.946Z",
     "original_repository": "mobadarah/tajmeeaton",
     "original_repository_id": 326423100,
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
