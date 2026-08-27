@@ -60,7 +60,7 @@
             "last_commit": "2026-07-15T15:58:43Z",
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 614
+            "stars": 613
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-09T14:00:51Z",
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 559
+            "stars": 560
           }
         },
         {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92073
+                "stars": 92104
               }
             },
             {
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 11195700,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T11:43:06Z",
+                "last_commit": "2026-08-26T21:58:11Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20340
+                "stars": 20342
               }
             },
             {
@@ -816,7 +816,7 @@
             "last_commit": "2024-03-09T23:34:07Z",
             "owner": "nasser",
             "repo": "---",
-            "stars": 797
+            "stars": 798
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2018-11-05T17:08:19Z",
             "owner": "SimplyAhmazing",
             "repo": "noor",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -1810,9 +1810,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:34:29.095Z",
-    "original_repository": "mobadarah/tajmeeaton",
-    "original_repository_id": 326423100,
+    "last_updated": "2026-08-27T12:04:55.210Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 326423100,
+      "language": "Python",
+      "last_commit": "2024-04-24T13:54:08Z",
+      "owner": "mobadarah",
+      "repo": "tajmeeaton",
+      "stars": 342
+    },
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
     "enhanced_repository_description": null,
