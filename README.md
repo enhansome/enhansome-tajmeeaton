@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,104 | 🐛 490 | 🌐 Python | 📅 2026-08-18
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,342 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-26, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 92,121 | 🐛 490 | 🌐 Python | 📅 2026-08-18
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,342 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-27, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,865 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -204,7 +204,7 @@
 
   <span dir=ltr>Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... - Alfanous-team/alfanous</span>
 
-* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 232 | 🐛 1 | 📅 2023-02-15
+* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 233 | 🐛 1 | 📅 2023-02-15
 
   <span dir=rtl>كل كتب وصور تطبيقات القرآن.</span>
 
@@ -274,7 +274,7 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 47 | 🌐 Java | 📅 2026-08-25
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 47 | 🌐 Java | 📅 2026-08-27
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 47 | 🌐 Java | 📅 2026-08-25
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 47 | 🌐 Java | 📅 2026-08-27
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -420,7 +420,7 @@
 
 ## لغير العرب
 
-* <https://github.com/ejtaal/mr> ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-29
+* <https://github.com/ejtaal/mr> ⭐ 74 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-29
 
   <span dir=ltr>Arabic - English word based dictionaries compilation - ejtaal/mr</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

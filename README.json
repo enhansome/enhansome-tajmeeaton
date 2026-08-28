@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92104
+                "stars": 92121
               }
             },
             {
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 11195700,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:58:11Z",
+                "last_commit": "2026-08-27T20:46:33Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
                 "stars": 20342
@@ -261,7 +261,7 @@
                 "last_commit": "2023-02-15T06:18:44Z",
                 "owner": "Mohamed-Nagdy",
                 "repo": "Quran-App-Data",
-                "stars": 232
+                "stars": 233
               }
             },
             {
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 290850826,
                 "language": "Java",
-                "last_commit": "2026-08-25T19:42:04Z",
+                "last_commit": "2026-08-27T20:40:35Z",
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 140
@@ -594,7 +594,7 @@
                 "archived": false,
                 "id": 290850826,
                 "language": "Java",
-                "last_commit": "2026-08-25T19:42:04Z",
+                "last_commit": "2026-08-27T20:40:35Z",
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 140
@@ -750,7 +750,7 @@
             "last_commit": "2023-01-27T18:37:14Z",
             "owner": "aosus",
             "repo": "aosus-dictionary",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1810,7 +1810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:55.210Z",
+    "last_updated": "2026-08-28T00:25:49.891Z",
     "original_repository_info": {
       "archived": false,
       "id": 326423100,
