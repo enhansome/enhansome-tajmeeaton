@@ -15,8 +15,9 @@
             "last_commit": "2024-04-24T13:54:08Z",
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 342
-          }
+            "stars": 343
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-04-24T13:54:08Z",
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 342
-          }
+            "stars": 343
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-04-24T13:54:08Z",
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 342
-          }
+            "stars": 343
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "linuxscout",
             "repo": "arabicnlptoolslist",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "aissa-bouguern",
             "repo": "arabic-programming-blogs",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         }
       ],
       "title": "Overview"
@@ -157,7 +166,8 @@
             "owner": "KL13NT",
             "repo": "AIUX",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "children": [
@@ -173,8 +183,9 @@
                 "last_commit": "2026-08-18T21:03:49Z",
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92121
-              }
+                "stars": 92151
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -188,8 +199,9 @@
                 "last_commit": "2026-08-27T20:46:33Z",
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20342
-              }
+                "stars": 20345
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "mathquill",
                 "repo": "mathquill",
                 "stars": 2865
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "OmarIthawi",
                 "repo": "arabic-mathjax",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": "محررات ومصيرات معادلات الرياضيات. ونريد أن تُنشأ مكونات للواجهة للمواقع وتطبيقات الأندرويد والآيفون وأطر العمل .المختلفة\nما نريد أن ننشيء مثله:\nومثال على هذا:\nلكن الأمثلة السابقة ليست كما ينبغي إذ أن خط.س خدمة للحصول على صور تنزلها وتستخدمها وما نريده هو مكتبه للواجهات المختلفة تعرضه كنص وليس صورة كما في Katex.\nومكتبة arabic-mathjax هي إضافة لل mathjax وتكتب معادلاتك بالإنجليزية وهي تعرب أنواع محددة من الرموز والدوال ولا يوجد إلى الآن ما يلبي الرغبات وتراه مستخدما كمكتبة في تطبيقات عليها إقبال كما هو الحال في katex, mathjax والمحرر Mathquill...",
@@ -247,7 +261,8 @@
                 "owner": "Alfanous-team",
                 "repo": "alfanous",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -262,7 +277,8 @@
                 "owner": "Mohamed-Nagdy",
                 "repo": "Quran-App-Data",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -277,7 +293,8 @@
                 "owner": "TarteelAI",
                 "repo": "tarteel-ml",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -292,7 +309,8 @@
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -307,7 +325,8 @@
                 "owner": "hci-lab",
                 "repo": "PyQuran",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -322,7 +341,8 @@
                 "owner": "Qutuf",
                 "repo": "Qutuf",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -337,7 +357,8 @@
                 "owner": "bilalbentoumi",
                 "repo": "quran-database",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -352,7 +373,8 @@
                 "owner": "ojuba-org",
                 "repo": "othman",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -367,7 +389,8 @@
                 "owner": "Crescent-Labs",
                 "repo": "iqra-web",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -382,7 +405,8 @@
                 "owner": "yucefsourani",
                 "repo": "albasheer-electronic-quran-browser",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -397,7 +421,8 @@
                 "owner": "malayyoub",
                 "repo": "Ahkam-Al-Tajweed",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -412,7 +437,8 @@
                 "owner": "moroclash",
                 "repo": "Visualization-Of-Quran",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "group",
@@ -432,7 +458,8 @@
                     "owner": "quran",
                     "repo": "ayah-detection",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:10.922Z"
                 },
                 {
                   "node_type": "item",
@@ -447,7 +474,8 @@
                     "owner": "quran",
                     "repo": "tajweed",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:01:10.922Z"
                 }
               ]
             }
@@ -471,7 +499,8 @@
                 "owner": "batoulapps",
                 "repo": "Adhan",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -482,11 +511,12 @@
                 "archived": false,
                 "id": 290850826,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:40:35Z",
+                "last_commit": "2026-08-28T19:29:08Z",
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -501,7 +531,8 @@
                 "owner": "Mosque-Screens",
                 "repo": "Mosque-Screen",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -516,7 +547,8 @@
                 "owner": "AbdeltwabMF",
                 "repo": "next-prayer",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -531,7 +563,8 @@
                 "owner": "insha",
                 "repo": "salah",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -546,7 +579,8 @@
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -561,7 +595,8 @@
                 "owner": "meltuhamy",
                 "repo": "masjid-times",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -576,7 +611,8 @@
                 "owner": "hayalasalah",
                 "repo": "adhan.py",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -594,11 +630,12 @@
                 "archived": false,
                 "id": 290850826,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:40:35Z",
+                "last_commit": "2026-08-28T19:29:08Z",
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -620,7 +657,8 @@
                 "owner": "choubari",
                 "repo": "Muslim-App",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -635,7 +673,8 @@
                 "owner": "abougouffa",
                 "repo": "pyIslam",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -650,7 +689,8 @@
                 "owner": "galacticwarrior9",
                 "repo": "IslamBot",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -665,7 +705,8 @@
                 "owner": "arabeyes-org",
                 "repo": "ITL",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -680,7 +721,8 @@
                 "owner": "tanafaso",
                 "repo": "tanafaso",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -695,7 +737,8 @@
                 "owner": "eneserdogan",
                 "repo": "iftar",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -710,7 +753,8 @@
                 "owner": "AhmedAshrafAZ",
                 "repo": "BoycottFrench",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -736,7 +780,8 @@
             "owner": "softvenue",
             "repo": "i18n",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -751,7 +796,8 @@
             "owner": "aosus",
             "repo": "aosus-dictionary",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -766,7 +812,8 @@
             "owner": "01walid",
             "repo": "Nibras",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -781,7 +828,8 @@
             "owner": "OmarIthawi",
             "repo": "arabic-mathjax",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -796,7 +844,8 @@
             "owner": "forabi",
             "repo": "arabic-tech-terminology",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         }
       ],
       "title": "تعريب العلوم"
@@ -817,7 +866,8 @@
             "owner": "nasser",
             "repo": "---",
             "stars": 798
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -832,7 +882,8 @@
             "owner": "SimplyAhmazing",
             "repo": "noor",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -847,7 +898,8 @@
             "owner": "arabi-js",
             "repo": "arabi",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -862,7 +914,8 @@
             "owner": "alifcommunity",
             "repo": "compiler",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -873,11 +926,12 @@
             "archived": false,
             "id": 176015477,
             "language": "C++",
-            "last_commit": "2026-07-10T18:33:28Z",
+            "last_commit": "2026-08-28T19:15:43Z",
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -892,7 +946,8 @@
             "owner": "fakoua",
             "repo": "labiba",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -907,7 +962,8 @@
             "owner": "mobadarah",
             "repo": "kalimat-lang",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -922,7 +978,8 @@
             "owner": "mobadarah",
             "repo": "Ammoria",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -937,7 +994,8 @@
             "owner": "alkhawarizm",
             "repo": "examples",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1010,8 @@
             "owner": "KL13NT",
             "repo": "nabdjs",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         }
       ],
       "title": "لغات برمجة عربية"
@@ -973,7 +1032,8 @@
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1048,8 @@
             "owner": "imAbdelhadi",
             "repo": "coursera-subtitle-translation-arabic",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         }
       ],
       "title": "ترجمات"
@@ -1009,7 +1070,8 @@
             "owner": "aub-mind",
             "repo": "arabert",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1086,8 @@
             "owner": "linuxscout",
             "repo": "pyarabic",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1038,8 +1101,9 @@
             "last_commit": "2026-04-28T13:52:00Z",
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 443
-          }
+            "stars": 444
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1118,8 @@
             "owner": "HusseinYoussef",
             "repo": "Arabic-OCR",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1134,8 @@
             "owner": "linuxscout",
             "repo": "arabicnlptoolslist",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1150,8 @@
             "owner": "ARBML",
             "repo": "tnkeeh",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1166,8 @@
             "owner": "maidaly",
             "repo": "Arabic_OCR",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1182,8 @@
             "owner": "linuxscout",
             "repo": "adawat",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1198,8 @@
             "owner": "MTG",
             "repo": "ArabicTransliterator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1214,8 @@
             "owner": "linuxscout",
             "repo": "ayaspell",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1230,8 @@
             "owner": "rozester",
             "repo": "Arabic-Word-Embeddings-Word2vec",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1246,8 @@
             "owner": "linuxscout",
             "repo": "languagetool",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "children": [
@@ -1191,7 +1264,8 @@
                 "owner": "HusseinYoussef",
                 "repo": "Arabic-OCR",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1206,7 +1280,8 @@
                 "owner": "SemanticFrontiers",
                 "repo": "ArabicNLP",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1296,8 @@
                 "owner": "LiyuanLucasLiu",
                 "repo": "ArabicNER",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1312,8 @@
                 "owner": "HassanAzzam",
                 "repo": "Arabic-NER",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1251,7 +1328,8 @@
                 "owner": "JubbaSmail",
                 "repo": "Arabic-Handwriting-Recognition-Using-Matlab",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1266,7 +1344,8 @@
                 "owner": "Fahad-Alsaidi",
                 "repo": "raqin",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1281,7 +1360,8 @@
                 "owner": "d7miiZ",
                 "repo": "Arabic-Font-Detector",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1303,7 +1383,8 @@
                 "owner": "ARBML",
                 "repo": "klaam",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1318,7 +1399,8 @@
                 "owner": "yoosif0",
                 "repo": "arabic-tacotron-tts",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1415,8 @@
                 "owner": "linuxscout",
                 "repo": "festival-tts-arabic-voices",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1431,8 @@
                 "owner": "nawarhalabi",
                 "repo": "festival-tts-arabic-voices-docker",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1363,7 +1447,8 @@
                 "owner": "asrajeh",
                 "repo": "arabic-tts",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1378,7 +1463,8 @@
                 "owner": "malayyoub",
                 "repo": "Ahkam-Al-Tajweed",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1400,7 +1486,8 @@
                 "owner": "sohaibafifi",
                 "repo": "languagetool-tools-ar",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1422,7 +1509,8 @@
                 "owner": "Barqawiz",
                 "repo": "Shakkala",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1437,7 +1525,8 @@
                 "owner": "linuxscout",
                 "repo": "mishkal",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1452,7 +1541,8 @@
                 "owner": "AliOsm",
                 "repo": "shakkelha",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1467,7 +1557,8 @@
                 "owner": "AliOsm",
                 "repo": "arabic-text-diacritization",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1489,7 +1580,8 @@
                 "owner": "assem-ch",
                 "repo": "arabicstemmer",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1504,7 +1596,8 @@
                 "owner": "ejtaal",
                 "repo": "jsastem",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1526,7 +1619,8 @@
                 "owner": "linuxscout",
                 "repo": "qutrub",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1635,8 @@
                 "owner": "alsaydi",
                 "repo": "sarf",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1563,7 +1658,8 @@
                 "owner": "hayderkharrufa",
                 "repo": "arabic_poem_generator",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ],
           "description": null,
@@ -1589,7 +1685,8 @@
             "owner": "Gue3bara",
             "repo": "Cairo",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1604,7 +1701,8 @@
             "owner": "aiaf",
             "repo": "kawkab-mono",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1619,7 +1717,8 @@
             "owner": "aiaf",
             "repo": "nimra",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "group",
@@ -1639,7 +1738,8 @@
                 "owner": "aliftype",
                 "repo": "amiri",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1654,7 +1754,8 @@
                 "owner": "aliftype",
                 "repo": "aref-ruqaa",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             },
             {
               "node_type": "item",
@@ -1669,7 +1770,8 @@
                 "owner": "aliftype",
                 "repo": "qahiri",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
             }
           ]
         }
@@ -1692,7 +1794,8 @@
             "owner": "drelhaj",
             "repo": "OsmanReadability",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1707,7 +1810,8 @@
             "owner": "KL13NT",
             "repo": "AIUX",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         }
       ],
       "title": "الوصولية (A11y)"
@@ -1728,7 +1832,8 @@
             "owner": "aqeelat",
             "repo": "arabic-apis",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1743,7 +1848,8 @@
             "owner": "MohsenAlyafei",
             "repo": "tafqit",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1758,7 +1864,8 @@
             "owner": "latiif",
             "repo": "ara",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1773,7 +1880,8 @@
             "owner": "imAbdelhadi",
             "repo": "simplemde-rtl",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1788,7 +1896,8 @@
             "owner": "mhsabbagh",
             "repo": "mujallad",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         },
         {
           "node_type": "item",
@@ -1803,14 +1912,15 @@
             "owner": "mhsabbagh",
             "repo": "helallinux",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
         }
       ],
       "title": "تقنية - عام"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:25:49.891Z",
+    "last_updated": "2026-08-29T00:01:10.922Z",
     "original_repository_info": {
       "archived": false,
       "id": 326423100,
@@ -1818,7 +1928,7 @@
       "last_commit": "2024-04-24T13:54:08Z",
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 342
+      "stars": 343
     },
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
