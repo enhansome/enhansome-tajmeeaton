@@ -109,7 +109,7 @@
             "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "awesome",
               "awesome-list",
@@ -198,7 +198,7 @@
             "open_issues": 19,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 552,
+            "stars": 553,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -304,7 +304,7 @@
                 "open_issues": 490,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92154,
+                "stars": 92169,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:31:45Z",
+                "last_commit": "2026-08-29T14:01:29Z",
                 "open_issues": 393,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20345,
+                "stars": 20351,
                 "topics": [
                   "javascript",
                   "katex",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:00.248Z",
+    "last_updated": "2026-08-29T18:32:41.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
