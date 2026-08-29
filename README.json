@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
+            "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
             "id": 326423100,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-24T13:54:08Z",
+            "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "arabic",
+              "arabic-font",
+              "arabic-language",
+              "arabic-nlp",
+              "arabic-numbers",
+              "awesome",
+              "awesome-list",
+              "islam"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
+            "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
             "id": 326423100,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-24T13:54:08Z",
+            "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "arabic",
+              "arabic-font",
+              "arabic-language",
+              "arabic-nlp",
+              "arabic-numbers",
+              "awesome",
+              "awesome-list",
+              "islam"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -42,12 +70,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
+            "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
             "id": 326423100,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-24T13:54:08Z",
+            "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "arabic",
+              "arabic-font",
+              "arabic-language",
+              "arabic-nlp",
+              "arabic-numbers",
+              "awesome",
+              "awesome-list",
+              "islam"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -58,12 +100,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A currated list of Open Source Resources to encourage and help muslim developers produce more islamic apps.",
+            "homepage": null,
             "id": 357182222,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-15T15:58:43Z",
+            "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "hacktoberfest",
+              "muslim",
+              "muslim-api",
+              "muslim-app",
+              "muslim-data",
+              "muslim-prayer-times",
+              "muslims",
+              "muslims-prayer",
+              "prayer-times",
+              "qibla",
+              "qibla-menu",
+              "qiblah-direction",
+              "ramadan",
+              "remembrance",
+              "tally-counter",
+              "zakat-calculator"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -74,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.",
+            "homepage": null,
             "id": 247261230,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-09T08:50:08Z",
+            "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 581
+            "stars": 581,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -90,12 +162,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.",
+            "homepage": null,
             "id": 42784577,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
+            "open_issues": 17,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 560
+            "stars": 560,
+            "topics": [
+              "arabic",
+              "natural-language-processing",
+              "nlp",
+              "nlp-arabic",
+              "rtl"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -106,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome islam related projects, frameworks, resources and other awesomeness.",
+            "homepage": "https://github.com/AhmedKamal/awesome-Islam",
             "id": 45251821,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
+            "open_issues": 19,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 552
+            "stars": 552,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -122,12 +210,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic NLP tools List inventory ",
+            "homepage": null,
             "id": 161761938,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T22:41:47Z",
+            "open_issues": 0,
             "owner": "linuxscout",
             "repo": "arabicnlptoolslist",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "arabic",
+              "catalogue",
+              "nlp",
+              "nlp-resources"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -138,12 +236,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "أهم المدونات والمصادر العربية لتعلم البرمجة وتطوير الويب",
+            "homepage": null,
             "id": 402853343,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-01-22T19:26:03Z",
+            "open_issues": 2,
             "owner": "aissa-bouguern",
             "repo": "arabic-programming-blogs",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "arabic",
+              "arabic-language",
+              "blogging",
+              "content",
+              "learn-to-code",
+              "learning",
+              "programming",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         }
@@ -160,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Arabic Initiative for User Experience (AIUX) is an initiative to provide better User Experience to Arabic-speaking people.",
+            "homepage": "https://kl13nt.github.io/AIUX",
             "id": 287436440,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2021-04-21T03:00:44Z",
+            "open_issues": 6,
             "owner": "KL13NT",
             "repo": "AIUX",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -178,12 +295,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animation engine for explanatory math videos",
+                "homepage": null,
                 "id": 32689863,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T21:03:49Z",
+                "open_issues": 490,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92151
+                "stars": 92154,
+                "topics": [
+                  "3b1b-videos",
+                  "animation",
+                  "explanatory-math-videos",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -194,12 +321,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast math typesetting for the web.",
+                "homepage": "https://katex.org",
                 "id": 11195700,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:46:33Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:31:45Z",
+                "open_issues": 393,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20345
+                "stars": 20345,
+                "topics": [
+                  "javascript",
+                  "katex",
+                  "latex",
+                  "math",
+                  "math-typesetting"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -210,12 +348,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily type math in your webapp",
+                "homepage": "http://mathquill.com",
                 "id": 598343,
                 "language": "TypeScript",
+                "license": "MPL-2.0",
                 "last_commit": "2025-06-02T21:51:47Z",
+                "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2865
+                "stars": 2865,
+                "topics": [
+                  "editor",
+                  "equation",
+                  "expression",
+                  "formula",
+                  "javascript",
+                  "math"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -226,12 +376,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful Arabic Math on all browsers. An extension for MathJax v2.",
+                "homepage": "https://arabicmath.org",
                 "id": 117674462,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-01T10:33:21Z",
+                "open_issues": 18,
                 "owner": "OmarIthawi",
                 "repo": "arabic-mathjax",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "arabic",
+                  "i18n",
+                  "l10n",
+                  "math",
+                  "mathjax",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -255,12 +417,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces...",
+                "homepage": null,
                 "id": 4617289,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-14T00:57:27Z",
+                "open_issues": 23,
                 "owner": "Alfanous-team",
                 "repo": "alfanous",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "api",
+                  "arabic",
+                  "indexing",
+                  "mcp",
+                  "mcp-server",
+                  "python",
+                  "quran",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -271,12 +447,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "كل كتب وصور تطبيقات القرآن",
+                "homepage": null,
                 "id": 329273479,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-15T06:18:44Z",
+                "open_issues": 1,
                 "owner": "Mohamed-Nagdy",
                 "repo": "Quran-App-Data",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "azkar",
+                  "hadith",
+                  "names-of-allah",
+                  "names-of-mohamed",
+                  "quran",
+                  "quran-images"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -287,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Pre-processing and training scripts for the Tarteel Dataset",
+                "homepage": null,
                 "id": 162787708,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-11-10T19:46:23Z",
+                "open_issues": 14,
                 "owner": "TarteelAI",
                 "repo": "tarteel-ml",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -303,12 +496,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tajweed annotation for the Qur'an",
+                "homepage": null,
                 "id": 88276028,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-12T16:20:18Z",
+                "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "decision-trees",
+                  "islam",
+                  "quran",
+                  "tajweed"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -319,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyQuran: The Python package for Quranic Analysis https://hci-lab.github.io/PyQuran-Private",
+                "homepage": null,
                 "id": 139259534,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-05-24T13:40:24Z",
+                "open_issues": 4,
                 "owner": "hci-lab",
                 "repo": "PyQuran",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -335,12 +543,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qutuf (قُطُوْف): An Arabic Morphological analyzer and Part-Of-Speech tagger as an Expert System.",
+                "homepage": "http://Qutuf.com",
                 "id": 103699775,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-12T00:05:36Z",
+                "open_issues": 5,
                 "owner": "Qutuf",
                 "repo": "Qutuf",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "arabic",
+                  "arabic-language",
+                  "arabic-morphology",
+                  "arabic-nlp",
+                  "arabic-tagger",
+                  "expert-system",
+                  "heavy-stemming",
+                  "lemmatization",
+                  "light-stemming",
+                  "morphological-analysis",
+                  "overdue-tagging",
+                  "part-of-speech-tagger",
+                  "pattern-matching",
+                  "pos-tagging",
+                  "premature-tagging",
+                  "role-based",
+                  "root-extraction",
+                  "rooting",
+                  "stemmer",
+                  "stemming"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -351,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Database for Holy Quran",
+                "homepage": null,
                 "id": 263408830,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-12T19:55:09Z",
+                "open_issues": 1,
                 "owner": "bilalbentoumi",
                 "repo": "quran-database",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -367,12 +606,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quran browser and search engine",
+                "homepage": null,
                 "id": 8841553,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-26T18:21:31Z",
+                "open_issues": 4,
                 "owner": "ojuba-org",
                 "repo": "othman",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "python",
+                  "quran"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -383,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://iqraapp.com",
                 "id": 66892392,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-27T15:38:29Z",
+                "open_issues": 23,
                 "owner": "Crescent-Labs",
                 "repo": "iqra-web",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -399,12 +651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Albasheer electronic quran browser",
+                "homepage": null,
                 "id": 320653293,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-17T15:51:57Z",
+                "open_issues": 5,
                 "owner": "yucefsourani",
                 "repo": "albasheer-electronic-quran-browser",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -415,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is related to our work on automatically determining correct application of basic Quranic recitation rules",
+                "homepage": null,
                 "id": 147501865,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-06-28T14:38:12Z",
+                "open_issues": 0,
                 "owner": "malayyoub",
                 "repo": "Ahkam-Al-Tajweed",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -431,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a tool to Visualize the Quran Characters and Word frequencies, it's a beta version.  ",
+                "homepage": "https://moroclash.github.io/Visualization-Of-Quran/",
                 "id": 325310293,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-06-25T15:08:56Z",
+                "open_issues": 0,
                 "owner": "moroclash",
                 "repo": "Visualization-Of-Quran",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -452,12 +719,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "scripts to detect ayah markers from quran images",
+                    "homepage": null,
                     "id": 27692583,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-02T13:41:49Z",
+                    "open_issues": 4,
                     "owner": "quran",
                     "repo": "ayah-detection",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.922Z"
                 },
@@ -468,12 +740,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tajweed Highlighting Experiments",
+                    "homepage": null,
                     "id": 48966959,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2018-10-07T12:59:05Z",
+                    "open_issues": 7,
                     "owner": "quran",
                     "repo": "tajweed",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": [
+                      "quran",
+                      "tajweed"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:10.922Z"
                 }
@@ -493,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High precision prayer time library",
+                "homepage": null,
                 "id": 52242994,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-03-29T02:51:13Z",
+                "open_issues": 2,
                 "owner": "batoulapps",
                 "repo": "Adhan",
-                "stars": 404
+                "stars": 404,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -509,12 +794,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop Application 💻 for Calculating Muslim prayer times 🕌 , Morning and Nights Azkar 🤲 with notification for random Azkar that pops-up in specific time.",
+                "homepage": "https://azkar-site.web.app/",
                 "id": 290850826,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:29:08Z",
+                "open_issues": 44,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "azkar",
+                  "desktop-application",
+                  "github",
+                  "github-pages",
+                  "islam",
+                  "islamic-apps",
+                  "java",
+                  "javafx",
+                  "material-design",
+                  "maven",
+                  "muslim",
+                  "notifications",
+                  "prayer-times",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -525,12 +830,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chat: https://discord.gg/CG7frj2 - Email: info@mosque.tech. We do not provide any support, this is a volunteer-based project therefore we cannot commit to any time to resolve local issues.",
+                "homepage": "https://screen.mosque.tech/",
                 "id": 164725635,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-11-05T02:57:05Z",
+                "open_issues": 18,
                 "owner": "Mosque-Screens",
                 "repo": "Mosque-Screen",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "github-page",
+                  "google-sheets",
+                  "islam",
+                  "islamic-apps",
+                  "islamic-prayer-times",
+                  "masjid",
+                  "mosque",
+                  "mosques",
+                  "muslim",
+                  "muslim-api",
+                  "muslim-prayer-times",
+                  "muslim-pro",
+                  "muslims-prayer",
+                  "open-source",
+                  "prayer-times",
+                  "prayer-times-app",
+                  "prayertimes",
+                  "react-components",
+                  "screen",
+                  "service-worker"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -541,12 +872,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Islamic prayer reminder for Unix status bars.",
+                "homepage": null,
                 "id": 404178720,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-02T00:00:38Z",
+                "open_issues": 8,
                 "owner": "AbdeltwabMF",
                 "repo": "next-prayer",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "bash",
+                  "cpp",
+                  "docker",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "linux",
+                  "makefile",
+                  "muslim-prayer-times",
+                  "prayer-times",
+                  "prayertimes",
+                  "python3",
+                  "salat-timings"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -557,12 +906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Islamic prayer time library for Rust 🦀",
+                "homepage": null,
                 "id": 166846127,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-06T20:40:08Z",
+                "open_issues": 4,
                 "owner": "insha",
                 "repo": "salah",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -573,12 +927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple prayer times Android and iOS app for Belfast and London",
+                "homepage": "http://meltuhamy.com/apps/",
                 "id": 31821353,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T17:57:40Z",
+                "open_issues": 14,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -589,12 +948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Finally a prayer times app that works with your Mosque!",
+                "homepage": "http://meltuhamy.com/masjid-times/",
                 "id": 9011331,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-09-29T11:19:44Z",
+                "open_issues": 7,
                 "owner": "meltuhamy",
                 "repo": "masjid-times",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -605,12 +969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for computing adhan times",
+                "homepage": null,
                 "id": 47964754,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2015-12-24T22:35:59Z",
+                "open_issues": 0,
                 "owner": "hayalasalah",
                 "repo": "adhan.py",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -628,12 +997,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop Application 💻 for Calculating Muslim prayer times 🕌 , Morning and Nights Azkar 🤲 with notification for random Azkar that pops-up in specific time.",
+                "homepage": "https://azkar-site.web.app/",
                 "id": 290850826,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:29:08Z",
+                "open_issues": 44,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "azkar",
+                  "desktop-application",
+                  "github",
+                  "github-pages",
+                  "islam",
+                  "islamic-apps",
+                  "java",
+                  "javafx",
+                  "material-design",
+                  "maven",
+                  "muslim",
+                  "notifications",
+                  "prayer-times",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -651,12 +1040,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features...  Project will be migrated to another language.",
+                "homepage": "https://play.google.com/store/apps/details?id=com.choubapp.muslimapp",
                 "id": 255736768,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-10-13T14:39:52Z",
+                "open_issues": 4,
                 "owner": "choubari",
                 "repo": "Muslim-App",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "allah",
+                  "android",
+                  "hacktoberfest",
+                  "java",
+                  "muslim",
+                  "muslim-app",
+                  "muslim-prayer-times",
+                  "muslims-prayer",
+                  "notifications",
+                  "playstore",
+                  "prayer-times",
+                  "qibla",
+                  "qibla-menu",
+                  "qiblah-direction",
+                  "ramadan",
+                  "remembrance",
+                  "tally-counter",
+                  "zakat-calculator"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -667,12 +1080,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pyIslam, a Python library to calculate prayer times, hijri date, qiblah direction and more",
+                "homepage": "http://abougouffa.github.io/pyIslam",
                 "id": 16716541,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-06-15T23:01:40Z",
+                "open_issues": 7,
                 "owner": "abougouffa",
                 "repo": "pyIslam",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "hijri",
+                  "hijri-calendar",
+                  "hijri-dates",
+                  "islam",
+                  "islamic",
+                  "islamic-prayer-times",
+                  "prayer-times",
+                  "python",
+                  "python-library",
+                  "qibla",
+                  "zakat"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -683,12 +1113,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Discord bot that supports Qur'an, hadith, prayer times, tafsir and more.",
+                "homepage": null,
                 "id": 271675731,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-06T21:01:55Z",
+                "open_issues": 17,
                 "owner": "galacticwarrior9",
                 "repo": "IslamBot",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "discord-bot",
+                  "hadith",
+                  "islam",
+                  "prayer-times",
+                  "quran",
+                  "tafsir"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -699,12 +1141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Islamic Tools and Libraries",
+                "homepage": null,
                 "id": 19785855,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-27T05:56:48Z",
+                "open_issues": 8,
                 "owner": "arabeyes-org",
                 "repo": "ITL",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -715,12 +1162,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flutter application for Muslims that helps them challenge and motivate themselves and their friends to do good deeds in a fun way.",
+                "homepage": "https://play.google.com/store/apps/details?id=com.tanafaso.azkar",
                 "id": 250859077,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2026-03-08T05:25:40Z",
+                "open_issues": 24,
                 "owner": "tanafaso",
                 "repo": "tanafaso",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "azkar",
+                  "dart",
+                  "flutter",
+                  "mobile-app",
+                  "muslim-app"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -731,12 +1189,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "   Iftar CLI allows a quick and easy prayer times in the command line",
+                "homepage": null,
                 "id": 61781198,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-01-19T15:50:22Z",
+                "open_issues": 0,
                 "owner": "eneserdogan",
                 "repo": "iftar",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "cli",
+                  "iftar",
+                  "islamic",
+                  "nodejs",
+                  "prayer",
+                  "ramadan",
+                  "shell",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -747,12 +1219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 342258758,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-19T12:53:59Z",
+                "open_issues": 1,
                 "owner": "AhmedAshrafAZ",
                 "repo": "BoycottFrench",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -774,12 +1251,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "internationalize projects to Arabic ",
+            "homepage": "https://i18n.softvenue.net",
             "id": 175304449,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-29T04:03:37Z",
+            "open_issues": 2,
             "owner": "softvenue",
             "repo": "i18n",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "arabic",
+              "i18n",
+              "intern",
+              "internationalization",
+              "l10n",
+              "localization",
+              "t9n",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -790,12 +1281,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "معجم عربي للمساعده ترجمة البرمجيات الى اللغة العربية.",
+            "homepage": "https://dictionary.aosus.org",
             "id": 382693063,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-27T18:37:14Z",
+            "open_issues": 10,
             "owner": "aosus",
             "repo": "aosus-dictionary",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "arabic",
+              "dictionary",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -806,12 +1306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "قاموس فرنسي-عربي موجه إلى طلبة السنة الأولى للشعب التقنية الجامعية",
+            "homepage": "http://nibras.sourceforge.net/",
             "id": 5134292,
             "language": "C++",
+            "license": null,
             "last_commit": "2014-12-10T16:13:59Z",
+            "open_issues": 5,
             "owner": "01walid",
             "repo": "Nibras",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -822,12 +1327,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful Arabic Math on all browsers. An extension for MathJax v2.",
+            "homepage": "https://arabicmath.org",
             "id": 117674462,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T10:33:21Z",
+            "open_issues": 18,
             "owner": "OmarIthawi",
             "repo": "arabic-mathjax",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "arabic",
+              "i18n",
+              "l10n",
+              "math",
+              "mathjax",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -838,12 +1355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 29675830,
             "language": "Shell",
+            "license": null,
             "last_commit": "2015-02-08T13:00:50Z",
+            "open_issues": 0,
             "owner": "forabi",
             "repo": "arabic-tech-terminology",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         }
@@ -860,12 +1382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "قلب: لغة برمجة",
+            "homepage": "https://nas.sr/قلب/",
             "id": 7283676,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-09T23:34:07Z",
+            "open_issues": 6,
             "owner": "nasser",
             "repo": "---",
-            "stars": 798
+            "stars": 798,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -876,12 +1403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, yet aHmazing arabic programming language meant to light up your day",
+            "homepage": null,
             "id": 36685610,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-05T17:08:19Z",
+            "open_issues": 2,
             "owner": "SimplyAhmazing",
             "repo": "noor",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -892,12 +1424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "تعريب جافاسكريبت",
+            "homepage": null,
             "id": 302985861,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-14T15:54:49Z",
+            "open_issues": 3,
             "owner": "arabi-js",
             "repo": "arabi",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -908,12 +1445,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Alif compiler",
+            "homepage": null,
             "id": 284758823,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-27T02:21:20Z",
+            "open_issues": 13,
             "owner": "alifcommunity",
             "repo": "compiler",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -924,12 +1466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alusus Programming Language Source",
+            "homepage": null,
             "id": 176015477,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:15:43Z",
+            "open_issues": 26,
             "owner": "Alusus",
             "repo": "Alusus",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -940,12 +1487,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "لغة البرمجة لبيبة باللغة العربية",
+            "homepage": "https://fakoua.github.io/labiba/",
             "id": 190556013,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-23T07:44:17Z",
+            "open_issues": 45,
             "owner": "fakoua",
             "repo": "labiba",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -956,12 +1508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "لغة البرمجة \"كلمات\" العربية 📝",
+            "homepage": null,
             "id": 383176303,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-06T22:14:54Z",
+            "open_issues": 3,
             "owner": "mobadarah",
             "repo": "kalimat-lang",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -972,12 +1529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "لغة البرمجة عموريا",
+            "homepage": "http://ammoria.sourceforge.net/ar/ar_index.html",
             "id": 383150408,
             "language": "VBA",
+            "license": null,
             "last_commit": "2021-07-17T11:49:25Z",
+            "open_issues": 1,
             "owner": "mobadarah",
             "repo": "Ammoria",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -988,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "مشاريع الخوارزم (Arabic Programming Language  لغة برمجة عربية)",
+            "homepage": "https://www.alkhawarizm.org",
             "id": 207348422,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-03-01T19:51:56Z",
+            "open_issues": 2,
             "owner": "alkhawarizm",
             "repo": "examples",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1004,12 +1571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Arabic programming language created using JavaScript based on the principles of BASIC.",
+            "homepage": "https://nabdjs.netlify.app/",
             "id": 259966315,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2020-05-01T16:11:15Z",
+            "open_issues": 0,
             "owner": "KL13NT",
             "repo": "nabdjs",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         }
@@ -1026,12 +1598,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern JavaScript Tutorial in Arabic",
+            "homepage": "https://javascript.info",
             "id": 202420542,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T05:00:10Z",
+            "open_issues": 19,
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "arabic",
+              "javascript",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1042,12 +1623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coursera Subtitle Translation to Arabic Language",
+            "homepage": null,
             "id": 347642968,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-14T14:25:17Z",
+            "open_issues": 0,
             "owner": "imAbdelhadi",
             "repo": "coursera-subtitle-translation-arabic",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         }
@@ -1064,12 +1650,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-trained Transformers for Arabic Language Understanding and Generation (Arabic BERT, Arabic GPT2, Arabic ELECTRA)",
+            "homepage": "https://huggingface.co/aubmindlab",
             "id": 242163521,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-17T00:26:39Z",
+            "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 729
+            "stars": 729,
+            "topics": [
+              "arabert",
+              "arabic",
+              "arabic-classification",
+              "arabic-nlp",
+              "bert",
+              "electra",
+              "farasa",
+              "gpt2",
+              "huggingface-transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1080,12 +1681,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pyarabic",
+            "homepage": null,
             "id": 16910168,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-16T09:40:41Z",
+            "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "arabic-language",
+              "nlp-library",
+              "text-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1096,12 +1706,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reconstruct Arabic sentences to be used in applications that don't support Arabic",
+            "homepage": null,
             "id": 4286622,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-28T13:52:00Z",
+            "open_issues": 22,
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "arabic",
+              "python",
+              "reshape"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1112,12 +1731,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCR system for Arabic language that converts images of typed text to machine-encoded text.",
+            "homepage": null,
             "id": 220806719,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-04T00:56:52Z",
+            "open_issues": 8,
             "owner": "HusseinYoussef",
             "repo": "Arabic-OCR",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "arabic",
+              "character-segmentation",
+              "computer-vision",
+              "dataset",
+              "image-processing",
+              "machine-learning",
+              "neural-network",
+              "ocr",
+              "opencv-python",
+              "scikit-learn",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1128,12 +1764,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic NLP tools List inventory ",
+            "homepage": null,
             "id": 161761938,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T22:41:47Z",
+            "open_issues": 0,
             "owner": "linuxscout",
             "repo": "arabicnlptoolslist",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "arabic",
+              "catalogue",
+              "nlp",
+              "nlp-resources"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1144,12 +1790,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic cleaning, normalization and segmentation library. ",
+            "homepage": null,
             "id": 285426674,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-28T16:52:54Z",
+            "open_issues": 2,
             "owner": "ARBML",
             "repo": "tnkeeh",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "arabic-nlp",
+              "cleaning",
+              "nlp",
+              "preprocessing-library"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1160,12 +1816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains Arabic OCR App ",
+            "homepage": null,
             "id": 332780973,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-07T14:30:36Z",
+            "open_issues": 3,
             "owner": "maidaly",
             "repo": "Arabic_OCR",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1176,12 +1837,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adawat: Arabic Text tools",
+            "homepage": null,
             "id": 164723301,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-08-27T19:07:49Z",
+            "open_issues": 0,
             "owner": "linuxscout",
             "repo": "adawat",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1192,12 +1858,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A code for transliterating (romanizing) Arabic text using the American Library Association - Library of Congress (ALA-LC) standard",
+            "homepage": null,
             "id": 21463643,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-15T17:35:55Z",
+            "open_issues": 3,
             "owner": "MTG",
             "repo": "ArabicTransliterator",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1208,12 +1879,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AyaSpell Arabic Dictionary for Hunspell Spellchecker",
+            "homepage": null,
             "id": 76684018,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-27T19:48:14Z",
+            "open_issues": 6,
             "owner": "linuxscout",
             "repo": "ayaspell",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1224,12 +1900,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arabic Word Embeddings Word2vec",
+            "homepage": null,
             "id": 161435857,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-13T02:07:05Z",
+            "open_issues": 1,
             "owner": "rozester",
             "repo": "Arabic-Word-Embeddings-Word2vec",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ai",
+              "arabic",
+              "flask",
+              "nlp",
+              "python",
+              "word-embeddings",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1240,12 +1929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Style and Grammar Checker for 25+ Languages",
+            "homepage": "https://languagetool.org",
             "id": 85608100,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2025-03-26T15:58:03Z",
+            "open_issues": 0,
             "owner": "linuxscout",
             "repo": "languagetool",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1258,12 +1952,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCR system for Arabic language that converts images of typed text to machine-encoded text.",
+                "homepage": null,
                 "id": 220806719,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-04T00:56:52Z",
+                "open_issues": 8,
                 "owner": "HusseinYoussef",
                 "repo": "Arabic-OCR",
-                "stars": 330
+                "stars": 330,
+                "topics": [
+                  "arabic",
+                  "character-segmentation",
+                  "computer-vision",
+                  "dataset",
+                  "image-processing",
+                  "machine-learning",
+                  "neural-network",
+                  "ocr",
+                  "opencv-python",
+                  "scikit-learn",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1274,12 +1985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of various Arabic NLP and Text Processing Scripts and Utilities",
+                "homepage": null,
                 "id": 9038421,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2013-10-10T05:20:33Z",
+                "open_issues": 4,
                 "owner": "SemanticFrontiers",
                 "repo": "ArabicNLP",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1290,12 +2006,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arabic NER system with a strong performance",
+                "homepage": "https://www.aclweb.org/anthology/W19-4607.pdf",
                 "id": 188776272,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-12T15:13:12Z",
+                "open_issues": 2,
                 "owner": "LiyuanLucasLiu",
                 "repo": "ArabicNER",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "arabic-nlp",
+                  "contextualized-representation",
+                  "ensemble-learning",
+                  "ner",
+                  "pretrained-models",
+                  "sequence-labeling"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1306,12 +2034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 149921623,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-02-01T12:51:56Z",
+                "open_issues": 0,
                 "owner": "HassanAzzam",
                 "repo": "Arabic-NER",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1322,12 +2055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arabic Handwriting Recognition Using Neural Network in MATLAB ( Word Level )",
+                "homepage": null,
                 "id": 29541296,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2016-09-19T04:07:07Z",
+                "open_issues": 4,
                 "owner": "JubbaSmail",
                 "repo": "Arabic-Handwriting-Recognition-Using-Matlab",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1338,12 +2076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " أفكار لمشروع رقمنة الكتب عن طريق الجهد الموزع",
+                "homepage": null,
                 "id": 344044514,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-12-18T16:01:12Z",
+                "open_issues": 5,
                 "owner": "Fahad-Alsaidi",
                 "repo": "raqin",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1354,12 +2097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This model detects arabic fonts (نسخ, رقعة) given a picture of the text, Live https://calbot.hawzen.me/",
+                "homepage": "https://calbot.hawzen.me/",
                 "id": 386312134,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-27T19:00:33Z",
+                "open_issues": 0,
                 "owner": "d7miiZ",
                 "repo": "Arabic-Font-Detector",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1377,12 +2125,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arabic speech recognition, classification and text-to-speech. ",
+                "homepage": null,
                 "id": 353305030,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-09-30T08:50:06Z",
+                "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "arabic",
+                  "arabic-speech-recognition",
+                  "asr",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1393,12 +2151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End to end Arabic TTS system based on tacotron",
+                "homepage": null,
                 "id": 152964992,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-05T10:42:56Z",
+                "open_issues": 13,
                 "owner": "yoosif0",
                 "repo": "arabic-tacotron-tts",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1409,12 +2172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arabic voices for Festival TTS",
+                "homepage": null,
                 "id": 272512631,
                 "language": "Scheme",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-02T19:43:54Z",
+                "open_issues": 3,
                 "owner": "linuxscout",
                 "repo": "festival-tts-arabic-voices",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1425,12 +2193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Docker image for a relatively light-weight full Arabic speech synthesis system",
+                "homepage": null,
                 "id": 276913063,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-12T17:36:25Z",
+                "open_issues": 2,
                 "owner": "nawarhalabi",
                 "repo": "festival-tts-arabic-voices-docker",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1441,12 +2214,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arabic TTS ( الناطق العربي )",
+                "homepage": "http://asrajeh.ddns.net/tts/",
                 "id": 193238847,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2019-09-16T11:28:51Z",
+                "open_issues": 2,
                 "owner": "asrajeh",
                 "repo": "arabic-tts",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "arabic",
+                  "text-to-speech",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1457,12 +2239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is related to our work on automatically determining correct application of basic Quranic recitation rules",
+                "homepage": null,
                 "id": 147501865,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-06-28T14:38:12Z",
+                "open_issues": 0,
                 "owner": "malayyoub",
                 "repo": "Ahkam-Al-Tajweed",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1480,12 +2267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dev Tools for Arabic and LanguageTool",
+                "homepage": null,
                 "id": 231960817,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2020-05-17T17:15:53Z",
+                "open_issues": 0,
                 "owner": "sohaibafifi",
                 "repo": "languagetool-tools-ar",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1503,12 +2295,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning for AR text Vocalization - التشكيل الالي للنصوص العربية",
+                "homepage": "https://shakkala.com",
                 "id": 112287108,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-25T01:50:27Z",
+                "open_issues": 5,
                 "owner": "Barqawiz",
                 "repo": "Shakkala",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "arabic-nlp",
+                  "deep-learning",
+                  "lstm",
+                  "rnn"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1519,12 +2321,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mishkal is an arabic text vocalization software",
+                "homepage": null,
                 "id": 19991085,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-18T19:01:04Z",
+                "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "mishkal",
-                "stars": 318
+                "stars": 318,
+                "topics": [
+                  "arabic",
+                  "natural-language-processing",
+                  "python",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1535,12 +2347,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Arabic text diacritization",
+                "homepage": "https://shakkelha.up.railway.app",
                 "id": 172766302,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-24T22:25:44Z",
+                "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "shakkelha",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "arabic-language",
+                  "comparison",
+                  "dataset",
+                  "diacritization",
+                  "ffnn",
+                  "nlp",
+                  "rnn",
+                  "sequence-labeling"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1551,12 +2377,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark Arabic text diacritization dataset",
+                "homepage": null,
                 "id": 172094673,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-07T17:55:31Z",
+                "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "arabic-text-diacritization",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "arabic-language",
+                  "comparison",
+                  "dataset",
+                  "diacritization",
+                  "iccais",
+                  "nlp",
+                  "sequence-labeling"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1574,12 +2413,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Assem's Arabic Light Stemmer is a snowball-based  stemming algorithm for Arabic aimed mainly to improve search. ",
+                "homepage": "http://arabicstemmer.com",
                 "id": 49428595,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-16T11:33:42Z",
+                "open_issues": 16,
                 "owner": "assem-ch",
                 "repo": "arabicstemmer",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "arabic",
+                  "language",
+                  "snowball",
+                  "snowball-framework",
+                  "stemmer"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1590,12 +2440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Arabic Stemmer",
+                "homepage": null,
                 "id": 5371827,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2012-12-01T00:52:28Z",
+                "open_issues": 0,
                 "owner": "ejtaal",
                 "repo": "jsastem",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1613,12 +2468,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qutrub: Arabic verb conjugator",
+                "homepage": null,
                 "id": 45793464,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-31T16:27:18Z",
+                "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "qutrub",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "arabic",
+                  "natural-language-processing",
+                  "verb-conjugation"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1629,12 +2493,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sarf - Arabic Morphology System",
+                "homepage": null,
                 "id": 123865448,
                 "language": "Gherkin",
+                "license": "MIT",
                 "last_commit": "2024-09-29T17:03:35Z",
+                "open_issues": 7,
                 "owner": "alsaydi",
                 "repo": "sarf",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "arabic",
+                  "arabic-language",
+                  "grammar"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1652,12 +2525,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generating Arabic poetry using Markov chains.",
+                "homepage": null,
                 "id": 260945091,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-12-13T17:23:56Z",
+                "open_issues": 0,
                 "owner": "hayderkharrufa",
                 "repo": "arabic_poem_generator",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1679,12 +2557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style.",
+            "homepage": null,
             "id": 38047357,
             "language": "Shell",
+            "license": "OFL-1.1",
             "last_commit": "2023-03-06T15:42:38Z",
+            "open_issues": 10,
             "owner": "Gue3bara",
             "repo": "Cairo",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1695,12 +2578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kawkab Mono (كوكب مونو) is a monospaced Arabic typeface.",
+            "homepage": "http://makkuk.com/kawkab-mono",
             "id": 45929178,
             "language": null,
+            "license": "OFL-1.1",
             "last_commit": "2016-01-15T17:28:01Z",
+            "open_issues": 9,
             "owner": "aiaf",
             "repo": "kawkab-mono",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1711,12 +2599,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nimra is a typeface with MICR Eastern Arabic numerals in the style of E13B",
+            "homepage": null,
             "id": 124781571,
             "language": null,
+            "license": "OFL-1.1",
             "last_commit": "2018-03-14T14:09:56Z",
+            "open_issues": 0,
             "owner": "aiaf",
             "repo": "nimra",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "arabic",
+              "arabic-numbers",
+              "e13b",
+              "fonts",
+              "magnetic-ink-character-recognition",
+              "typeface"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1732,12 +2632,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amiri (أميري) is a body text Naskh typeface",
+                "homepage": "http://aliftype.com/amiri",
                 "id": 39611099,
                 "language": "Python",
+                "license": "OFL-1.1",
                 "last_commit": "2026-04-25T22:27:42Z",
+                "open_issues": 1,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "arabic",
+                  "arabic-font",
+                  "font",
+                  "naskh",
+                  "typeface"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1748,12 +2659,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aref Ruqaa (رقعة عارف) is a Ruqaa typeface",
+                "homepage": null,
                 "id": 34182455,
                 "language": "Makefile",
+                "license": "OFL-1.1",
                 "last_commit": "2026-08-01T23:00:51Z",
+                "open_issues": 4,
                 "owner": "aliftype",
                 "repo": "aref-ruqaa",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "arabic",
+                  "arabic-font",
+                  "font",
+                  "fonts",
+                  "ruqaa"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -1764,12 +2686,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qahiri (قاهري) is a manuscript Kufic typeface",
+                "homepage": "https://aliftype.com/qahiri/",
                 "id": 245898205,
                 "language": "Makefile",
+                "license": "OFL-1.1",
                 "last_commit": "2026-08-01T23:07:00Z",
+                "open_issues": 0,
                 "owner": "aliftype",
                 "repo": "qahiri",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "arabic",
+                  "arabic-font",
+                  "font",
+                  "kufic"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             }
@@ -1788,12 +2720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source tool for Arabic text readability",
+            "homepage": null,
             "id": 44053917,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-07-04T10:44:59Z",
+            "open_issues": 0,
             "owner": "drelhaj",
             "repo": "OsmanReadability",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1804,12 +2741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Arabic Initiative for User Experience (AIUX) is an initiative to provide better User Experience to Arabic-speaking people.",
+            "homepage": "https://kl13nt.github.io/AIUX",
             "id": 287436440,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2021-04-21T03:00:44Z",
+            "open_issues": 6,
             "owner": "KL13NT",
             "repo": "AIUX",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         }
@@ -1826,12 +2768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collective list of Arabic APIs",
+            "homepage": null,
             "id": 354011542,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-21T14:38:34Z",
+            "open_issues": 4,
             "owner": "aqeelat",
             "repo": "arabic-apis",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1842,12 +2789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tafqeet of Arabic Number to Word تحويل الأرقام إلى ما يقابلها كتابة باللغة العربية",
+            "homepage": null,
             "id": 286500883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-28T09:04:58Z",
+            "open_issues": 8,
             "owner": "MohsenAlyafei",
             "repo": "tafqit",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1858,12 +2810,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " ع Command line tool that displays Arabic text in terminal.",
+            "homepage": "https://pkg.go.dev/mod/github.com/latiif/ara",
             "id": 207110525,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-07T16:02:06Z",
+            "open_issues": 0,
             "owner": "latiif",
             "repo": "ara",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "arabic",
+              "command-line-tool",
+              "terminal",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1874,12 +2836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full RTL version of SimpleMDE - Markdown Editor",
+            "homepage": null,
             "id": 338800383,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-02-16T13:55:20Z",
+            "open_issues": 2,
             "owner": "imAbdelhadi",
             "repo": "simplemde-rtl",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1890,12 +2857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "أنشأ كتابًا أو مدونةً تعليمية من ملفّات Markdown باللغة العربية | Create An Arabic book or a tutorial blog from Markdown files with ease",
+            "homepage": "https://mujallad.mhsabbagh.com/",
             "id": 250834996,
             "language": "HTML",
+            "license": "GPL-2.0",
             "last_commit": "2020-12-22T09:55:41Z",
+            "open_issues": 4,
             "owner": "mhsabbagh",
             "repo": "mujallad",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -1906,12 +2878,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository for the Helal Linux project.",
+            "homepage": "http://helallinux.com",
             "id": 9865960,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-13T19:50:21Z",
+            "open_issues": 1,
             "owner": "mhsabbagh",
             "repo": "helallinux",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         }
@@ -1920,15 +2897,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:10.922Z",
+    "last_updated": "2026-08-29T04:48:00.248Z",
     "original_repository_info": {
       "archived": false,
+      "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
+      "homepage": "https://bayoumi.notion.site/52426ea68db64775b83bafc3779351a0?v=305607025bfc80f7baf6000c4f8b4fe8&pvs=73",
       "id": 326423100,
       "language": "Python",
+      "license": null,
       "last_commit": "2024-04-24T13:54:08Z",
+      "open_issues": 10,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 343
+      "stars": 343,
+      "topics": [
+        "arabic",
+        "arabic-font",
+        "arabic-language",
+        "arabic-nlp",
+        "arabic-numbers",
+        "awesome",
+        "awesome-list",
+        "islam"
+      ]
     },
     "original_repository_sha": "4f422baa367743cfb5dc634f70649f745f0f1b2b",
     "enhanced_repository": "enhansome/enhansome-tajmeeaton",
