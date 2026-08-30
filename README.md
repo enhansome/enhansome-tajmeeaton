@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 614 | 🐛 10 | 📅 2026-07-15
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 615 | 🐛 10 | 📅 2026-07-15
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,169 | 🐛 490 | 🌐 Python | 📅 2026-08-18
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,351 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-29, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 92,253 | 🐛 490 | 🌐 Python | 📅 2026-08-18
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,353 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-29, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,865 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 444 | 🐛 22 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 445 | 🐛 22 | 🌐 Python | 📅 2026-04-28
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -648,7 +648,7 @@
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
-  * <https://github.com/aliftype/aref-ruqaa> ⭐ 133 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
+  * <https://github.com/aliftype/aref-ruqaa> ⭐ 134 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
 
     <span dir=ltr>Aref Ruqaa (رقعة عارف) is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Arabic part of Aref Ruqaa is designed by the Arabic calligrapher and type designer Abdullah Aref, while the Latin part is based on AMS Euler, but spaced for regular text rather than mathematics.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
