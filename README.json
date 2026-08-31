@@ -109,7 +109,7 @@
             "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 615,
+            "stars": 616,
             "topics": [
               "awesome",
               "awesome-list",
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-18T21:03:49Z",
-                "open_issues": 490,
+                "open_issues": 491,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92253,
+                "stars": 92334,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T21:49:08Z",
-                "open_issues": 393,
+                "last_commit": "2026-08-31T17:50:23Z",
+                "open_issues": 391,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20353,
+                "stars": 20357,
                 "topics": [
                   "javascript",
                   "katex",
@@ -357,7 +357,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2865,
+                "stars": 2864,
                 "topics": [
                   "editor",
                   "equation",
@@ -484,7 +484,7 @@
                 "open_issues": 14,
                 "owner": "TarteelAI",
                 "repo": "tarteel-ml",
-                "stars": 230,
+                "stars": 231,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1603,7 +1603,7 @@
             "id": 202420542,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T05:00:10Z",
+            "last_commit": "2026-08-31T05:00:11Z",
             "open_issues": 19,
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
@@ -2566,7 +2566,7 @@
             "open_issues": 10,
             "owner": "Gue3bara",
             "repo": "Cairo",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:38:44.322Z",
+    "last_updated": "2026-08-31T20:50:51.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
