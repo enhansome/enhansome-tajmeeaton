@@ -109,7 +109,7 @@
             "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 616,
+            "stars": 617,
             "topics": [
               "awesome",
               "awesome-list",
@@ -168,10 +168,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "arabic",
               "natural-language-processing",
@@ -304,7 +304,7 @@
                 "open_issues": 491,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92334,
+                "stars": 92486,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T17:50:23Z",
-                "open_issues": 391,
+                "last_commit": "2026-09-01T16:42:39Z",
+                "open_issues": 393,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20357,
+                "stars": 20358,
                 "topics": [
                   "javascript",
                   "katex",
@@ -657,7 +657,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-01-17T15:51:57Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "yucefsourani",
                 "repo": "albasheer-electronic-quran-browser",
                 "stars": 24,
@@ -1049,7 +1049,7 @@
                 "open_issues": 4,
                 "owner": "choubari",
                 "repo": "Muslim-App",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "allah",
                   "android",
@@ -2223,7 +2223,7 @@
                 "open_issues": 2,
                 "owner": "asrajeh",
                 "repo": "arabic-tts",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "arabic",
                   "text-to-speech",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:50:51.369Z",
+    "last_updated": "2026-09-01T18:33:03.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

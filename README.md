@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 616 | 🐛 10 | 📅 2026-07-15
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 617 | 🐛 10 | 📅 2026-07-15
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 560 | 🐛 17 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 561 | 🐛 18 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,334 | 🐛 491 | 🌐 Python | 📅 2026-08-18
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,357 | 🐛 391 | 🌐 TypeScript | 📅 2026-08-31, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 92,486 | 🐛 491 | 🌐 Python | 📅 2026-08-18
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,358 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-01, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -236,7 +236,7 @@
 
   <span dir=ltr>Iqra is a tool meant to allow Muslims to search the Quran using speech recognition. This repo contains the code for the website. There are also repos for the Android client and iOS client. The website's back-end is a Flask server, and the front-end is React combined with Redux.</span>
 
-* <https://github.com/yucefsourani/albasheer-electronic-quran-browser> ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-01-17
+* <https://github.com/yucefsourani/albasheer-electronic-quran-browser> ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-01-17
 
   <span dir=ltr><https://arfedora.blogspot.com> <https://github.com/ojuba-org/othman> ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2024-03-26 Port To Python3 Add Switch To On/Off Dark Theme. Support Change Background/Foreground Color. Make Windows exe (pyinstaller/msys/mingw64) Add Option To add Amiri Font (Windows Only). support Audio Tilawa (mp3 from ayat) And add Option To add Audio tilawa from ayat files (\*.ayt). support Auto Scroll + Run Tilawa .</span>
 
@@ -544,7 +544,7 @@
 
   <span dir=ltr>A Docker image for a relatively light-weight full Arabic speech synthesis system $ git clone <https://github.com/nawarhalabi/festival-tts-arabic-voices-docker> ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-02-12 $ cd festival-tts-arabic-voices-docker $ docker kill festival $ docker rm festival $ docker build -t festival-arabic:latest . $ docker run -p 8080:8080 -v :/tts --name festival festival-arabic:latest This will take about 20 mins to finish.</span>
 
-* <https://github.com/asrajeh/arabic-tts> ⭐ 27 | 🐛 2 | 🌐 Shell | 📅 2019-09-16
+* <https://github.com/asrajeh/arabic-tts> ⭐ 28 | 🐛 2 | 🌐 Shell | 📅 2019-09-16
 
   <span dir=ltr>Arabic TTS ( الناطق العربي ).</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
