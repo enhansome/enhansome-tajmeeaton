@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 561 | 🐛 18 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 19 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -88,7 +88,7 @@
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
-* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 94 | 🐛 0 | 📅 2026-08-25
+* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 95 | 🐛 0 | 📅 2026-08-25
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,486 | 🐛 491 | 🌐 Python | 📅 2026-08-18
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,358 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-01, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 92,840 | 🐛 492 | 🌐 Python | 📅 2026-09-01
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,363 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-02, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -212,7 +212,7 @@
 
   <span dir=ltr>This repo is designed to house code related to Tarteel machine learning related tasks. 🔬 Specifically, things like: Model selection ✅ Preprocessing of data 🔉 Model training, validation, and and iteration 🔁 Code here is mostly experimental so check back regularly for updates. If you found this repo helpful, please keep it's contributors in your duaa 🙌.</span>
 
-* <https://github.com/cpfair/quran-tajweed> ⭐ 187 | 🐛 7 | 🌐 Python | 📅 2021-10-12
+* <https://github.com/cpfair/quran-tajweed> ⭐ 188 | 🐛 7 | 🌐 Python | 📅 2021-10-12
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
@@ -236,7 +236,7 @@
 
   <span dir=ltr>Iqra is a tool meant to allow Muslims to search the Quran using speech recognition. This repo contains the code for the website. There are also repos for the Android client and iOS client. The website's back-end is a Flask server, and the front-end is React combined with Redux.</span>
 
-* <https://github.com/yucefsourani/albasheer-electronic-quran-browser> ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-01-17
+* <https://github.com/yucefsourani/albasheer-electronic-quran-browser> ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-01-17
 
   <span dir=ltr><https://arfedora.blogspot.com> <https://github.com/ojuba-org/othman> ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2024-03-26 Port To Python3 Add Switch To On/Off Dark Theme. Support Change Background/Foreground Color. Make Windows exe (pyinstaller/msys/mingw64) Add Option To add Amiri Font (Windows Only). support Audio Tilawa (mp3 from ayat) And add Option To add Audio tilawa from ayat files (\*.ayt). support Auto Scroll + Run Tilawa .</span>
 
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 445 | 🐛 22 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 446 | 🐛 22 | 🌐 Python | 📅 2026-04-28
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -454,7 +454,7 @@
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
-* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 94 | 🐛 0 | 📅 2026-08-25
+* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 95 | 🐛 0 | 📅 2026-08-25
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
@@ -474,7 +474,7 @@
 
   <span dir=ltr>A code for transliterating (romanizing) Arabic text using the American Library Association - Library of Congress (ALA-LC) standard, but it can be extended to any other Arabic standard. It uses the mishkal library to vocalize/diacritize Arabic. Most of the dependencies are already included in the code.</span>
 
-* <https://github.com/linuxscout/ayaspell> ⭐ 48 | 🐛 6 | 🌐 Shell | 📅 2020-08-27
+* <https://github.com/linuxscout/ayaspell> ⭐ 49 | 🐛 6 | 🌐 Shell | 📅 2020-08-27
 
   <span dir=ltr>AyaSpell Arabic Dictionary for Hunspell Spellchecker Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Collect data manually Mohamed Kebdani, Morroco Ayaspell project aims to provide Arabic dictionaries for free office applications like OpenOffice.org, Firefox, Thunderbird, abiword, gedit ...etc. This project is under GPL/LGPL/MPL tri-license.</span>
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 318 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 319 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 318 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 319 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 97 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -590,7 +590,7 @@
 
 ## ج ذ ر الكلمة
 
-* <https://github.com/assem-ch/arabicstemmer> ⭐ 151 | 🐛 16 | 🌐 Python | 📅 2026-02-16
+* <https://github.com/assem-ch/arabicstemmer> ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2026-02-16
 
   <span dir=ltr>This is an algorithm for Arabic stemming written on Snowball framework language. If offers light stemming and text normalization. This is a sample of results: They are already attached as git submodules so just run: $ git submodule update --init --recursive $ make run\_root الطالب طلب We configured tests to run against snowball-data arabic sample to test speed, grouping factor and precision.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
