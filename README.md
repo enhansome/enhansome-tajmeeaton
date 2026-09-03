@@ -72,11 +72,11 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 617 | 🐛 10 | 📅 2026-07-15
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 618 | 🐛 10 | 📅 2026-07-15
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
-* <https://github.com/abdumostafa/awesome-in-arabic> ⭐ 581 | 🐛 4 | 📅 2024-01-09
+* <https://github.com/abdumostafa/awesome-in-arabic> ⭐ 580 | 🐛 4 | 📅 2024-01-09
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 553 | 🐛 19 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 553 | 🐛 23 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,840 | 🐛 492 | 🌐 Python | 📅 2026-09-01
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,363 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-02, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,864 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 92,972 | 🐛 494 | 🌐 Python | 📅 2026-09-01
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,363 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-03, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,865 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -212,7 +212,7 @@
 
   <span dir=ltr>This repo is designed to house code related to Tarteel machine learning related tasks. 🔬 Specifically, things like: Model selection ✅ Preprocessing of data 🔉 Model training, validation, and and iteration 🔁 Code here is mostly experimental so check back regularly for updates. If you found this repo helpful, please keep it's contributors in your duaa 🙌.</span>
 
-* <https://github.com/cpfair/quran-tajweed> ⭐ 188 | 🐛 7 | 🌐 Python | 📅 2021-10-12
+* <https://github.com/cpfair/quran-tajweed> ⭐ 189 | 🐛 7 | 🌐 Python | 📅 2021-10-12
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 489 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 488 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

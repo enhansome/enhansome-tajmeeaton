@@ -109,7 +109,7 @@
             "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 617,
+            "stars": 618,
             "topics": [
               "awesome",
               "awesome-list",
@@ -150,7 +150,7 @@
             "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 581,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -195,7 +195,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 19,
+            "open_issues": 23,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 553,
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T20:13:14Z",
-                "open_issues": 492,
+                "open_issues": 494,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92840,
+                "stars": 92972,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,7 +326,7 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:19:10Z",
+                "last_commit": "2026-09-03T17:08:09Z",
                 "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
@@ -357,7 +357,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2864,
+                "stars": 2865,
                 "topics": [
                   "editor",
                   "equation",
@@ -505,7 +505,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -1690,7 +1690,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:44:18.306Z",
+    "last_updated": "2026-09-03T18:41:49.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
