@@ -304,7 +304,7 @@
                 "open_issues": 494,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 92972,
+                "stars": 93047,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:08:09Z",
-                "open_issues": 394,
+                "last_commit": "2026-09-04T17:26:21Z",
+                "open_issues": 395,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20363,
+                "stars": 20364,
                 "topics": [
                   "javascript",
                   "katex",
@@ -978,7 +978,7 @@
                 "open_issues": 0,
                 "owner": "hayalasalah",
                 "repo": "adhan.py",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1909,7 +1909,7 @@
             "open_issues": 1,
             "owner": "rozester",
             "repo": "Arabic-Word-Embeddings-Word2vec",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "ai",
               "arabic",
@@ -2304,7 +2304,7 @@
                 "open_issues": 5,
                 "owner": "Barqawiz",
                 "repo": "Shakkala",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "arabic-nlp",
                   "deep-learning",
@@ -2422,7 +2422,7 @@
                 "open_issues": 16,
                 "owner": "assem-ch",
                 "repo": "arabicstemmer",
-                "stars": 152,
+                "stars": 150,
                 "topics": [
                   "arabic",
                   "language",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:41:49.895Z",
+    "last_updated": "2026-09-04T18:25:49.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

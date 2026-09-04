@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 92,972 | 🐛 494 | 🌐 Python | 📅 2026-09-01
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,363 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-03, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,047 | 🐛 494 | 🌐 Python | 📅 2026-09-01
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,364 | 🐛 395 | 🌐 TypeScript | 📅 2026-09-04, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,865 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -298,7 +298,7 @@
 
   <span dir=ltr>Finally a prayer times app that works with your Mosque! Have you ever used a prayer times reminder application which calculates your prayer times using your location and some complex maths? The problem is, these prayer times might end up not matching your nearest Mosque...</span>
 
-* <https://github.com/hayalasalah/adhan.py> ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2015-12-24
+* <https://github.com/hayalasalah/adhan.py> ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2015-12-24
 
   <span dir=ltr>adhan.py is a Python 2.7 and 3+ library for computing adhan times.</span>
 
@@ -478,7 +478,7 @@
 
   <span dir=ltr>AyaSpell Arabic Dictionary for Hunspell Spellchecker Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Collect data manually Mohamed Kebdani, Morroco Ayaspell project aims to provide Arabic dictionaries for free office applications like OpenOffice.org, Firefox, Thunderbird, abiword, gedit ...etc. This project is under GPL/LGPL/MPL tri-license.</span>
 
-* <https://github.com/rozester/Arabic-Word-Embeddings-Word2vec> ⭐ 27 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-13
+* <https://github.com/rozester/Arabic-Word-Embeddings-Word2vec> ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-13
 
   <span dir=ltr>Thia Arabic Word Embeddings Word2vec and vector length is 300 taken from Wikipedia Arabic articles Steps to Start this Application:- 1- Download pretrained Word2Vec model from this link:- <https://drive.google.com/open?id=1y_195XEjo5HaSwj40hGVzR5JVp859jfj> 2- Change this line in Views.py to your directory model = Word2Vec.load('ToDo from your directory') 3- Start Python Flask server.</span>
 
@@ -572,7 +572,7 @@
 
 ## تشكيل الكلم
 
-* <https://github.com/Barqawiz/Shakkala> ⭐ 356 | 🐛 5 | 🌐 Python | 📅 2023-03-25
+* <https://github.com/Barqawiz/Shakkala> ⭐ 355 | 🐛 5 | 🌐 Python | 📅 2023-03-25
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
@@ -590,7 +590,7 @@
 
 ## ج ذ ر الكلمة
 
-* <https://github.com/assem-ch/arabicstemmer> ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2026-02-16
+* <https://github.com/assem-ch/arabicstemmer> ⭐ 150 | 🐛 16 | 🌐 Python | 📅 2026-02-16
 
   <span dir=ltr>This is an algorithm for Arabic stemming written on Snowball framework language. If offers light stemming and text normalization. This is a sample of results: They are already attached as git submodules so just run: $ git submodule update --init --recursive $ make run\_root الطالب طلب We configured tests to run against snowball-data arabic sample to test speed, grouping factor and precision.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
