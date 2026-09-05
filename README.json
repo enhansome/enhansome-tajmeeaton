@@ -304,7 +304,7 @@
                 "open_issues": 494,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93047,
+                "stars": 93157,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T17:26:21Z",
-                "open_issues": 395,
+                "last_commit": "2026-09-05T17:10:51Z",
+                "open_issues": 393,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20364,
+                "stars": 20366,
                 "topics": [
                   "javascript",
                   "katex",
@@ -357,7 +357,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2865,
+                "stars": 2866,
                 "topics": [
                   "editor",
                   "equation",
@@ -779,7 +779,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-03-29T02:51:13Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "batoulapps",
                 "repo": "Adhan",
                 "stars": 404,
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:25:49.837Z",
+    "last_updated": "2026-09-05T17:21:40.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
