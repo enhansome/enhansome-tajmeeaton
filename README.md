@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 553 | 🐛 23 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 553 | 🐛 25 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,157 | 🐛 494 | 🌐 Python | 📅 2026-09-01
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,366 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-05, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,264 | 🐛 494 | 🌐 Python | 📅 2026-09-01
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,368 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-05, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,866 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -402,7 +402,7 @@
 
   <span dir=rtl>لغة البرمجة "كلمات" العربية 📝.</span>
 
-* <https://github.com/mobadarah/Ammoria> ⭐ 11 | 🐛 1 | 🌐 VBA | 📅 2021-07-17
+* <https://github.com/mobadarah/Ammoria> ⭐ 12 | 🐛 1 | 🌐 VBA | 📅 2021-07-17
 
   <span dir=rtl>لغة البرمجة عموريا.</span>
 
@@ -628,7 +628,7 @@
 
 # خطوط (منصدات الخط)
 
-* <https://github.com/Gue3bara/Cairo> ⭐ 194 | 🐛 10 | 🌐 Shell | 📅 2023-03-06
+* <https://github.com/Gue3bara/Cairo> ⭐ 195 | 🐛 10 | 🌐 Shell | 📅 2023-03-06
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
