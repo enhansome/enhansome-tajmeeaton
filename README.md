@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,264 | 🐛 494 | 🌐 Python | 📅 2026-09-01
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,368 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-05, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,387 | 🐛 494 | 🌐 Python | 📅 2026-09-01
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,370 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-07, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,866 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -420,13 +420,13 @@
 
 ## لغير العرب
 
-* <https://github.com/ejtaal/mr> ⭐ 74 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-29
+* <https://github.com/ejtaal/mr> ⭐ 75 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-29
 
   <span dir=ltr>Arabic - English word based dictionaries compilation - ejtaal/mr</span>
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 65 | 🐛 19 | 🌐 HTML | 📅 2026-08-31
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 65 | 🐛 19 | 🌐 HTML | 📅 2026-09-07
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -450,7 +450,7 @@
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
-* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 330 | 🐛 8 | 🌐 Python | 📅 2023-10-04
+* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 329 | 🐛 8 | 🌐 Python | 📅 2023-10-04
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
@@ -494,7 +494,7 @@
 
 ## استخراج الكلم من الصور
 
-* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 330 | 🐛 8 | 🌐 Python | 📅 2023-10-04
+* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 329 | 🐛 8 | 🌐 Python | 📅 2023-10-04
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

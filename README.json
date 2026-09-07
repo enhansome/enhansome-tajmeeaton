@@ -304,7 +304,7 @@
                 "open_issues": 494,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93264,
+                "stars": 93387,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T17:10:51Z",
-                "open_issues": 396,
+                "last_commit": "2026-09-07T18:09:29Z",
+                "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20368,
+                "stars": 20370,
                 "topics": [
                   "javascript",
                   "katex",
@@ -1603,7 +1603,7 @@
             "id": 202420542,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T05:00:11Z",
+            "last_commit": "2026-09-07T05:00:10Z",
             "open_issues": 19,
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
@@ -1740,7 +1740,7 @@
             "open_issues": 8,
             "owner": "HusseinYoussef",
             "repo": "Arabic-OCR",
-            "stars": 330,
+            "stars": 329,
             "topics": [
               "arabic",
               "character-segmentation",
@@ -1961,7 +1961,7 @@
                 "open_issues": 8,
                 "owner": "HusseinYoussef",
                 "repo": "Arabic-OCR",
-                "stars": 330,
+                "stars": 329,
                 "topics": [
                   "arabic",
                   "character-segmentation",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:36:46.328Z",
+    "last_updated": "2026-09-07T19:11:01.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
