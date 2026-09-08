@@ -10,16 +10,16 @@
 
 **كيفية المساهمة:**
 
-يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 343 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
+يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
-* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 343 | 🐛 10 | 🌐 Python | 📅 2024-04-24
-* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 343 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24
 
 **ملاحظات:**
 
-* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 343 | 🐛 10 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
+* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
 * التجميعة على موقع نوشن: <https://www.notion.so/ms2052001/3f677c2054ee49efad36e321cd88e1ac>
 * لا بد أن نعي أن معظم هذه المشروعات تعتبر جهود فردية أو فريق بسيط له شؤون حياته الخاصة وتعلمه وعمله، ومعظمها بَطُؤ أو تَوقّف تطويره، فلا بد أن نتحمل مسؤولية دعم هذه المشروعات ودفعها للأمام، سواء أكان دعما ماديا أو مساهمة في التطوير
 * فليكن هدفك الوحيد رضا الله، ولذا أنصح برخصة "[وقف](https://ojuba.org/waqf-2.0:%D8%B1%D8%AE%D8%B5%D8%A9_%D9%88%D9%82%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9)" بدلا من رخص مثل GPL وال MIT، وغيرهما. كما يمكن إنشاء رخصة بها شروط مختلفة منطلقة من نفس المبدأ لمشاريعك المستقبلية إن شاء الله
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,387 | 🐛 494 | 🌐 Python | 📅 2026-09-01
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,370 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-07, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,494 | 🐛 497 | 🌐 Python | 📅 2026-09-01
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,374 | 🐛 395 | 🌐 TypeScript | 📅 2026-09-07, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,866 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -194,13 +194,13 @@
 
 وبسبب وجود محاولات لإنشاء لغة عربية قادرة على التحدي والظهور، فلا بد من توافر خط، منضد، للنص العربي ليكون أحادي المسافة وملائما للغة العربية والأكواد المكتوبة بها. يوجد محاولات جيدة مثل [خط كوكب](https://makkuk.com/kawkab-mono/)، لكن ليس كل الحروف إلزاما أن يكون تواجدها بنفس العرض، يمكنك الإطلاع على [هذه التويتة](https://twitter.com/KhaledGhetas/status/1416918281169121282) لخالد حسني...
 
-اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 343 | 🐛 10 | 🌐 Python | 📅 2024-04-24
+اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24
 
 # في خدمة الإسلام
 
 ## قرآن
 
-* <https://github.com/Alfanous-team/alfanous> ⭐ 288 | 🐛 23 | 🌐 Python | 📅 2026-06-14
+* <https://github.com/Alfanous-team/alfanous> ⭐ 289 | 🐛 23 | 🌐 Python | 📅 2026-06-14
 
   <span dir=ltr>Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... - Alfanous-team/alfanous</span>
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 488 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 489 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -462,7 +462,7 @@
 
   <span dir=ltr>tnkeeh (تنقيح) is an Arabic preprocessing library for python. It was designed using re for creating quick replacement expressions for several examples. pip install tnkeeh Quick cleaning Segmentation Normalization Data splitting Arguments segment uses farasa for segmentation. remove\_diacritics removes all diacritics. remove\_special\_chars removes all sepcial chars. remove\_english removes english alphabets and digits.</span>
 
-* <https://github.com/maidaly/Arabic_OCR> ⭐ 68 | 🐛 3 | 🌐 Python | 📅 2022-09-07
+* <https://github.com/maidaly/Arabic_OCR> ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2022-09-07
 
   <span dir=ltr>This repo contains Arabic OCR App. The APP can be used to extract the Arabic text from the images. This was built based on the EasyOCR library. EsayOCR built detection/recognition model to detect and recognize the characters and words. For detection part they used the pretrained model for CRAFT algorithm.</span>
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 319 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 320 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 319 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 320 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 97 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -590,7 +590,7 @@
 
 ## ج ذ ر الكلمة
 
-* <https://github.com/assem-ch/arabicstemmer> ⭐ 150 | 🐛 16 | 🌐 Python | 📅 2026-02-16
+* <https://github.com/assem-ch/arabicstemmer> ⭐ 151 | 🐛 16 | 🌐 Python | 📅 2026-02-16
 
   <span dir=ltr>This is an algorithm for Arabic stemming written on Snowball framework language. If offers light stemming and text normalization. This is a sample of results: They are already attached as git submodules so just run: $ git submodule update --init --recursive $ make run\_root الطالب طلب We configured tests to run against snowball-data arabic sample to test speed, grouping factor and precision.</span>
 
@@ -600,7 +600,7 @@
 
 ## تصريف
 
-* <https://github.com/linuxscout/qutrub> ⭐ 107 | 🐛 17 | 🌐 Python | 📅 2023-07-31
+* <https://github.com/linuxscout/qutrub> ⭐ 108 | 🐛 17 | 🌐 Python | 📅 2023-07-31
 
   <span dir=ltr>Qutrub: Arabic verb conjugation software قطرب: تصريف الأفعال العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com pyarabic>=0.6.2 enable mod\_python in Apache extract the qutrub package and run it from the web. The program don't need a database.</span>
 
@@ -734,8 +734,8 @@
 
 # الرخصة
 
-هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 343 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
+هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 342 | 🐛 10 | 🌐 Python | 📅 2024-04-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

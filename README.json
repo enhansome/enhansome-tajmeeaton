@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "arabic",
               "arabic-font",
@@ -49,7 +49,7 @@
             "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "arabic",
               "arabic-font",
@@ -79,7 +79,7 @@
             "open_issues": 10,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "arabic",
               "arabic-font",
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T20:13:14Z",
-                "open_issues": 494,
+                "open_issues": 497,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93387,
+                "stars": 93494,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -327,10 +327,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-07T18:09:29Z",
-                "open_issues": 394,
+                "open_issues": 395,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20370,
+                "stars": 20374,
                 "topics": [
                   "javascript",
                   "katex",
@@ -426,7 +426,7 @@
                 "open_issues": 23,
                 "owner": "Alfanous-team",
                 "repo": "alfanous",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "api",
                   "arabic",
@@ -1690,7 +1690,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -1825,7 +1825,7 @@
             "open_issues": 3,
             "owner": "maidaly",
             "repo": "Arabic_OCR",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2330,7 +2330,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "mishkal",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2422,7 +2422,7 @@
                 "open_issues": 16,
                 "owner": "assem-ch",
                 "repo": "arabicstemmer",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "arabic",
                   "language",
@@ -2477,7 +2477,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "qutrub",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:11:01.593Z",
+    "last_updated": "2026-09-08T18:42:27.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
@@ -2909,7 +2909,7 @@
       "open_issues": 10,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 343,
+      "stars": 342,
       "topics": [
         "arabic",
         "arabic-font",
