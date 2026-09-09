@@ -198,7 +198,7 @@
             "open_issues": 25,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 553,
+            "stars": 554,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -219,7 +219,7 @@
             "open_issues": 0,
             "owner": "linuxscout",
             "repo": "arabicnlptoolslist",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "arabic",
               "catalogue",
@@ -300,11 +300,11 @@
                 "id": 32689863,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T20:13:14Z",
-                "open_issues": 497,
+                "last_commit": "2026-09-09T16:23:48Z",
+                "open_issues": 498,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93494,
+                "stars": 93625,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T18:09:29Z",
-                "open_issues": 395,
+                "last_commit": "2026-09-09T18:31:53Z",
+                "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20374,
+                "stars": 20375,
                 "topics": [
                   "javascript",
                   "katex",
@@ -1715,7 +1715,7 @@
             "open_issues": 22,
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "arabic",
               "python",
@@ -1773,7 +1773,7 @@
             "open_issues": 0,
             "owner": "linuxscout",
             "repo": "arabicnlptoolslist",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "arabic",
               "catalogue",
@@ -2356,7 +2356,7 @@
                 "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "shakkelha",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "arabic-language",
                   "comparison",
@@ -2386,7 +2386,7 @@
                 "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "arabic-text-diacritization",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "arabic-language",
                   "comparison",
@@ -2502,7 +2502,7 @@
                 "open_issues": 7,
                 "owner": "alsaydi",
                 "repo": "sarf",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "arabic",
                   "arabic-language",
@@ -2798,7 +2798,7 @@
             "open_issues": 8,
             "owner": "MohsenAlyafei",
             "repo": "tafqit",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:42:27.848Z",
+    "last_updated": "2026-09-09T18:38:43.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

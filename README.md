@@ -84,11 +84,11 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 553 | 🐛 25 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 554 | 🐛 25 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
-* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 95 | 🐛 0 | 📅 2026-08-25
+* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 96 | 🐛 0 | 📅 2026-08-25
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,494 | 🐛 497 | 🌐 Python | 📅 2026-09-01
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,374 | 🐛 395 | 🌐 TypeScript | 📅 2026-09-07, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,625 | 🐛 498 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,375 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-09, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,866 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 446 | 🐛 22 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 447 | 🐛 22 | 🌐 Python | 📅 2026-04-28
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -454,7 +454,7 @@
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
-* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 95 | 🐛 0 | 📅 2026-08-25
+* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 96 | 🐛 0 | 📅 2026-08-25
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
@@ -580,11 +580,11 @@
 
   <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 320 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
-* <https://github.com/AliOsm/shakkelha> ⭐ 97 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
+* <https://github.com/AliOsm/shakkelha> ⭐ 98 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
   <span dir=ltr>This repository contains the models, dataset, helpers, and systems' comparison for our paper on Arabic Text Diacritization: " Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation", Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh and Mahmoud Al-Ayyoub, EMNLP-IJCNLP 2019.</span>
 
-* <https://github.com/AliOsm/arabic-text-diacritization> ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2026-04-07
+* <https://github.com/AliOsm/arabic-text-diacritization> ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2026-04-07
 
   <span dir=ltr>This repository contains the dataset, helpers, and systems comparison for our paper on Arabic Text Diacritization: " Arabic Text Diacritization Using Deep Neural Networks", Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh, and Mahmoud Al-Ayyoub, ICCAIS 2019.</span>
 
@@ -604,7 +604,7 @@
 
   <span dir=ltr>Qutrub: Arabic verb conjugation software قطرب: تصريف الأفعال العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com pyarabic>=0.6.2 enable mod\_python in Apache extract the qutrub package and run it from the web. The program don't need a database.</span>
 
-* <https://github.com/alsaydi/sarf> ⭐ 50 | 🐛 7 | 🌐 Gherkin | 📅 2024-09-29
+* <https://github.com/alsaydi/sarf> ⭐ 51 | 🐛 7 | 🌐 Gherkin | 📅 2024-09-29
 
   <span dir=ltr>I found the source code posted on sourceforge here <https://sourceforge.net/projects/sarf/files/sarf/sarf%201.0/>. The code is also hosted by others. Here is an example: <https://raw.githubusercontent.com/linuxscout/sarf>. The original Sarf code contains a tremendous effort and handles numerous cases. Also, it has invaluable documentation Documentations I wanted to keep the Sarf program available for others who may find it useful for their purposes.</span>
 
@@ -692,7 +692,7 @@
 
   <span dir=rtl>قائمة تشاركية لجمع الواجهات البرمجية العربية في مكان واحد هذه الفكرة مستوحاه من مشروع Public Apis أرجو منك المشاركة في اضافة الواجهات إلى هذه القائمة، سواء بمشاركة واجهات تعرفها، أو بإنشاء واجهات جديدة لملئ الفراغ التقني العربي.</span>
 
-* <https://github.com/MohsenAlyafei/tafqit> ⭐ 78 | 🐛 8 | 🌐 JavaScript | 📅 2022-02-28
+* <https://github.com/MohsenAlyafei/tafqit> ⭐ 79 | 🐛 8 | 🌐 JavaScript | 📅 2022-02-28
 
   <span dir=rtl>1. Introduction 2. Syntax and Parameters 3. Examples of General Use 4. Default Values 5. Option Settings 6. Increasing the Scale 7. Using Arabic-Indic Numbers 8. General Notes on Code 9.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
