@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,625 | 🐛 498 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,375 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-09, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,866 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,701 | 🐛 498 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,376 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-10, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,867 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -286,7 +286,7 @@
 
   <span dir=ltr>Islamic prayers reminder, for your status bar or/and scripts. displays the next prayer time. send notification if it's the time for a prayer. displays the remaining time till the next prayer. FLAGS: -r, --remain display the remaining time till the next prayer. -n, --next display the time of the next islamic prayer.</span>
 
-* <https://github.com/insha/salah> ⭐ 47 | 🐛 4 | 🌐 Rust | 📅 2026-08-06
+* <https://github.com/insha/salah> ⭐ 48 | 🐛 4 | 🌐 Rust | 📅 2026-08-06
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
