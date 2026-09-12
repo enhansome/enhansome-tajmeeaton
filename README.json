@@ -109,7 +109,7 @@
             "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 618,
+            "stars": 619,
             "topics": [
               "awesome",
               "awesome-list",
@@ -195,7 +195,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 554,
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 499,
+                "open_issues": 501,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93750,
+                "stars": 93798,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -330,7 +330,7 @@
                 "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20379,
+                "stars": 20380,
                 "topics": [
                   "javascript",
                   "katex",
@@ -505,7 +505,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:35:13.836Z",
+    "last_updated": "2026-09-12T17:45:06.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
