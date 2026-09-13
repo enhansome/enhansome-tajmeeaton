@@ -304,7 +304,7 @@
                 "open_issues": 501,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 93798,
+                "stars": 93839,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T19:52:52Z",
+                "last_commit": "2026-09-13T10:47:35Z",
                 "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20380,
+                "stars": 20385,
                 "topics": [
                   "javascript",
                   "katex",
@@ -915,7 +915,7 @@
                 "open_issues": 4,
                 "owner": "insha",
                 "repo": "salah",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2668,7 +2668,7 @@
                 "open_issues": 4,
                 "owner": "aliftype",
                 "repo": "aref-ruqaa",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:06.714Z",
+    "last_updated": "2026-09-13T18:13:22.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

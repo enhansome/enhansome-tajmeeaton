@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,798 | 🐛 501 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,380 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-10, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,839 | 🐛 501 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,385 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-13, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,867 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -286,7 +286,7 @@
 
   <span dir=ltr>Islamic prayers reminder, for your status bar or/and scripts. displays the next prayer time. send notification if it's the time for a prayer. displays the remaining time till the next prayer. FLAGS: -r, --remain display the remaining time till the next prayer. -n, --next display the time of the next islamic prayer.</span>
 
-* <https://github.com/insha/salah> ⭐ 48 | 🐛 4 | 🌐 Rust | 📅 2026-08-06
+* <https://github.com/insha/salah> ⭐ 49 | 🐛 4 | 🌐 Rust | 📅 2026-08-06
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
@@ -648,7 +648,7 @@
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
-  * <https://github.com/aliftype/aref-ruqaa> ⭐ 134 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
+  * <https://github.com/aliftype/aref-ruqaa> ⭐ 133 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
 
     <span dir=ltr>Aref Ruqaa (رقعة عارف) is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Arabic part of Aref Ruqaa is designed by the Arabic calligrapher and type designer Abdullah Aref, while the Latin part is based on AMS Euler, but spaced for regular text rather than mathematics.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
