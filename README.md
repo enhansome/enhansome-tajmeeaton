@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,839 | 🐛 501 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,385 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-13, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,884 | 🐛 501 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,387 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-14, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,867 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -270,7 +270,7 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 405 | 🐛 1 | 📅 2023-03-29
+* <https://github.com/batoulapps/Adhan> ⭐ 406 | 🐛 1 | 📅 2023-03-29
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
@@ -286,7 +286,7 @@
 
   <span dir=ltr>Islamic prayers reminder, for your status bar or/and scripts. displays the next prayer time. send notification if it's the time for a prayer. displays the remaining time till the next prayer. FLAGS: -r, --remain display the remaining time till the next prayer. -n, --next display the time of the next islamic prayer.</span>
 
-* <https://github.com/insha/salah> ⭐ 49 | 🐛 4 | 🌐 Rust | 📅 2026-08-06
+* <https://github.com/insha/salah> ⭐ 49 | 🐛 5 | 🌐 Rust | 📅 2026-08-06
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
@@ -426,7 +426,7 @@
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-09-07
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-09-14
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -438,7 +438,7 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 729 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 730 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
