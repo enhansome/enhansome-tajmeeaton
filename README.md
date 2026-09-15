@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 554 | 🐛 26 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 555 | 🐛 26 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 93,884 | 🐛 501 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,387 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-14, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 93,931 | 🐛 501 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,390 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-14, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,867 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -140,7 +140,7 @@
 
 ## تعريب المطلحات العلمية
 
-مشروع كبير بتعريب العلوم، هو كبير في أهدافه وطموحاته لكنه سهل في التنفيذ إن شاء الله. فكرت كما هي عادتي، أفكار متزاحمة، في عمل موقع يمكن أن أشبهه ب stackoverflow للتبسيط، حيث يمكن لأهل العلم في الاختصاص أن يعربوا المصطلحات بحيث يكون المصطلح نابعا من مصدره وموثوقا، وأن يفتح باب طلب تعريب مصطلحات والسؤال والناقاشات والتصويت على التعريبات المقترحة، وبهذا جعلنا العلم جماعيا ووزعنا الجهود علينا، وأخرجنا مصطلحات موثوقة قوية. وقد قام الأخ وليد مسبقا بعمل [مشروع لتعريب المصطلحات الفرنسية](https://github.com/01walid/Nibras) ⭐ 33 | 🐛 5 | 🌐 C++ | 📅 2014-12-10... اكتشفت مؤخرا موقع [عرب آيز](https://www.arabeyes.org/%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3_%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A) الذي هو أقرب المشاريع لفكرتي حاليا (على حد علمي طبعا). من مزايا المشروع المبسط أنه ***"يسمح باقتراح مصطلحات جديدة والتصويت عليها والنقاش حولها"***.
+مشروع كبير بتعريب العلوم، هو كبير في أهدافه وطموحاته لكنه سهل في التنفيذ إن شاء الله. فكرت كما هي عادتي، أفكار متزاحمة، في عمل موقع يمكن أن أشبهه ب stackoverflow للتبسيط، حيث يمكن لأهل العلم في الاختصاص أن يعربوا المصطلحات بحيث يكون المصطلح نابعا من مصدره وموثوقا، وأن يفتح باب طلب تعريب مصطلحات والسؤال والناقاشات والتصويت على التعريبات المقترحة، وبهذا جعلنا العلم جماعيا ووزعنا الجهود علينا، وأخرجنا مصطلحات موثوقة قوية. وقد قام الأخ وليد مسبقا بعمل [مشروع لتعريب المصطلحات الفرنسية](https://github.com/01walid/Nibras) ⭐ 34 | 🐛 5 | 🌐 C++ | 📅 2014-12-10... اكتشفت مؤخرا موقع [عرب آيز](https://www.arabeyes.org/%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3_%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A) الذي هو أقرب المشاريع لفكرتي حاليا (على حد علمي طبعا). من مزايا المشروع المبسط أنه ***"يسمح باقتراح مصطلحات جديدة والتصويت عليها والنقاش حولها"***.
 
 وجدت من يتناقش على ترجمة كلمة method في البرمجة وقد قادني العم جوجل [لهذا النقاش](https://io.hsoub.com/translate/79962-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B1%D8%AC%D9%85-method-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A7%D9%82-%D8%AA%D9%82%D9%86%D9%8A) على **حسوب I/O** وهناك نجد بعض ما نريده هنا، لكن ما نريد أكبر من هذا إذ نريد منصة متكاملة مخصصة للنقاشات على تعريب المصطلحات ويعتمد عليها في الترجمات وكتابة الأبحاث وشؤون الحياة المختلفة.
 
@@ -270,7 +270,7 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 406 | 🐛 1 | 📅 2023-03-29
+* <https://github.com/batoulapps/Adhan> ⭐ 407 | 🐛 1 | 📅 2023-03-29
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
@@ -356,7 +356,7 @@
 
   <span dir=rtl>معجم عربي للمساعده ترجمة البرمجيات الى اللغة العربية. - GitHub - aosus/arabic-tech-dictionary: معجم عربي للمساعده ترجمة البرمجيات الى اللغة العربية.</span>
 
-* <https://github.com/01walid/Nibras> ⭐ 33 | 🐛 5 | 🌐 C++ | 📅 2014-12-10
+* <https://github.com/01walid/Nibras> ⭐ 34 | 🐛 5 | 🌐 C++ | 📅 2014-12-10
 
   <span dir=rtl>نبراس، هو دليل موجه إلى طلبة السنة الأولى للشعب التقنية بالجامعة، ويحتوي على أهم المصطلحات والمفردات الي يصادفها في البرنامج الدراسي خلال هذه السنة المهمة. ويحوي هذا المعجم على أزيد من 2160 مصطلح، نحاول بها أن نغطي مجالات الشعب التقنية في السنة الأولى جامعي.</span>
 
@@ -438,11 +438,11 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 730 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 731 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 489 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 490 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
