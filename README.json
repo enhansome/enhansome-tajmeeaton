@@ -109,7 +109,7 @@
             "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 619,
+            "stars": 620,
             "topics": [
               "awesome",
               "awesome-list",
@@ -195,7 +195,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 555,
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 501,
+                "open_issues": 500,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94010,
+                "stars": 94042,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -327,10 +327,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-16T06:00:16Z",
-                "open_issues": 397,
+                "open_issues": 398,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20388,
+                "stars": 20389,
                 "topics": [
                   "javascript",
                   "katex",
@@ -779,7 +779,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-03-29T02:51:13Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "batoulapps",
                 "repo": "Adhan",
                 "stars": 408,
@@ -2819,7 +2819,7 @@
             "open_issues": 0,
             "owner": "latiif",
             "repo": "ara",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "arabic",
               "command-line-tool",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:03:11.896Z",
+    "last_updated": "2026-09-18T18:31:26.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
