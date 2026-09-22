@@ -304,7 +304,7 @@
                 "open_issues": 500,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94125,
+                "stars": 94145,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:44:30Z",
-                "open_issues": 398,
+                "last_commit": "2026-09-22T01:44:30Z",
+                "open_issues": 397,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20397,
+                "stars": 20398,
                 "topics": [
                   "javascript",
                   "katex",
@@ -357,7 +357,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": [
                   "editor",
                   "equation",
@@ -1290,7 +1290,7 @@
             "open_issues": 10,
             "owner": "aosus",
             "repo": "aosus-dictionary",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "arabic",
               "dictionary",
@@ -1853,6 +1853,27 @@
         },
         {
           "node_type": "item",
+          "title": "linuxscout/ayaspell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AyaSpell Arabic Dictionary for Hunspell Spellchecker",
+            "homepage": null,
+            "id": 76684018,
+            "language": "Shell",
+            "license": "NOASSERTION",
+            "last_commit": "2020-08-27T19:48:14Z",
+            "open_issues": 6,
+            "owner": "linuxscout",
+            "repo": "ayaspell",
+            "stars": 50,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
+        },
+        {
+          "node_type": "item",
           "title": "MTG/ArabicTransliterator",
           "description": null,
           "children": [],
@@ -1868,27 +1889,6 @@
             "owner": "MTG",
             "repo": "ArabicTransliterator",
             "stars": 50,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:01:10.922Z"
-        },
-        {
-          "node_type": "item",
-          "title": "linuxscout/ayaspell",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AyaSpell Arabic Dictionary for Hunspell Spellchecker",
-            "homepage": null,
-            "id": 76684018,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2020-08-27T19:48:14Z",
-            "open_issues": 6,
-            "owner": "linuxscout",
-            "repo": "ayaspell",
-            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2330,7 +2330,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "mishkal",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:59:55.452Z",
+    "last_updated": "2026-09-22T18:56:11.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

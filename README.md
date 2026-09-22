@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,125 | 🐛 500 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,397 | 🐛 398 | 🌐 TypeScript | 📅 2026-09-21, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,869 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,145 | 🐛 500 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,398 | 🐛 397 | 🌐 TypeScript | 📅 2026-09-22, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -470,13 +470,13 @@
 
   <span dir=ltr>Adawat: Arabic Language Toolkit Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Adawat: Arabic Language Toolkit تجمع هذه المكتبة كل الأدوات المستعملة في معالجة النص العربي مثل: التشكيل تشكيل النص العربي، يستحسن استعمال مكتبة مشكال، أو برنامج مشكال تشكيل مع اقتراحات تشكيلات أخرى لكل كلمة اختزال الحركات</span>
 
+* <https://github.com/linuxscout/ayaspell> ⭐ 50 | 🐛 6 | 🌐 Shell | 📅 2020-08-27
+
+  <span dir=ltr>AyaSpell Arabic Dictionary for Hunspell Spellchecker Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Collect data manually Mohamed Kebdani, Morroco Ayaspell project aims to provide Arabic dictionaries for free office applications like OpenOffice.org, Firefox, Thunderbird, abiword, gedit ...etc. This project is under GPL/LGPL/MPL tri-license.</span>
+
 * <https://github.com/MTG/ArabicTransliterator> ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2022-05-15
 
   <span dir=ltr>A code for transliterating (romanizing) Arabic text using the American Library Association - Library of Congress (ALA-LC) standard, but it can be extended to any other Arabic standard. It uses the mishkal library to vocalize/diacritize Arabic. Most of the dependencies are already included in the code.</span>
-
-* <https://github.com/linuxscout/ayaspell> ⭐ 49 | 🐛 6 | 🌐 Shell | 📅 2020-08-27
-
-  <span dir=ltr>AyaSpell Arabic Dictionary for Hunspell Spellchecker Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Collect data manually Mohamed Kebdani, Morroco Ayaspell project aims to provide Arabic dictionaries for free office applications like OpenOffice.org, Firefox, Thunderbird, abiword, gedit ...etc. This project is under GPL/LGPL/MPL tri-license.</span>
 
 * <https://github.com/rozester/Arabic-Word-Embeddings-Word2vec> ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-13
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 320 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 321 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 320 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 321 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 98 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
