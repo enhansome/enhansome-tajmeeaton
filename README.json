@@ -105,8 +105,8 @@
             "id": 357182222,
             "language": null,
             "license": null,
-            "last_commit": "2026-07-15T15:58:43Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-23T09:44:55Z",
+            "open_issues": 9,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 619,
@@ -150,7 +150,7 @@
             "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 580,
+            "stars": 578,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -171,7 +171,7 @@
             "open_issues": 19,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 562,
+            "stars": 560,
             "topics": [
               "arabic",
               "natural-language-processing",
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 500,
+                "open_issues": 501,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94145,
+                "stars": 94176,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T01:44:30Z",
-                "open_issues": 397,
+                "last_commit": "2026-09-23T18:58:02Z",
+                "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20398,
+                "stars": 20400,
                 "topics": [
                   "javascript",
                   "katex",
@@ -2477,7 +2477,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "qutrub",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2566,7 +2566,7 @@
             "open_issues": 10,
             "owner": "Gue3bara",
             "repo": "Cairo",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2641,7 +2641,7 @@
                 "open_issues": 1,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 472,
+                "stars": 474,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2668,7 +2668,7 @@
                 "open_issues": 4,
                 "owner": "aliftype",
                 "repo": "aref-ruqaa",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:56:11.699Z",
+    "last_updated": "2026-09-23T19:04:22.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

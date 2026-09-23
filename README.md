@@ -72,15 +72,15 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 619 | 🐛 11 | 📅 2026-07-15
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 619 | 🐛 9 | 📅 2026-09-23
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
-* <https://github.com/abdumostafa/awesome-in-arabic> ⭐ 580 | 🐛 4 | 📅 2024-01-09
+* <https://github.com/abdumostafa/awesome-in-arabic> ⭐ 578 | 🐛 4 | 📅 2024-01-09
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 19 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 560 | 🐛 19 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,145 | 🐛 500 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,398 | 🐛 397 | 🌐 TypeScript | 📅 2026-09-22, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,176 | 🐛 501 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,400 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-23, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -600,7 +600,7 @@
 
 ## تصريف
 
-* <https://github.com/linuxscout/qutrub> ⭐ 108 | 🐛 17 | 🌐 Python | 📅 2023-07-31
+* <https://github.com/linuxscout/qutrub> ⭐ 109 | 🐛 17 | 🌐 Python | 📅 2023-07-31
 
   <span dir=ltr>Qutrub: Arabic verb conjugation software قطرب: تصريف الأفعال العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com pyarabic>=0.6.2 enable mod\_python in Apache extract the qutrub package and run it from the web. The program don't need a database.</span>
 
@@ -628,7 +628,7 @@
 
 # خطوط (منصدات الخط)
 
-* <https://github.com/Gue3bara/Cairo> ⭐ 195 | 🐛 10 | 🌐 Shell | 📅 2023-03-06
+* <https://github.com/Gue3bara/Cairo> ⭐ 196 | 🐛 10 | 🌐 Shell | 📅 2023-03-06
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
@@ -644,11 +644,11 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 472 | 🐛 1 | 🌐 Python | 📅 2026-04-25
+  * <https://github.com/aliftype/amiri> ⭐ 474 | 🐛 1 | 🌐 Python | 📅 2026-04-25
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
-  * <https://github.com/aliftype/aref-ruqaa> ⭐ 133 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
+  * <https://github.com/aliftype/aref-ruqaa> ⭐ 134 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
 
     <span dir=ltr>Aref Ruqaa (رقعة عارف) is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Arabic part of Aref Ruqaa is designed by the Arabic calligrapher and type designer Abdullah Aref, while the Latin part is based on AMS Euler, but spaced for regular text rather than mathematics.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
