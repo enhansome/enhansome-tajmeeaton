@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 619 | 🐛 6 | 📅 2026-09-25
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 6 | 📅 2026-09-25
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,250 | 🐛 502 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,403 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-25, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,278 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,403 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-26, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -270,11 +270,11 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 410 | 🐛 2 | 📅 2023-03-29
+* <https://github.com/batoulapps/Adhan> ⭐ 411 | 🐛 2 | 📅 2023-03-29
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 44 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 45 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 44 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 45 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -406,7 +406,7 @@
 
   <span dir=rtl>لغة البرمجة عموريا.</span>
 
-* <https://github.com/alkhawarizm/examples> ⭐ 7 | 🐛 2 | 📅 2023-03-01
+* <https://github.com/alkhawarizm/examples> ⭐ 8 | 🐛 2 | 📅 2023-03-01
 
   <span dir=rtl>هذا مستودع لجمع مصادر أمثلة لبرامج مكتوبة بلغة الخوارزم ومعدة للترجمة. اذا اردت تشغيل هذه المشاريع او استعمال جزء منها ما عليك الا تحميلها على جهاز مزود ببيئة الخوارزم ومن تم استقبالها في مساحة العمل. اذا اردت المساهمة عن طريق اضافة أمثلة جديدة او تطوير الأمثلة المتاحة فمرحبا بك !</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
