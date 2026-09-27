@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 560 | 🐛 19 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 560 | 🐛 20 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,278 | 🐛 502 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,403 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-26, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,319 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,405 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-27, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,869 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-12
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-27
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 26 | 🌐 C++ | 📅 2026-08-28
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 27 | 🌐 C++ | 📅 2026-08-28
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -462,7 +462,7 @@
 
   <span dir=ltr>tnkeeh (تنقيح) is an Arabic preprocessing library for python. It was designed using re for creating quick replacement expressions for several examples. pip install tnkeeh Quick cleaning Segmentation Normalization Data splitting Arguments segment uses farasa for segmentation. remove\_diacritics removes all diacritics. remove\_special\_chars removes all sepcial chars. remove\_english removes english alphabets and digits.</span>
 
-* <https://github.com/maidaly/Arabic_OCR> ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2022-09-07
+* <https://github.com/maidaly/Arabic_OCR> ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2022-09-07
 
   <span dir=ltr>This repo contains Arabic OCR App. The APP can be used to extract the Arabic text from the images. This was built based on the EasyOCR library. EsayOCR built detection/recognition model to detect and recognize the characters and words. For detection part they used the pretrained model for CRAFT algorithm.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
