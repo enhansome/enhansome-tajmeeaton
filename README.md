@@ -72,11 +72,11 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 6 | 📅 2026-09-25
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 7 | 📅 2026-09-25
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
-* <https://github.com/abdumostafa/awesome-in-arabic> ⭐ 578 | 🐛 4 | 📅 2024-01-09
+* <https://github.com/abdumostafa/awesome-in-arabic> ⭐ 579 | 🐛 4 | 📅 2024-01-09
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,319 | 🐛 502 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,405 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-27, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,869 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,348 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,407 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-28, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -216,7 +216,7 @@
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
-* <https://github.com/hci-lab/PyQuran> ⭐ 155 | 🐛 4 | 🌐 Python | 📅 2024-05-24
+* <https://github.com/hci-lab/PyQuran> ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2024-05-24
 
   <span dir=ltr>PyQuran is a package which provides tools for Quranic Analysis and Arabic texts. It is still a small package which needs a lot of your effort. We believe that it is a seed of a fundamental general package for computations on Quran with Python, even at the most basic level which is simply retrieving Quran text.</span>
 
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-27
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-28
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -426,7 +426,7 @@
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-09-21
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-09-28
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -438,7 +438,7 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 732 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 733 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
@@ -600,7 +600,7 @@
 
 ## تصريف
 
-* <https://github.com/linuxscout/qutrub> ⭐ 109 | 🐛 17 | 🌐 Python | 📅 2023-07-31
+* <https://github.com/linuxscout/qutrub> ⭐ 110 | 🐛 17 | 🌐 Python | 📅 2023-07-31
 
   <span dir=ltr>Qutrub: Arabic verb conjugation software قطرب: تصريف الأفعال العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com pyarabic>=0.6.2 enable mod\_python in Apache extract the qutrub package and run it from the web. The program don't need a database.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
