@@ -109,7 +109,7 @@
             "open_issues": 7,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 620,
+            "stars": 621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 502,
+                "open_issues": 503,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94348,
+                "stars": 94378,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -330,7 +330,7 @@
                 "open_issues": 396,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20407,
+                "stars": 20411,
                 "topics": [
                   "javascript",
                   "katex",
@@ -505,7 +505,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -1391,7 +1391,7 @@
             "open_issues": 6,
             "owner": "nasser",
             "repo": "---",
-            "stars": 799,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1690,7 +1690,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 491,
+            "stars": 492,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -2134,7 +2134,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2641,7 +2641,7 @@
                 "open_issues": 1,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:14:49.301Z",
+    "last_updated": "2026-09-29T20:00:39.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
