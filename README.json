@@ -109,7 +109,7 @@
             "open_issues": 7,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 621,
+            "stars": 620,
             "topics": [
               "awesome",
               "awesome-list",
@@ -301,10 +301,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 503,
+                "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94378,
+                "stars": 94405,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -326,11 +326,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T19:30:59Z",
-                "open_issues": 396,
+                "last_commit": "2026-09-30T17:29:41Z",
+                "open_issues": 395,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20411,
+                "stars": 20413,
                 "topics": [
                   "javascript",
                   "katex",
@@ -728,7 +728,7 @@
                     "open_issues": 4,
                     "owner": "quran",
                     "repo": "ayah-detection",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.922Z"
@@ -749,7 +749,7 @@
                     "open_issues": 7,
                     "owner": "quran",
                     "repo": "tajweed",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
                       "quran",
                       "tajweed"
@@ -2897,7 +2897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:00:39.551Z",
+    "last_updated": "2026-09-30T20:02:53.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

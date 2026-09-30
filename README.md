@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 621 | 🐛 7 | 📅 2026-09-25
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 7 | 📅 2026-09-25
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,378 | 🐛 503 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,411 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-28, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,405 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,413 | 🐛 395 | 🌐 TypeScript | 📅 2026-09-30, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -250,11 +250,11 @@
 
 * <https://github.com/quran>
 
-  * <https://github.com/quran/ayah-detection> ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2023-04-02
+  * <https://github.com/quran/ayah-detection> ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2023-04-02
 
     <span dir=rtl>بسم الله الرحمن الرحيم Quran utils is a set of scripts for detecting ayat in quran images. it's very rough, but it definitely works (tested on 3 sets of images - shamerly, qaloon, and warsh images). ayat.py - detects ayah images in a particular image.</span>
 
-  * <https://github.com/quran/tajweed> ⭐ 75 | 🐛 7 | 🌐 Java | 📅 2018-10-07
+  * <https://github.com/quran/tajweed> ⭐ 76 | 🐛 7 | 🌐 Java | 📅 2018-10-07
 
     <span dir=rtl>بسم الله الرحمن الرحيم In the name of Allah, Most Gracious, Most Merciful The purpose of this project is to experiment with "tajweed syntax highlighting," or writing algorithms to color code the various tajweed rules as is found in the tajweed mus7af.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
