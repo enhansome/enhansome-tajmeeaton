@@ -5,66 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "mobadarah/tajmeeaton",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
-            "homepage": "https://mobadarah.github.io/tajmeeaton-web/",
-            "id": 326423100,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-04-24T13:54:08Z",
-            "open_issues": 9,
-            "owner": "mobadarah",
-            "repo": "tajmeeaton",
-            "stars": 342,
-            "topics": [
-              "arabic",
-              "arabic-font",
-              "arabic-language",
-              "arabic-nlp",
-              "arabic-numbers",
-              "awesome",
-              "awesome-list",
-              "islam"
-            ]
-          },
-          "first_seen": "2026-08-29T00:01:10.922Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mobadarah/tajmeeaton",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
-            "homepage": "https://mobadarah.github.io/tajmeeaton-web/",
-            "id": 326423100,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-04-24T13:54:08Z",
-            "open_issues": 9,
-            "owner": "mobadarah",
-            "repo": "tajmeeaton",
-            "stars": 342,
-            "topics": [
-              "arabic",
-              "arabic-font",
-              "arabic-language",
-              "arabic-nlp",
-              "arabic-numbers",
-              "awesome",
-              "awesome-list",
-              "islam"
-            ]
-          },
-          "first_seen": "2026-08-29T00:01:10.922Z"
-        },
-        {
-          "node_type": "item",
           "title": "ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في .\\انتج-ملف-اقرأني",
           "description": "، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين",
           "children": [],
@@ -96,7 +36,7 @@
         {
           "node_type": "item",
           "title": "choubari/Awesome-Muslims",
-          "description": null,
+          "description": "choubari/Awesome-Muslims",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +77,7 @@
         {
           "node_type": "item",
           "title": "abdumostafa/awesome-in-arabic",
-          "description": null,
+          "description": "abdumostafa/awesome-in-arabic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,7 +98,7 @@
         {
           "node_type": "item",
           "title": "01walid/awesome-arabic",
-          "description": null,
+          "description": "01walid/awesome-arabic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,7 +125,7 @@
         {
           "node_type": "item",
           "title": "AhmedKamal/awesome-Islam",
-          "description": null,
+          "description": "AhmedKamal/awesome-Islam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,7 +146,7 @@
         {
           "node_type": "item",
           "title": "linuxscout/arabicnlptoolslist",
-          "description": null,
+          "description": "linuxscout/arabicnlptoolslist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -232,7 +172,7 @@
         {
           "node_type": "item",
           "title": "aissa-bouguern/arabic-programming-blogs",
-          "description": null,
+          "description": "aissa-bouguern/arabic-programming-blogs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +231,7 @@
             {
               "node_type": "item",
               "title": "Manim",
-              "description": null,
+              "description": "3b1b/manim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +244,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94467,
+                "stars": 94483,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -330,7 +270,7 @@
                 "open_issues": 391,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20421,
+                "stars": 20422,
                 "topics": [
                   "javascript",
                   "katex",
@@ -344,7 +284,7 @@
             {
               "node_type": "item",
               "title": "Mathquill",
-              "description": null,
+              "description": "mathquill/mathquill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "editor",
                   "equation",
@@ -372,7 +312,7 @@
             {
               "node_type": "item",
               "title": "OmarIthawi/arabic-mathjax",
-              "description": null,
+              "description": "OmarIthawi/arabic-mathjax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -413,7 +353,7 @@
             {
               "node_type": "item",
               "title": "Alfanous-team/alfanous",
-              "description": null,
+              "description": "Alfanous-team/alfanous",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +383,7 @@
             {
               "node_type": "item",
               "title": "Mohamed-Nagdy/Quran-App-Data",
-              "description": null,
+              "description": "Mohamed-Nagdy/Quran-App-Data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +411,7 @@
             {
               "node_type": "item",
               "title": "TarteelAI/tarteel-ml",
-              "description": null,
+              "description": "TarteelAI/tarteel-ml",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -492,7 +432,7 @@
             {
               "node_type": "item",
               "title": "cpfair/quran-tajweed",
-              "description": null,
+              "description": "cpfair/quran-tajweed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +458,7 @@
             {
               "node_type": "item",
               "title": "hci-lab/PyQuran",
-              "description": null,
+              "description": "hci-lab/PyQuran",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -528,7 +468,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2024-05-24T13:40:24Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "hci-lab",
                 "repo": "PyQuran",
                 "stars": 155,
@@ -539,7 +479,7 @@
             {
               "node_type": "item",
               "title": "Qutuf/Qutuf",
-              "description": null,
+              "description": "Qutuf/Qutuf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -581,7 +521,7 @@
             {
               "node_type": "item",
               "title": "bilalbentoumi/quran-database",
-              "description": null,
+              "description": "bilalbentoumi/quran-database",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -602,7 +542,7 @@
             {
               "node_type": "item",
               "title": "ojuba-org/othman",
-              "description": null,
+              "description": "ojuba-org/othman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -626,7 +566,7 @@
             {
               "node_type": "item",
               "title": "Crescent-Labs/iqra-web",
-              "description": null,
+              "description": "Crescent-Labs/iqra-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -647,7 +587,7 @@
             {
               "node_type": "item",
               "title": "yucefsourani/albasheer-electronic-quran-browser",
-              "description": null,
+              "description": "yucefsourani/albasheer-electronic-quran-browser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +608,7 @@
             {
               "node_type": "item",
               "title": "malayyoub/Ahkam-Al-Tajweed",
-              "description": null,
+              "description": "malayyoub/Ahkam-Al-Tajweed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,7 +629,7 @@
             {
               "node_type": "item",
               "title": "moroclash/Visualization-Of-Quran",
-              "description": null,
+              "description": "moroclash/Visualization-Of-Quran",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -715,7 +655,7 @@
                 {
                   "node_type": "item",
                   "title": "quran/ayah-detection",
-                  "description": null,
+                  "description": "quran/ayah-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -736,7 +676,7 @@
                 {
                   "node_type": "item",
                   "title": "quran/tajweed",
-                  "description": null,
+                  "description": "quran/tajweed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -769,7 +709,7 @@
             {
               "node_type": "item",
               "title": "batoulapps/Adhan",
-              "description": null,
+              "description": "batoulapps/Adhan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -790,7 +730,7 @@
             {
               "node_type": "item",
               "title": "AbdelrahmanBayoumi/Azkar-App",
-              "description": null,
+              "description": "AbdelrahmanBayoumi/Azkar-App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +766,7 @@
             {
               "node_type": "item",
               "title": "Mosque-Screens/Mosque-Screen",
-              "description": null,
+              "description": "Mosque-Screens/Mosque-Screen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -868,7 +808,7 @@
             {
               "node_type": "item",
               "title": "AbdeltwabMF/next-prayer",
-              "description": null,
+              "description": "AbdeltwabMF/next-prayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -902,7 +842,7 @@
             {
               "node_type": "item",
               "title": "insha/salah",
-              "description": null,
+              "description": "insha/salah",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -923,7 +863,7 @@
             {
               "node_type": "item",
               "title": "meltuhamy/belfastsalah",
-              "description": null,
+              "description": "meltuhamy/belfastsalah",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -944,7 +884,7 @@
             {
               "node_type": "item",
               "title": "meltuhamy/masjid-times",
-              "description": null,
+              "description": "meltuhamy/masjid-times",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +905,7 @@
             {
               "node_type": "item",
               "title": "hayalasalah/adhan.py",
-              "description": null,
+              "description": "hayalasalah/adhan.py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +933,7 @@
             {
               "node_type": "item",
               "title": "AbdelrahmanBayoumi/Azkar-App",
-              "description": null,
+              "description": "AbdelrahmanBayoumi/Azkar-App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +976,7 @@
             {
               "node_type": "item",
               "title": "choubari/Muslim-App",
-              "description": null,
+              "description": "choubari/Muslim-App",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1076,7 +1016,7 @@
             {
               "node_type": "item",
               "title": "abougouffa/pyIslam",
-              "description": null,
+              "description": "abougouffa/pyIslam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1109,7 +1049,7 @@
             {
               "node_type": "item",
               "title": "galacticwarrior9/IslamBot",
-              "description": null,
+              "description": "galacticwarrior9/IslamBot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1122,7 +1062,7 @@
                 "open_issues": 17,
                 "owner": "galacticwarrior9",
                 "repo": "IslamBot",
-                "stars": 111,
+                "stars": 110,
                 "topics": [
                   "discord-bot",
                   "hadith",
@@ -1137,7 +1077,7 @@
             {
               "node_type": "item",
               "title": "arabeyes-org/ITL",
-              "description": null,
+              "description": "arabeyes-org/ITL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1158,7 +1098,7 @@
             {
               "node_type": "item",
               "title": "tanafaso/tanafaso",
-              "description": null,
+              "description": "tanafaso/tanafaso",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,7 +1125,7 @@
             {
               "node_type": "item",
               "title": "eneserdogan/iftar",
-              "description": null,
+              "description": "eneserdogan/iftar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1215,7 +1155,7 @@
             {
               "node_type": "item",
               "title": "AhmedAshrafAZ/BoycottFrench",
-              "description": null,
+              "description": "AhmedAshrafAZ/BoycottFrench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1187,7 @@
         {
           "node_type": "item",
           "title": "softvenue/i18n",
-          "description": null,
+          "description": "softvenue/i18n",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1277,7 +1217,7 @@
         {
           "node_type": "item",
           "title": "aosus/aosus-dictionary",
-          "description": null,
+          "description": "aosus/aosus-dictionary",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1290,7 +1230,7 @@
             "open_issues": 10,
             "owner": "aosus",
             "repo": "aosus-dictionary",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "arabic",
               "dictionary",
@@ -1302,7 +1242,7 @@
         {
           "node_type": "item",
           "title": "01walid/Nibras",
-          "description": null,
+          "description": "01walid/Nibras",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1323,7 +1263,7 @@
         {
           "node_type": "item",
           "title": "OmarIthawi/arabic-mathjax",
-          "description": null,
+          "description": "OmarIthawi/arabic-mathjax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1351,7 +1291,7 @@
         {
           "node_type": "item",
           "title": "forabi/arabic-tech-terminology",
-          "description": null,
+          "description": "forabi/arabic-tech-terminology",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1378,7 +1318,7 @@
         {
           "node_type": "item",
           "title": "nasser/---",
-          "description": null,
+          "description": "nasser/---",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1399,7 +1339,7 @@
         {
           "node_type": "item",
           "title": "SimplyAhmazing/noor",
-          "description": null,
+          "description": "SimplyAhmazing/noor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1420,7 +1360,7 @@
         {
           "node_type": "item",
           "title": "arabi-js/arabi",
-          "description": null,
+          "description": "arabi-js/arabi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1441,7 +1381,7 @@
         {
           "node_type": "item",
           "title": "alifcommunity/compiler",
-          "description": null,
+          "description": "alifcommunity/compiler",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1462,7 +1402,7 @@
         {
           "node_type": "item",
           "title": "Alusus/Alusus",
-          "description": null,
+          "description": "Alusus/Alusus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1471,8 +1411,8 @@
             "id": 176015477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T19:15:43Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-03T01:44:57Z",
+            "open_issues": 27,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -1483,7 +1423,7 @@
         {
           "node_type": "item",
           "title": "fakoua/labiba",
-          "description": null,
+          "description": "fakoua/labiba",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1504,7 +1444,7 @@
         {
           "node_type": "item",
           "title": "mobadarah/kalimat-lang",
-          "description": null,
+          "description": "mobadarah/kalimat-lang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1525,7 +1465,7 @@
         {
           "node_type": "item",
           "title": "mobadarah/Ammoria",
-          "description": null,
+          "description": "mobadarah/Ammoria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1546,7 +1486,7 @@
         {
           "node_type": "item",
           "title": "alkhawarizm/examples",
-          "description": null,
+          "description": "alkhawarizm/examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1567,7 +1507,7 @@
         {
           "node_type": "item",
           "title": "KL13NT/nabdjs",
-          "description": null,
+          "description": "KL13NT/nabdjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1594,7 +1534,7 @@
         {
           "node_type": "item",
           "title": "javascript-tutorial/ar.javascript.info",
-          "description": null,
+          "description": "javascript-tutorial/ar.javascript.info",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1619,7 +1559,7 @@
         {
           "node_type": "item",
           "title": "imAbdelhadi/coursera-subtitle-translation-arabic",
-          "description": null,
+          "description": "imAbdelhadi/coursera-subtitle-translation-arabic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,7 +1586,7 @@
         {
           "node_type": "item",
           "title": "aub-mind/arabert",
-          "description": null,
+          "description": "aub-mind/arabert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1677,7 +1617,7 @@
         {
           "node_type": "item",
           "title": "linuxscout/pyarabic",
-          "description": null,
+          "description": "linuxscout/pyarabic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1702,7 +1642,7 @@
         {
           "node_type": "item",
           "title": "mpcabd/python-arabic-reshaper",
-          "description": null,
+          "description": "mpcabd/python-arabic-reshaper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1727,7 +1667,7 @@
         {
           "node_type": "item",
           "title": "HusseinYoussef/Arabic-OCR",
-          "description": null,
+          "description": "HusseinYoussef/Arabic-OCR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1760,7 +1700,7 @@
         {
           "node_type": "item",
           "title": "linuxscout/arabicnlptoolslist",
-          "description": null,
+          "description": "linuxscout/arabicnlptoolslist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1786,7 +1726,7 @@
         {
           "node_type": "item",
           "title": "ARBML/tnkeeh",
-          "description": null,
+          "description": "ARBML/tnkeeh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1812,7 +1752,7 @@
         {
           "node_type": "item",
           "title": "maidaly/Arabic_OCR",
-          "description": null,
+          "description": "maidaly/Arabic_OCR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1833,7 +1773,7 @@
         {
           "node_type": "item",
           "title": "linuxscout/adawat",
-          "description": null,
+          "description": "linuxscout/adawat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1854,7 +1794,7 @@
         {
           "node_type": "item",
           "title": "linuxscout/ayaspell",
-          "description": null,
+          "description": "linuxscout/ayaspell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1875,7 +1815,7 @@
         {
           "node_type": "item",
           "title": "MTG/ArabicTransliterator",
-          "description": null,
+          "description": "MTG/ArabicTransliterator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1896,7 +1836,7 @@
         {
           "node_type": "item",
           "title": "rozester/Arabic-Word-Embeddings-Word2vec",
-          "description": null,
+          "description": "rozester/Arabic-Word-Embeddings-Word2vec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1925,7 +1865,7 @@
         {
           "node_type": "item",
           "title": "linuxscout/languagetool",
-          "description": null,
+          "description": "linuxscout/languagetool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1948,7 +1888,7 @@
             {
               "node_type": "item",
               "title": "HusseinYoussef/Arabic-OCR",
-              "description": null,
+              "description": "HusseinYoussef/Arabic-OCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1981,7 +1921,7 @@
             {
               "node_type": "item",
               "title": "SemanticFrontiers/ArabicNLP",
-              "description": null,
+              "description": "SemanticFrontiers/ArabicNLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2002,7 +1942,7 @@
             {
               "node_type": "item",
               "title": "LiyuanLucasLiu/ArabicNER",
-              "description": null,
+              "description": "LiyuanLucasLiu/ArabicNER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +1970,7 @@
             {
               "node_type": "item",
               "title": "HassanAzzam/Arabic-NER",
-              "description": null,
+              "description": "HassanAzzam/Arabic-NER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2051,7 +1991,7 @@
             {
               "node_type": "item",
               "title": "JubbaSmail/Arabic-Handwriting-Recognition-Using-Matlab",
-              "description": null,
+              "description": "JubbaSmail/Arabic-Handwriting-Recognition-Using-Matlab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2072,7 +2012,7 @@
             {
               "node_type": "item",
               "title": "Fahad-Alsaidi/raqin",
-              "description": null,
+              "description": "Fahad-Alsaidi/raqin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2093,7 +2033,7 @@
             {
               "node_type": "item",
               "title": "d7miiZ/Arabic-Font-Detector",
-              "description": null,
+              "description": "d7miiZ/Arabic-Font-Detector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2121,7 +2061,7 @@
             {
               "node_type": "item",
               "title": "ARBML/klaam",
-              "description": null,
+              "description": "ARBML/klaam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2147,7 +2087,7 @@
             {
               "node_type": "item",
               "title": "yoosif0/arabic-tacotron-tts",
-              "description": null,
+              "description": "yoosif0/arabic-tacotron-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2168,7 +2108,7 @@
             {
               "node_type": "item",
               "title": "linuxscout/festival-tts-arabic-voices",
-              "description": null,
+              "description": "linuxscout/festival-tts-arabic-voices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2189,7 +2129,7 @@
             {
               "node_type": "item",
               "title": "nawarhalabi/festival-tts-arabic-voices-docker",
-              "description": null,
+              "description": "nawarhalabi/festival-tts-arabic-voices-docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2210,7 +2150,7 @@
             {
               "node_type": "item",
               "title": "asrajeh/arabic-tts",
-              "description": null,
+              "description": "asrajeh/arabic-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2235,7 +2175,7 @@
             {
               "node_type": "item",
               "title": "malayyoub/Ahkam-Al-Tajweed",
-              "description": null,
+              "description": "malayyoub/Ahkam-Al-Tajweed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2263,7 +2203,7 @@
             {
               "node_type": "item",
               "title": "sohaibafifi/languagetool-tools-ar",
-              "description": null,
+              "description": "sohaibafifi/languagetool-tools-ar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2291,7 +2231,7 @@
             {
               "node_type": "item",
               "title": "Barqawiz/Shakkala",
-              "description": null,
+              "description": "Barqawiz/Shakkala",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2317,7 +2257,7 @@
             {
               "node_type": "item",
               "title": "linuxscout/mishkal",
-              "description": null,
+              "description": "linuxscout/mishkal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2343,7 +2283,7 @@
             {
               "node_type": "item",
               "title": "AliOsm/shakkelha",
-              "description": null,
+              "description": "AliOsm/shakkelha",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2373,7 +2313,7 @@
             {
               "node_type": "item",
               "title": "AliOsm/arabic-text-diacritization",
-              "description": null,
+              "description": "AliOsm/arabic-text-diacritization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2409,7 +2349,7 @@
             {
               "node_type": "item",
               "title": "assem-ch/arabicstemmer",
-              "description": null,
+              "description": "assem-ch/arabicstemmer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2436,7 +2376,7 @@
             {
               "node_type": "item",
               "title": "ejtaal/jsastem",
-              "description": null,
+              "description": "ejtaal/jsastem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2464,7 +2404,7 @@
             {
               "node_type": "item",
               "title": "linuxscout/qutrub",
-              "description": null,
+              "description": "linuxscout/qutrub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2489,7 +2429,7 @@
             {
               "node_type": "item",
               "title": "alsaydi/sarf",
-              "description": null,
+              "description": "alsaydi/sarf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2521,7 +2461,7 @@
             {
               "node_type": "item",
               "title": "hayderkharrufa/arabic_poem_generator",
-              "description": null,
+              "description": "hayderkharrufa/arabic_poem_generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2553,7 +2493,7 @@
         {
           "node_type": "item",
           "title": "Gue3bara/Cairo",
-          "description": null,
+          "description": "Gue3bara/Cairo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2574,7 +2514,7 @@
         {
           "node_type": "item",
           "title": "aiaf/kawkab-mono",
-          "description": null,
+          "description": "aiaf/kawkab-mono",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2595,7 +2535,7 @@
         {
           "node_type": "item",
           "title": "aiaf/nimra",
-          "description": null,
+          "description": "aiaf/nimra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2628,7 +2568,7 @@
             {
               "node_type": "item",
               "title": "aliftype/amiri",
-              "description": null,
+              "description": "aliftype/amiri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2641,7 +2581,7 @@
                 "open_issues": 1,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2655,7 +2595,7 @@
             {
               "node_type": "item",
               "title": "aliftype/aref-ruqaa",
-              "description": null,
+              "description": "aliftype/aref-ruqaa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2682,7 +2622,7 @@
             {
               "node_type": "item",
               "title": "aliftype/qahiri",
-              "description": null,
+              "description": "aliftype/qahiri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2716,7 +2656,7 @@
         {
           "node_type": "item",
           "title": "drelhaj/OsmanReadability",
-          "description": null,
+          "description": "drelhaj/OsmanReadability",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2737,7 +2677,7 @@
         {
           "node_type": "item",
           "title": "KL13NT/AIUX",
-          "description": null,
+          "description": "KL13NT/AIUX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2764,7 +2704,7 @@
         {
           "node_type": "item",
           "title": "aqeelat/arabic-apis",
-          "description": null,
+          "description": "aqeelat/arabic-apis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2785,7 +2725,7 @@
         {
           "node_type": "item",
           "title": "MohsenAlyafei/tafqit",
-          "description": null,
+          "description": "MohsenAlyafei/tafqit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2806,7 +2746,7 @@
         {
           "node_type": "item",
           "title": "latiif/ara",
-          "description": null,
+          "description": "latiif/ara",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2832,7 +2772,7 @@
         {
           "node_type": "item",
           "title": "imAbdelhadi/simplemde-rtl",
-          "description": null,
+          "description": "imAbdelhadi/simplemde-rtl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2853,7 +2793,7 @@
         {
           "node_type": "item",
           "title": "mhsabbagh/mujallad",
-          "description": null,
+          "description": "mhsabbagh/mujallad",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2874,7 +2814,7 @@
         {
           "node_type": "item",
           "title": "mhsabbagh/helallinux",
-          "description": null,
+          "description": "mhsabbagh/helallinux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2897,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:57:40.721Z",
+    "last_updated": "2026-10-03T05:11:10.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

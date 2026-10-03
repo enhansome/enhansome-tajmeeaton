@@ -14,8 +14,8 @@
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
-* <https://github.com/mobadarah/tajmeeaton/issues/7> ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24
-* <https://github.com/mobadarah/tajmeeaton/discussions/11> ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24
+* <https://github.com/mobadarah/tajmeeaton/issues/7>
+* <https://github.com/mobadarah/tajmeeaton/discussions/11>
 
 **ملاحظات:**
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,467 | 🐛 502 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,421 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-02, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,483 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,422 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-02, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -194,7 +194,7 @@
 
 وبسبب وجود محاولات لإنشاء لغة عربية قادرة على التحدي والظهور، فلا بد من توافر خط، منضد، للنص العربي ليكون أحادي المسافة وملائما للغة العربية والأكواد المكتوبة بها. يوجد محاولات جيدة مثل [خط كوكب](https://makkuk.com/kawkab-mono/)، لكن ليس كل الحروف إلزاما أن يكون تواجدها بنفس العرض، يمكنك الإطلاع على [هذه التويتة](https://twitter.com/KhaledGhetas/status/1416918281169121282) لخالد حسني...
 
-اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24
+اللغة الإنجليزية لها كثير من اللغات أحادية المسافة المناسبة لكل الأذواق، لكن العربية لا يتوفر لها سوى القليل، [انظر الخطوط أحادية المسافة](https://github.com/mobadarah/tajmeeaton#خطوط-أحادية-المسافة)
 
 # في خدمة الإسلام
 
@@ -216,7 +216,7 @@
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
-* <https://github.com/hci-lab/PyQuran> ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2024-05-24
+* <https://github.com/hci-lab/PyQuran> ⭐ 155 | 🐛 6 | 🌐 Python | 📅 2024-05-24
 
   <span dir=ltr>PyQuran is a package which provides tools for Quranic Analysis and Arabic texts. It is still a small package which needs a lot of your effort. We believe that it is a seed of a fundamental general package for computations on Quran with Python, even at the most basic level which is simply retrieving Quran text.</span>
 
@@ -322,7 +322,7 @@
 
   <span dir=ltr>is a python islamic library, it can calculates prayer times, qibla direction, convert between gregorian and hijri, calculate zakat and mirath. Actually, the library can does: Simply run: Note that the pip package name is islam and not pyIslam, pyIslam is taken by another project on PyPi.</span>
 
-* <https://github.com/galacticwarrior9/IslamBot> ⭐ 111 | 🐛 17 | 🌐 Python | 📅 2026-01-06
+* <https://github.com/galacticwarrior9/IslamBot> ⭐ 110 | 🐛 17 | 🌐 Python | 📅 2026-01-06
 
   <span dir=ltr>An Islamic bot for Discord with the following features: Qur'an, with support for 100+ translations. Tafsir, with 9 available in English and 37 in Arabic. Hadith in English and Arabic, from sunnah.com. Prayer times for any location in the world, with the ability to set reminders and change the calculation method.</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-08-28
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 27 | 🌐 C++ | 📅 2026-10-03
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -644,7 +644,7 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 475 | 🐛 1 | 🌐 Python | 📅 2026-04-25
+  * <https://github.com/aliftype/amiri> ⭐ 476 | 🐛 1 | 🌐 Python | 📅 2026-04-25
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
