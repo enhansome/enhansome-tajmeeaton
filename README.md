@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 8 | 📅 2026-09-25
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 6 | 📅 2026-10-03
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,508 | 🐛 502 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,423 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-03, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,544 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,427 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-04, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-03
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-04
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -438,7 +438,7 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 733 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 734 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

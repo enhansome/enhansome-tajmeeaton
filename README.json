@@ -45,8 +45,8 @@
             "id": 357182222,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-25T15:47:23Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T21:49:33Z",
+            "open_issues": 6,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 620,
@@ -244,7 +244,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94508,
+                "stars": 94544,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T17:05:36Z",
+                "last_commit": "2026-10-04T13:17:06Z",
                 "open_issues": 391,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20423,
+                "stars": 20427,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T17:47:19Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-04T17:30:21Z",
+                "open_issues": 14,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -1599,7 +1599,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 733,
+            "stars": 734,
             "topics": [
               "arabert",
               "arabic",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:41:37.253Z",
+    "last_updated": "2026-10-04T18:39:08.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
