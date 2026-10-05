@@ -111,7 +111,7 @@
             "open_issues": 20,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "arabic",
               "natural-language-processing",
@@ -244,7 +244,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94544,
+                "stars": 94631,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-04T13:17:06Z",
-                "open_issues": 391,
+                "last_commit": "2026-10-05T17:27:23Z",
+                "open_issues": 392,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20427,
+                "stars": 20429,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2871,
+                "stars": 2872,
                 "topics": [
                   "editor",
                   "equation",
@@ -719,7 +719,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2023-03-29T02:51:13Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "batoulapps",
                 "repo": "Adhan",
                 "stars": 411,
@@ -855,7 +855,7 @@
                 "open_issues": 5,
                 "owner": "insha",
                 "repo": "salah",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T17:30:21Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-05T06:28:45Z",
+                "open_issues": 15,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -1543,7 +1543,7 @@
             "id": 202420542,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T05:00:10Z",
+            "last_commit": "2026-10-05T05:00:09Z",
             "open_issues": 19,
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
@@ -1680,7 +1680,7 @@
             "open_issues": 8,
             "owner": "HusseinYoussef",
             "repo": "Arabic-OCR",
-            "stars": 331,
+            "stars": 330,
             "topics": [
               "arabic",
               "character-segmentation",
@@ -1901,7 +1901,7 @@
                 "open_issues": 8,
                 "owner": "HusseinYoussef",
                 "repo": "Arabic-OCR",
-                "stars": 331,
+                "stars": 330,
                 "topics": [
                   "arabic",
                   "character-segmentation",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:39:08.587Z",
+    "last_updated": "2026-10-05T22:02:01.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
