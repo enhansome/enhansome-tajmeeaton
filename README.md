@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 561 | 🐛 20 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 561 | 🐛 21 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,631 | 🐛 502 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,429 | 🐛 392 | 🌐 TypeScript | 📅 2026-10-05, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,660 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,430 | 🐛 392 | 🌐 TypeScript | 📅 2026-10-05, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,872 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -286,7 +286,7 @@
 
   <span dir=ltr>Islamic prayers reminder, for your status bar or/and scripts. displays the next prayer time. send notification if it's the time for a prayer. displays the remaining time till the next prayer. FLAGS: -r, --remain display the remaining time till the next prayer. -n, --next display the time of the next islamic prayer.</span>
 
-* <https://github.com/insha/salah> ⭐ 50 | 🐛 5 | 🌐 Rust | 📅 2026-08-06
+* <https://github.com/insha/salah> ⭐ 50 | 🐛 6 | 🌐 Rust | 📅 2026-08-06
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
@@ -470,7 +470,7 @@
 
   <span dir=ltr>Adawat: Arabic Language Toolkit Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Adawat: Arabic Language Toolkit تجمع هذه المكتبة كل الأدوات المستعملة في معالجة النص العربي مثل: التشكيل تشكيل النص العربي، يستحسن استعمال مكتبة مشكال، أو برنامج مشكال تشكيل مع اقتراحات تشكيلات أخرى لكل كلمة اختزال الحركات</span>
 
-* <https://github.com/linuxscout/ayaspell> ⭐ 50 | 🐛 6 | 🌐 Shell | 📅 2020-08-27
+* <https://github.com/linuxscout/ayaspell> ⭐ 51 | 🐛 6 | 🌐 Shell | 📅 2020-08-27
 
   <span dir=ltr>AyaSpell Arabic Dictionary for Hunspell Spellchecker Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Collect data manually Mohamed Kebdani, Morroco Ayaspell project aims to provide Arabic dictionaries for free office applications like OpenOffice.org, Firefox, Thunderbird, abiword, gedit ...etc. This project is under GPL/LGPL/MPL tri-license.</span>
 
@@ -628,7 +628,7 @@
 
 # خطوط (منصدات الخط)
 
-* <https://github.com/Gue3bara/Cairo> ⭐ 196 | 🐛 10 | 🌐 Shell | 📅 2023-03-06
+* <https://github.com/Gue3bara/Cairo> ⭐ 197 | 🐛 10 | 🌐 Shell | 📅 2023-03-06
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
