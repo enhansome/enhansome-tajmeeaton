@@ -138,7 +138,7 @@
             "open_issues": 28,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 556,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 503,
+                "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94669,
+                "stars": 94719,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T20:00:16Z",
+                "last_commit": "2026-10-07T01:09:49Z",
                 "open_issues": 392,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20430,
+                "stars": 20434,
                 "topics": [
                   "javascript",
                   "katex",
@@ -722,7 +722,7 @@
                 "open_issues": 2,
                 "owner": "batoulapps",
                 "repo": "Adhan",
-                "stars": 411,
+                "stars": 412,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1599,7 +1599,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 734,
+            "stars": 735,
             "topics": [
               "arabert",
               "arabic",
@@ -1630,7 +1630,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 492,
+            "stars": 493,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -1655,7 +1655,7 @@
             "open_issues": 22,
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 447,
+            "stars": 448,
             "topics": [
               "arabic",
               "python",
@@ -1680,7 +1680,7 @@
             "open_issues": 8,
             "owner": "HusseinYoussef",
             "repo": "Arabic-OCR",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "arabic",
               "character-segmentation",
@@ -1901,7 +1901,7 @@
                 "open_issues": 8,
                 "owner": "HusseinYoussef",
                 "repo": "Arabic-OCR",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "arabic",
                   "character-segmentation",
@@ -2074,7 +2074,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 435,
+                "stars": 434,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:21:06.087Z",
+    "last_updated": "2026-10-07T20:38:29.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
