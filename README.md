@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 7 | 📅 2026-10-03
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 619 | 🐛 8 | 📅 2026-10-03
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 557 | 🐛 28 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 557 | 🐛 29 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,765 | 🐛 499 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,436 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-08, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,872 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,811 | 🐛 499 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,436 | 🐛 394 | 🌐 TypeScript | 📅 2026-10-09, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -270,7 +270,7 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 412 | 🐛 2 | 📅 2023-03-29
+* <https://github.com/batoulapps/Adhan> ⭐ 413 | 🐛 2 | 📅 2023-03-29
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 27 | 🌐 C++ | 📅 2026-10-03
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 26 | 🌐 C++ | 📅 2026-10-09
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 493 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 494 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -644,7 +644,7 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 476 | 🐛 1 | 🌐 Python | 📅 2026-04-25
+  * <https://github.com/aliftype/amiri> ⭐ 476 | 🐛 2 | 🌐 Python | 📅 2026-04-25
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
@@ -696,9 +696,9 @@
 
   <span dir=rtl>1. Introduction 2. Syntax and Parameters 3. Examples of General Use 4. Default Values 5. Option Settings 6. Increasing the Scale 7. Using Arabic-Indic Numbers 8. General Notes on Code 9.</span>
 
-* <https://github.com/latiif/ara> ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-08-07
+* <https://github.com/latiif/ara> ⭐ 57 | 🐛 0 | 🌐 Go | 📅 2026-08-07
 
-  <span dir=ltr>A command line tool that correctly displays Arabic text in terminals. Check releases and download the binary directly. Get the binary and add it to your $PATH wget <https://github.com/latiif/ara/releases/download/v0.7/ara> ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-08-07 && chmod +x ara 🆕 Undotting of Arabic letters (Rasm). 🆕 Revamped command line interface.</span>
+  <span dir=ltr>A command line tool that correctly displays Arabic text in terminals. Check releases and download the binary directly. Get the binary and add it to your $PATH wget <https://github.com/latiif/ara/releases/download/v0.7/ara> ⭐ 57 | 🐛 0 | 🌐 Go | 📅 2026-08-07 && chmod +x ara 🆕 Undotting of Arabic letters (Rasm). 🆕 Revamped command line interface.</span>
 
 * <https://github.com/imAbdelhadi/simplemde-rtl> ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-16
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

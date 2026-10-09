@@ -46,10 +46,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-03T21:49:33Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 620,
+            "stars": 619,
             "topics": [
               "awesome",
               "awesome-list",
@@ -135,7 +135,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 557,
@@ -244,7 +244,7 @@
                 "open_issues": 499,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94765,
+                "stars": 94811,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,8 +266,8 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:49:26Z",
-                "open_issues": 393,
+                "last_commit": "2026-10-09T06:03:10Z",
+                "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
                 "stars": 20436,
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2872,
+                "stars": 2871,
                 "topics": [
                   "editor",
                   "equation",
@@ -722,7 +722,7 @@
                 "open_issues": 2,
                 "owner": "batoulapps",
                 "repo": "Adhan",
-                "stars": 412,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1411,8 +1411,8 @@
             "id": 176015477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T01:44:57Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-09T18:04:17Z",
+            "open_issues": 26,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -1630,7 +1630,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -2578,7 +2578,7 @@
                 "language": "Python",
                 "license": "OFL-1.1",
                 "last_commit": "2026-04-25T22:27:42Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aliftype",
                 "repo": "amiri",
                 "stars": 476,
@@ -2759,7 +2759,7 @@
             "open_issues": 0,
             "owner": "latiif",
             "repo": "ara",
-            "stars": 58,
+            "stars": 57,
             "topics": [
               "arabic",
               "command-line-tool",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:42:11.828Z",
+    "last_updated": "2026-10-09T20:07:39.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
