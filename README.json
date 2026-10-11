@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "arabic",
               "arabic-font",
@@ -49,7 +49,7 @@
             "open_issues": 8,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 619,
+            "stars": 620,
             "topics": [
               "awesome",
               "awesome-list",
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 500,
+                "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94851,
+                "stars": 94910,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20439,
+                "stars": 20440,
                 "topics": [
                   "javascript",
                   "katex",
@@ -396,7 +396,7 @@
                 "open_issues": 1,
                 "owner": "Mohamed-Nagdy",
                 "repo": "Quran-App-Data",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "azkar",
                   "hadith",
@@ -445,7 +445,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -779,7 +779,7 @@
                 "open_issues": 18,
                 "owner": "Mosque-Screens",
                 "repo": "Mosque-Screen",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "github-page",
                   "google-sheets",
@@ -1062,7 +1062,7 @@
                 "open_issues": 17,
                 "owner": "galacticwarrior9",
                 "repo": "IslamBot",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "discord-bot",
                   "hadith",
@@ -1655,7 +1655,7 @@
             "open_issues": 22,
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 448,
+            "stars": 449,
             "topics": [
               "arabic",
               "python",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:17:41.857Z",
+    "last_updated": "2026-10-11T19:34:23.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
@@ -2849,7 +2849,7 @@
       "open_issues": 9,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 342,
+      "stars": 343,
       "topics": [
         "arabic",
         "arabic-font",

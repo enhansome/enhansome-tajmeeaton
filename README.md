@@ -10,7 +10,7 @@
 
 **كيفية المساهمة:**
 
-يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
+يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
@@ -19,7 +19,7 @@
 
 **ملاحظات:**
 
-* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
+* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
 * التجميعة على موقع نوشن: <https://www.notion.so/ms2052001/3f677c2054ee49efad36e321cd88e1ac>
 * لا بد أن نعي أن معظم هذه المشروعات تعتبر جهود فردية أو فريق بسيط له شؤون حياته الخاصة وتعلمه وعمله، ومعظمها بَطُؤ أو تَوقّف تطويره، فلا بد أن نتحمل مسؤولية دعم هذه المشروعات ودفعها للأمام، سواء أكان دعما ماديا أو مساهمة في التطوير
 * فليكن هدفك الوحيد رضا الله، ولذا أنصح برخصة "[وقف](https://ojuba.org/waqf-2.0:%D8%B1%D8%AE%D8%B5%D8%A9_%D9%88%D9%82%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9)" بدلا من رخص مثل GPL وال MIT، وغيرهما. كما يمكن إنشاء رخصة بها شروط مختلفة منطلقة من نفس المبدأ لمشاريعك المستقبلية إن شاء الله
@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 619 | 🐛 8 | 📅 2026-10-03
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 620 | 🐛 8 | 📅 2026-10-03
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 94,851 | 🐛 500 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,439 | 🐛 394 | 🌐 TypeScript | 📅 2026-10-09, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 94,910 | 🐛 502 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,440 | 🐛 394 | 🌐 TypeScript | 📅 2026-10-09, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -204,7 +204,7 @@
 
   <span dir=ltr>Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... - Alfanous-team/alfanous</span>
 
-* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 234 | 🐛 1 | 📅 2023-02-15
+* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 235 | 🐛 1 | 📅 2023-02-15
 
   <span dir=rtl>كل كتب وصور تطبيقات القرآن.</span>
 
@@ -212,7 +212,7 @@
 
   <span dir=ltr>This repo is designed to house code related to Tarteel machine learning related tasks. 🔬 Specifically, things like: Model selection ✅ Preprocessing of data 🔉 Model training, validation, and and iteration 🔁 Code here is mostly experimental so check back regularly for updates. If you found this repo helpful, please keep it's contributors in your duaa 🙌.</span>
 
-* <https://github.com/cpfair/quran-tajweed> ⭐ 190 | 🐛 7 | 🌐 Python | 📅 2021-10-12
+* <https://github.com/cpfair/quran-tajweed> ⭐ 191 | 🐛 7 | 🌐 Python | 📅 2021-10-12
 
   <span dir=ltr>Tajweed annotations for the Qur'an (riwayat hafs). The data is available as a JSON file with exact character indices for each rule, and as individual decision trees for each rule. You can use this data to display the Qur'an with tajweed highlighting, refine models for Qur'anic speech recognition, or - if you enjoy decision trees - improve your own recitation.</span>
 
@@ -278,7 +278,7 @@
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
-* <https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt> ⭐ 107 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-05
+* <https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt> ⭐ 108 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-05
 
   <span dir=ltr>Build in association with East London Mosque. The Mosque Screens project is a self funded project and does not have any financial income. As with all tech projects, there are costs which are incurred by the maintainers. These include: Servers, domains, databases etc. Please help by donating to the project via the following link.</span>
 
@@ -322,7 +322,7 @@
 
   <span dir=ltr>is a python islamic library, it can calculates prayer times, qibla direction, convert between gregorian and hijri, calculate zakat and mirath. Actually, the library can does: Simply run: Note that the pip package name is islam and not pyIslam, pyIslam is taken by another project on PyPi.</span>
 
-* <https://github.com/galacticwarrior9/IslamBot> ⭐ 110 | 🐛 17 | 🌐 Python | 📅 2026-01-06
+* <https://github.com/galacticwarrior9/IslamBot> ⭐ 111 | 🐛 17 | 🌐 Python | 📅 2026-01-06
 
   <span dir=ltr>An Islamic bot for Discord with the following features: Qur'an, with support for 100+ translations. Tafsir, with 9 available in English and 37 in Arabic. Hadith in English and Arabic, from sunnah.com. Prayer times for any location in the world, with the ability to set reminders and change the calculation method.</span>
 
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 448 | 🐛 22 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 449 | 🐛 22 | 🌐 Python | 📅 2026-04-28
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -734,8 +734,8 @@
 
 # الرخصة
 
-هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
+هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
