@@ -138,7 +138,7 @@
             "open_issues": 29,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 558,
+            "stars": 557,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -244,7 +244,7 @@
                 "open_issues": 502,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 94974,
+                "stars": 95029,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T06:03:10Z",
+                "last_commit": "2026-10-13T12:02:58Z",
                 "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20443,
+                "stars": 20444,
                 "topics": [
                   "javascript",
                   "katex",
@@ -366,7 +366,7 @@
                 "open_issues": 23,
                 "owner": "Alfanous-team",
                 "repo": "alfanous",
-                "stars": 289,
+                "stars": 286,
                 "topics": [
                   "api",
                   "arabic",
@@ -445,7 +445,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T22:25:42Z",
+                "last_commit": "2026-10-12T22:44:20Z",
                 "open_issues": 16,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -1412,7 +1412,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T23:11:40Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -2270,7 +2270,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "mishkal",
-                "stars": 322,
+                "stars": 321,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:30:14.185Z",
+    "last_updated": "2026-10-13T20:41:48.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
