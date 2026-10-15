@@ -46,10 +46,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-03T21:49:33Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 621,
+            "stars": 622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -138,7 +138,7 @@
             "open_issues": 29,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 558,
+            "stars": 559,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 502,
+                "open_issues": 505,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95073,
+                "stars": 95119,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -267,10 +267,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-14T07:38:18Z",
-                "open_issues": 395,
+                "open_issues": 394,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20449,
+                "stars": 20453,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2871,
+                "stars": 2872,
                 "topics": [
                   "editor",
                   "equation",
@@ -445,7 +445,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T19:18:34Z",
+                "last_commit": "2026-10-14T19:37:40Z",
                 "open_issues": 16,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -2163,7 +2163,7 @@
                 "open_issues": 2,
                 "owner": "asrajeh",
                 "repo": "arabic-tts",
-                "stars": 28,
+                "stars": 27,
                 "topics": [
                   "arabic",
                   "text-to-speech",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:25:55.971Z",
+    "last_updated": "2026-10-15T19:10:30.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
