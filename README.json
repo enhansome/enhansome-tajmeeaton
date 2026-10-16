@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 562,
@@ -244,7 +244,7 @@
                 "open_issues": 505,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95119,
+                "stars": 95173,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T07:38:18Z",
-                "open_issues": 394,
+                "last_commit": "2026-10-16T00:46:35Z",
+                "open_issues": 395,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20453,
+                "stars": 20455,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T19:37:40Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-16T10:51:37Z",
+                "open_issues": 17,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -1599,7 +1599,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "arabert",
               "arabic",
@@ -2296,7 +2296,7 @@
                 "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "shakkelha",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "arabic-language",
                   "comparison",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:10:30.280Z",
+    "last_updated": "2026-10-16T18:49:12.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
