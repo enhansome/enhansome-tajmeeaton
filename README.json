@@ -49,7 +49,7 @@
             "open_issues": 9,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 622,
+            "stars": 623,
             "topics": [
               "awesome",
               "awesome-list",
@@ -244,7 +244,7 @@
                 "open_issues": 505,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95173,
+                "stars": 95230,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 395,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20455,
+                "stars": 20458,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T10:51:37Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-17T10:36:14Z",
+                "open_issues": 18,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -2074,7 +2074,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:49:12.252Z",
+    "last_updated": "2026-10-17T17:52:11.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
