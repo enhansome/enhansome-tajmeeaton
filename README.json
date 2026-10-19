@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "arabic",
               "arabic-font",
@@ -49,7 +49,7 @@
             "open_issues": 9,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 623,
+            "stars": 624,
             "topics": [
               "awesome",
               "awesome-list",
@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 562,
@@ -185,7 +185,7 @@
             "open_issues": 2,
             "owner": "aissa-bouguern",
             "repo": "arabic-programming-blogs",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "arabic",
               "arabic-language",
@@ -244,7 +244,7 @@
                 "open_issues": 505,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95285,
+                "stars": 95370,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T16:24:30Z",
-                "open_issues": 391,
+                "last_commit": "2026-10-19T17:57:17Z",
+                "open_issues": 393,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20461,
+                "stars": 20462,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2872,
+                "stars": 2871,
                 "topics": [
                   "editor",
                   "equation",
@@ -743,7 +743,7 @@
                 "open_issues": 45,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "azkar",
                   "desktop-application",
@@ -946,7 +946,7 @@
                 "open_issues": 45,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "azkar",
                   "desktop-application",
@@ -1543,7 +1543,7 @@
             "id": 202420542,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T05:00:10Z",
+            "last_commit": "2026-10-19T05:00:10Z",
             "open_issues": 19,
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:07:50.286Z",
+    "last_updated": "2026-10-19T20:36:08.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
@@ -2849,7 +2849,7 @@
       "open_issues": 9,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 343,
+      "stars": 342,
       "topics": [
         "arabic",
         "arabic-font",

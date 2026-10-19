@@ -10,7 +10,7 @@
 
 **كيفية المساهمة:**
 
-يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
+يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
@@ -19,7 +19,7 @@
 
 **ملاحظات:**
 
-* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
+* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
 * التجميعة على موقع نوشن: <https://www.notion.so/ms2052001/3f677c2054ee49efad36e321cd88e1ac>
 * لا بد أن نعي أن معظم هذه المشروعات تعتبر جهود فردية أو فريق بسيط له شؤون حياته الخاصة وتعلمه وعمله، ومعظمها بَطُؤ أو تَوقّف تطويره، فلا بد أن نتحمل مسؤولية دعم هذه المشروعات ودفعها للأمام، سواء أكان دعما ماديا أو مساهمة في التطوير
 * فليكن هدفك الوحيد رضا الله، ولذا أنصح برخصة "[وقف](https://ojuba.org/waqf-2.0:%D8%B1%D8%AE%D8%B5%D8%A9_%D9%88%D9%82%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9)" بدلا من رخص مثل GPL وال MIT، وغيرهما. كما يمكن إنشاء رخصة بها شروط مختلفة منطلقة من نفس المبدأ لمشاريعك المستقبلية إن شاء الله
@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 623 | 🐛 9 | 📅 2026-10-03
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 624 | 🐛 9 | 📅 2026-10-03
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 25 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 26 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -92,7 +92,7 @@
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
-* <https://github.com/aissa-bouguern/arabic-programming-blogs> ⭐ 71 | 🐛 2 | 📅 2024-01-22
+* <https://github.com/aissa-bouguern/arabic-programming-blogs> ⭐ 72 | 🐛 2 | 📅 2024-01-22
 
   <span dir=rtl>أهم المدونات والمصادر العربية لتعلم البرمجة وتطوير الويب - GitHub - aissa-bouguern/arabic-programming-blogs: أهم المدونات والمصادر العربية لتعلم البرمجة وتطوير الويب</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 95,285 | 🐛 505 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,461 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-18, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,872 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 95,370 | 🐛 505 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,462 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-19, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -274,7 +274,7 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 45 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 45 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 45 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 45 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -426,7 +426,7 @@
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-10-12
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-10-19
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -734,8 +734,8 @@
 
 # الرخصة
 
-هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
+هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
