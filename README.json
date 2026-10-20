@@ -45,8 +45,8 @@
             "id": 357182222,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-03T21:49:33Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-19T21:24:25Z",
+            "open_issues": 6,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 624,
@@ -244,7 +244,7 @@
                 "open_issues": 505,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95370,
+                "stars": 95425,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:57:17Z",
-                "open_issues": 393,
+                "last_commit": "2026-10-20T16:06:18Z",
+                "open_issues": 391,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20462,
+                "stars": 20464,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2871,
+                "stars": 2870,
                 "topics": [
                   "editor",
                   "equation",
@@ -445,7 +445,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T03:50:05Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-20T19:04:27Z",
+                "open_issues": 21,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:36:08.847Z",
+    "last_updated": "2026-10-20T19:18:12.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
