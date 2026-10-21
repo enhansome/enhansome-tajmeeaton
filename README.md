@@ -10,7 +10,7 @@
 
 **كيفية المساهمة:**
 
-يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
+يمكنك المساهمة بتوضيح خطأ لغوي أو اقتراح تحسينات أو إضافة أعمال ومشاريع أخرى تخدم الأمة، يمكنك فتح issue أو المشاركة في [النقاشات](https://github.com/MuhammadSawalhy/tajmeeaton/discussions/2) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
 
 ستُنشأ منصة عما قريب إن شاء الله:
 
@@ -19,7 +19,7 @@
 
 **ملاحظات:**
 
-* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
+* ستجد أن معظم الوصف هنا بالإنجليزية لأن الوصف مأخوذ كما هو من المشاريع عن طريق الكود في [.\انتج-ملف-اقرأني](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/انتج-ملف-اقرأني) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24، وهذا مما آسَف له، من واقعنا الذي أسعى لتغييره، والله الموفق والمعين
 * التجميعة على موقع نوشن: <https://www.notion.so/ms2052001/3f677c2054ee49efad36e321cd88e1ac>
 * لا بد أن نعي أن معظم هذه المشروعات تعتبر جهود فردية أو فريق بسيط له شؤون حياته الخاصة وتعلمه وعمله، ومعظمها بَطُؤ أو تَوقّف تطويره، فلا بد أن نتحمل مسؤولية دعم هذه المشروعات ودفعها للأمام، سواء أكان دعما ماديا أو مساهمة في التطوير
 * فليكن هدفك الوحيد رضا الله، ولذا أنصح برخصة "[وقف](https://ojuba.org/waqf-2.0:%D8%B1%D8%AE%D8%B5%D8%A9_%D9%88%D9%82%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9)" بدلا من رخص مثل GPL وال MIT، وغيرهما. كما يمكن إنشاء رخصة بها شروط مختلفة منطلقة من نفس المبدأ لمشاريعك المستقبلية إن شاء الله
@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 624 | 🐛 6 | 📅 2026-10-19
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 625 | 🐛 6 | 📅 2026-10-19
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,11 +80,11 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 26 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 27 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 560 | 🐛 30 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 561 | 🐛 29 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 95,425 | 🐛 505 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,464 | 🐛 391 | 🌐 TypeScript | 📅 2026-10-20, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 95,459 | 🐛 505 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,465 | 🐛 389 | 🌐 TypeScript | 📅 2026-10-21, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -274,11 +274,11 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 45 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 46 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
-* <https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt> ⭐ 108 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-05
+* <https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt> ⭐ 109 | 🐛 18 | 🌐 JavaScript | 📅 2023-11-05
 
   <span dir=ltr>Build in association with East London Mosque. The Mosque Screens project is a self funded project and does not have any financial income. As with all tech projects, there are costs which are incurred by the maintainers. These include: Servers, domains, databases etc. Please help by donating to the project via the following link.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 45 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 46 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -438,7 +438,7 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 736 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 735 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
@@ -648,11 +648,11 @@
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
-  * <https://github.com/aliftype/aref-ruqaa> ⭐ 134 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
+  * <https://github.com/aliftype/aref-ruqaa> ⭐ 135 | 🐛 4 | 🌐 Makefile | 📅 2026-08-01
 
     <span dir=ltr>Aref Ruqaa (رقعة عارف) is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Arabic part of Aref Ruqaa is designed by the Arabic calligrapher and type designer Abdullah Aref, while the Latin part is based on AMS Euler, but spaced for regular text rather than mathematics.</span>
 
-  * <https://github.com/aliftype/qahiri> ⭐ 57 | 🐛 0 | 🌐 Makefile | 📅 2026-08-01
+  * <https://github.com/aliftype/qahiri> ⭐ 58 | 🐛 0 | 🌐 Makefile | 📅 2026-08-01
 
     <span dir=ltr>Qahiri is a Kufic typeface based on the modernized and regularized old manuscript Kufic calligraphy style of the late master of Arabic calligraphyMohammad Abdul Qadir . Following the convention of naming Kufic styles after the cities they appeared in, Qahiri (قاهري) is named after the city of Cairo, Egypt (القاهرة).</span>
 
@@ -692,7 +692,7 @@
 
   <span dir=rtl>قائمة تشاركية لجمع الواجهات البرمجية العربية في مكان واحد هذه الفكرة مستوحاه من مشروع Public Apis أرجو منك المشاركة في اضافة الواجهات إلى هذه القائمة، سواء بمشاركة واجهات تعرفها، أو بإنشاء واجهات جديدة لملئ الفراغ التقني العربي.</span>
 
-* <https://github.com/MohsenAlyafei/tafqit> ⭐ 79 | 🐛 8 | 🌐 JavaScript | 📅 2022-02-28
+* <https://github.com/MohsenAlyafei/tafqit> ⭐ 80 | 🐛 8 | 🌐 JavaScript | 📅 2022-02-28
 
   <span dir=rtl>1. Introduction 2. Syntax and Parameters 3. Examples of General Use 4. Default Values 5. Option Settings 6. Increasing the Scale 7. Using Arabic-Indic Numbers 8. General Notes on Code 9.</span>
 
@@ -734,8 +734,8 @@
 
 # الرخصة
 
-هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 342 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
+هذا العمل، التجميعة، مرخص تحت رخصة وقف، [.\رخصة.md](https://github.com/MuhammadSawalhy/tajmeeaton/blob/main/%D8%B1%D8%AE%D8%B5%D8%A9.md) ⭐ 343 | 🐛 9 | 🌐 Python | 📅 2024-04-24.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
