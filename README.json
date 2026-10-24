@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 562,
@@ -244,7 +244,7 @@
                 "open_issues": 508,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95572,
+                "stars": 95619,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T16:43:30Z",
-                "open_issues": 389,
+                "last_commit": "2026-10-24T18:09:22Z",
+                "open_issues": 387,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20468,
+                "stars": 20470,
                 "topics": [
                   "javascript",
                   "katex",
@@ -2414,7 +2414,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2023-07-31T16:27:18Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "linuxscout",
                 "repo": "qutrub",
                 "stars": 110,
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:16:10.389Z",
+    "last_updated": "2026-10-24T18:10:55.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
