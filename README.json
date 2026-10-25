@@ -49,7 +49,7 @@
             "open_issues": 7,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "awesome",
               "awesome-list",
@@ -90,7 +90,7 @@
             "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 579,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 508,
+                "open_issues": 511,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95619,
+                "stars": 95649,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 387,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20470,
+                "stars": 20471,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T19:22:53Z",
+                "last_commit": "2026-10-25T03:46:43Z",
                 "open_issues": 21,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -2074,7 +2074,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2293,7 +2293,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2023-03-24T22:25:44Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "AliOsm",
                 "repo": "shakkelha",
                 "stars": 99,
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:10:55.646Z",
+    "last_updated": "2026-10-25T18:24:52.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
