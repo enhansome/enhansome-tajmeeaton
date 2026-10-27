@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 627 | 🐛 7 | 📅 2026-10-21
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 627 | 🐛 8 | 📅 2026-10-21
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 29 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 31 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -92,7 +92,7 @@
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
-* <https://github.com/aissa-bouguern/arabic-programming-blogs> ⭐ 72 | 🐛 2 | 📅 2024-01-22
+* <https://github.com/aissa-bouguern/arabic-programming-blogs> ⭐ 73 | 🐛 2 | 📅 2024-01-22
 
   <span dir=rtl>أهم المدونات والمصادر العربية لتعلم البرمجة وتطوير الويب - GitHub - aissa-bouguern/arabic-programming-blogs: أهم المدونات والمصادر العربية لتعلم البرمجة وتطوير الويب</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 95,681 | 🐛 511 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,472 | 🐛 388 | 🌐 TypeScript | 📅 2026-10-26, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 95,730 | 🐛 512 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,478 | 🐛 387 | 🌐 TypeScript | 📅 2026-10-27, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -274,7 +274,7 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 46 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 46 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 140 | 🐛 46 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 46 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -450,7 +450,7 @@
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
-* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 331 | 🐛 8 | 🌐 Python | 📅 2023-10-04
+* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 332 | 🐛 8 | 🌐 Python | 📅 2023-10-04
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
@@ -466,7 +466,7 @@
 
   <span dir=ltr>This repo contains Arabic OCR App. The APP can be used to extract the Arabic text from the images. This was built based on the EasyOCR library. EsayOCR built detection/recognition model to detect and recognize the characters and words. For detection part they used the pretrained model for CRAFT algorithm.</span>
 
-* <https://github.com/linuxscout/adawat> ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2020-08-27
+* <https://github.com/linuxscout/adawat> ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2020-08-27
 
   <span dir=ltr>Adawat: Arabic Language Toolkit Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com Adawat: Arabic Language Toolkit تجمع هذه المكتبة كل الأدوات المستعملة في معالجة النص العربي مثل: التشكيل تشكيل النص العربي، يستحسن استعمال مكتبة مشكال، أو برنامج مشكال تشكيل مع اقتراحات تشكيلات أخرى لكل كلمة اختزال الحركات</span>
 
@@ -494,7 +494,7 @@
 
 ## استخراج الكلم من الصور
 
-* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 331 | 🐛 8 | 🌐 Python | 📅 2023-10-04
+* <https://github.com/HusseinYoussef/Arabic-OCR> ⭐ 332 | 🐛 8 | 🌐 Python | 📅 2023-10-04
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

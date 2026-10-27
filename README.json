@@ -46,7 +46,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T22:20:37Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 627,
@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 29,
+            "open_issues": 31,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 562,
@@ -185,7 +185,7 @@
             "open_issues": 2,
             "owner": "aissa-bouguern",
             "repo": "arabic-programming-blogs",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "arabic",
               "arabic-language",
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 511,
+                "open_issues": 512,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95681,
+                "stars": 95730,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T17:27:52Z",
-                "open_issues": 388,
+                "last_commit": "2026-10-27T06:29:57Z",
+                "open_issues": 387,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20472,
+                "stars": 20478,
                 "topics": [
                   "javascript",
                   "katex",
@@ -743,7 +743,7 @@
                 "open_issues": 46,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "azkar",
                   "desktop-application",
@@ -946,7 +946,7 @@
                 "open_issues": 46,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "azkar",
                   "desktop-application",
@@ -1680,7 +1680,7 @@
             "open_issues": 8,
             "owner": "HusseinYoussef",
             "repo": "Arabic-OCR",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "arabic",
               "character-segmentation",
@@ -1786,7 +1786,7 @@
             "open_issues": 0,
             "owner": "linuxscout",
             "repo": "adawat",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1901,7 +1901,7 @@
                 "open_issues": 8,
                 "owner": "HusseinYoussef",
                 "repo": "Arabic-OCR",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "arabic",
                   "character-segmentation",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:30:12.358Z",
+    "last_updated": "2026-10-27T20:06:26.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
