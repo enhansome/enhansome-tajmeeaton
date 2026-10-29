@@ -46,7 +46,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:34:50Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 627,
@@ -90,7 +90,7 @@
             "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 580,
+            "stars": 581,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -111,7 +111,7 @@
             "open_issues": 31,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 562,
+            "stars": 563,
             "topics": [
               "arabic",
               "natural-language-processing",
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 512,
+                "open_issues": 513,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95779,
+                "stars": 95852,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T19:12:38Z",
+                "last_commit": "2026-10-29T18:06:08Z",
                 "open_issues": 387,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20477,
+                "stars": 20479,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T18:09:46Z",
+                "last_commit": "2026-10-29T08:59:50Z",
                 "open_issues": 22,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -1411,8 +1411,8 @@
             "id": 176015477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T23:11:40Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-29T05:53:43Z",
+            "open_issues": 27,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -2527,7 +2527,7 @@
             "open_issues": 9,
             "owner": "aiaf",
             "repo": "kawkab-mono",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:16:30.004Z",
+    "last_updated": "2026-10-29T20:19:48.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
