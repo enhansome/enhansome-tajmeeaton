@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 513,
+                "open_issues": 514,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95852,
+                "stars": 95911,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T18:06:08Z",
+                "last_commit": "2026-10-30T01:49:36Z",
                 "open_issues": 387,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20479,
+                "stars": 20481,
                 "topics": [
                   "javascript",
                   "katex",
@@ -740,7 +740,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-08-28T19:29:08Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 141,
@@ -855,7 +855,7 @@
                 "open_issues": 6,
                 "owner": "insha",
                 "repo": "salah",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -943,7 +943,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-08-28T19:29:08Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 141,
@@ -1655,7 +1655,7 @@
             "open_issues": 22,
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 449,
+            "stars": 450,
             "topics": [
               "arabic",
               "python",
@@ -2326,7 +2326,7 @@
                 "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "arabic-text-diacritization",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "arabic-language",
                   "comparison",
@@ -2759,7 +2759,7 @@
             "open_issues": 0,
             "owner": "latiif",
             "repo": "ara",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "arabic",
               "command-line-tool",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:19:48.513Z",
+    "last_updated": "2026-10-30T19:56:13.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

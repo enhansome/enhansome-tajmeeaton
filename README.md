@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 95,852 | 🐛 513 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,479 | 🐛 387 | 🌐 TypeScript | 📅 2026-10-29, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 95,911 | 🐛 514 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,481 | 🐛 387 | 🌐 TypeScript | 📅 2026-10-30, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -274,7 +274,7 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 46 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 47 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -286,7 +286,7 @@
 
   <span dir=ltr>Islamic prayers reminder, for your status bar or/and scripts. displays the next prayer time. send notification if it's the time for a prayer. displays the remaining time till the next prayer. FLAGS: -r, --remain display the remaining time till the next prayer. -n, --next display the time of the next islamic prayer.</span>
 
-* <https://github.com/insha/salah> ⭐ 50 | 🐛 6 | 🌐 Rust | 📅 2026-08-06
+* <https://github.com/insha/salah> ⭐ 51 | 🐛 6 | 🌐 Rust | 📅 2026-08-06
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 46 | 🌐 Java | 📅 2026-08-28
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 47 | 🌐 Java | 📅 2026-08-28
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 449 | 🐛 22 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 450 | 🐛 22 | 🌐 Python | 📅 2026-04-28
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -584,7 +584,7 @@
 
   <span dir=ltr>This repository contains the models, dataset, helpers, and systems' comparison for our paper on Arabic Text Diacritization: " Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation", Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh and Mahmoud Al-Ayyoub, EMNLP-IJCNLP 2019.</span>
 
-* <https://github.com/AliOsm/arabic-text-diacritization> ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2026-04-07
+* <https://github.com/AliOsm/arabic-text-diacritization> ⭐ 83 | 🐛 1 | 🌐 Python | 📅 2026-04-07
 
   <span dir=ltr>This repository contains the dataset, helpers, and systems comparison for our paper on Arabic Text Diacritization: " Arabic Text Diacritization Using Deep Neural Networks", Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh, and Mahmoud Al-Ayyoub, ICCAIS 2019.</span>
 
@@ -696,9 +696,9 @@
 
   <span dir=rtl>1. Introduction 2. Syntax and Parameters 3. Examples of General Use 4. Default Values 5. Option Settings 6. Increasing the Scale 7. Using Arabic-Indic Numbers 8. General Notes on Code 9.</span>
 
-* <https://github.com/latiif/ara> ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-08-07
+* <https://github.com/latiif/ara> ⭐ 59 | 🐛 0 | 🌐 Go | 📅 2026-08-07
 
-  <span dir=ltr>A command line tool that correctly displays Arabic text in terminals. Check releases and download the binary directly. Get the binary and add it to your $PATH wget <https://github.com/latiif/ara/releases/download/v0.7/ara> ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-08-07 && chmod +x ara 🆕 Undotting of Arabic letters (Rasm). 🆕 Revamped command line interface.</span>
+  <span dir=ltr>A command line tool that correctly displays Arabic text in terminals. Check releases and download the binary directly. Get the binary and add it to your $PATH wget <https://github.com/latiif/ara/releases/download/v0.7/ara> ⭐ 59 | 🐛 0 | 🌐 Go | 📅 2026-08-07 && chmod +x ara 🆕 Undotting of Arabic letters (Rasm). 🆕 Revamped command line interface.</span>
 
 * <https://github.com/imAbdelhadi/simplemde-rtl> ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-16
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
