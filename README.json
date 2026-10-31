@@ -90,7 +90,7 @@
             "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 581,
+            "stars": 580,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -138,7 +138,7 @@
             "open_issues": 31,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 560,
+            "stars": 561,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -244,7 +244,7 @@
                 "open_issues": 514,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95911,
+                "stars": 95944,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 387,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20481,
+                "stars": 20485,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T08:59:50Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-31T10:30:19Z",
+                "open_issues": 23,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:56:13.705Z",
+    "last_updated": "2026-10-31T19:19:01.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
