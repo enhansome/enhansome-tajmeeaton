@@ -90,7 +90,7 @@
             "open_issues": 4,
             "owner": "abdumostafa",
             "repo": "awesome-in-arabic",
-            "stars": 580,
+            "stars": 579,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 31,
+            "open_issues": 33,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 563,
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 514,
+                "open_issues": 517,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 95944,
+                "stars": 95973,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -267,10 +267,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-30T01:49:36Z",
-                "open_issues": 387,
+                "open_issues": 384,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20485,
+                "stars": 20487,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2871,
+                "stars": 2870,
                 "topics": [
                   "editor",
                   "equation",
@@ -366,7 +366,7 @@
                 "open_issues": 24,
                 "owner": "Alfanous-team",
                 "repo": "alfanous",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "api",
                   "arabic",
@@ -445,7 +445,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T10:30:19Z",
+                "last_commit": "2026-11-01T16:37:22Z",
                 "open_issues": 23,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -1411,8 +1411,8 @@
             "id": 176015477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T05:53:43Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-01T09:00:40Z",
+            "open_issues": 28,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -1599,7 +1599,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "arabert",
               "arabic",
@@ -1630,7 +1630,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:19:01.993Z",
+    "last_updated": "2026-11-01T19:42:22.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
