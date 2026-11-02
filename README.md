@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 627 | 🐛 8 | 📅 2026-10-27
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 627 | 🐛 9 | 📅 2026-10-27
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 563 | 🐛 33 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 563 | 🐛 34 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 95,973 | 🐛 517 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,487 | 🐛 384 | 🌐 TypeScript | 📅 2026-10-30, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,021 | 🐛 518 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,491 | 🐛 384 | 🌐 TypeScript | 📅 2026-11-02, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-01
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-02
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-11-01
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-11-02
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -426,7 +426,7 @@
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-10-26
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-11-02
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 450 | 🐛 22 | 🌐 Python | 📅 2026-04-28
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 450 | 🐛 22 | 🌐 Python | 📅 2026-11-02
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
