@@ -84,7 +84,7 @@
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 561 | 🐛 31 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 561 | 🐛 32 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,021 | 🐛 518 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,491 | 🐛 384 | 🌐 TypeScript | 📅 2026-11-02, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,084 | 🐛 517 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,496 | 🐛 384 | 🌐 TypeScript | 📅 2026-11-03, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-11-02
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 27 | 🌐 C++ | 📅 2026-11-03
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 321 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 322 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 321 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 322 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 99 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
