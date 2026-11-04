@@ -46,7 +46,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:34:50Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 627,
@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 563,
@@ -135,7 +135,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 561,
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 517,
+                "open_issues": 518,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96084,
+                "stars": 96129,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -267,10 +267,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T14:43:08Z",
-                "open_issues": 384,
+                "open_issues": 385,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20496,
+                "stars": 20499,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "editor",
                   "equation",
@@ -1412,7 +1412,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T06:48:04Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -1599,7 +1599,7 @@
             "open_issues": 2,
             "owner": "aub-mind",
             "repo": "arabert",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "arabert",
               "arabic",
@@ -1630,7 +1630,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -1655,7 +1655,7 @@
             "open_issues": 22,
             "owner": "mpcabd",
             "repo": "python-arabic-reshaper",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "arabic",
               "python",
@@ -2074,7 +2074,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2527,7 +2527,7 @@
             "open_issues": 9,
             "owner": "aiaf",
             "repo": "kawkab-mono",
-            "stars": 174,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:01:30.911Z",
+    "last_updated": "2026-11-04T21:20:21.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

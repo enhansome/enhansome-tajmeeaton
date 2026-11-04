@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 627 | 🐛 9 | 📅 2026-10-27
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 627 | 🐛 10 | 📅 2026-10-27
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,11 +80,11 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 563 | 🐛 34 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 563 | 🐛 35 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 561 | 🐛 32 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 561 | 🐛 34 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,084 | 🐛 517 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,496 | 🐛 384 | 🌐 TypeScript | 📅 2026-11-03, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,870 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,129 | 🐛 518 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,499 | 🐛 385 | 🌐 TypeScript | 📅 2026-11-03, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 27 | 🌐 C++ | 📅 2026-11-03
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-11-03
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -438,15 +438,15 @@
 
 # معالجة اللغات الطبيعية
 
-* <https://github.com/aub-mind/arabert> ⭐ 736 | 🐛 2 | 🌐 Python | 📅 2022-10-17
+* <https://github.com/aub-mind/arabert> ⭐ 737 | 🐛 2 | 🌐 Python | 📅 2022-10-17
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 494 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 495 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 450 | 🐛 22 | 🌐 Python | 📅 2026-11-02
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 451 | 🐛 22 | 🌐 Python | 📅 2026-11-02
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -528,7 +528,7 @@
 
 ## النص من وإلى الصوت
 
-* <https://github.com/ARBML/klaam> ⭐ 436 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
+* <https://github.com/ARBML/klaam> ⭐ 437 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
 
   <span dir=ltr>Arabic speech recognition, classification and text-to-speech using many advanced models like wave2vec and fastspeech2. This repository allows training and prediction using pretrained models. There are two avilable models for recognition trageting MSA and egyptian dialect . You can set any of them using the lang attribute We currently support four models, three of them are avilable on transformers.</span>
 
@@ -632,7 +632,7 @@
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
-* <https://github.com/aiaf/kawkab-mono> ⭐ 174 | 🐛 9 | 📅 2016-01-15
+* <https://github.com/aiaf/kawkab-mono> ⭐ 173 | 🐛 9 | 📅 2016-01-15
 
   <span dir=ltr>Kawkab Mono (كوكب مونو) is a monospaced Arabic typeface. It's designed for code and text-editing in particular, and whenever having a fixed-pitch font is necessary, such as when composing tabular data using text. There's a dearth in monospaced Arabic fonts and Kawkab comes to fill a void in this niche.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
