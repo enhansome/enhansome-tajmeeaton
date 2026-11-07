@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "arabic",
               "arabic-font",
@@ -138,7 +138,7 @@
             "open_issues": 34,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 520,
+                "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96204,
+                "stars": 96233,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -267,7 +267,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T21:41:55Z",
-                "open_issues": 386,
+                "open_issues": 389,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
                 "stars": 20503,
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2871,
+                "stars": 2873,
                 "topics": [
                   "editor",
                   "equation",
@@ -555,7 +555,7 @@
                 "open_issues": 4,
                 "owner": "ojuba-org",
                 "repo": "othman",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "python",
                   "quran"
@@ -739,8 +739,8 @@
                 "id": 290850826,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:29:08Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-07T13:59:11Z",
+                "open_issues": 45,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 141,
@@ -942,8 +942,8 @@
                 "id": 290850826,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:29:08Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-07T13:59:11Z",
+                "open_issues": 45,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
                 "stars": 141,
@@ -1411,8 +1411,8 @@
             "id": 176015477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T20:42:51Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-07T05:51:16Z",
+            "open_issues": 27,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -2270,7 +2270,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "mishkal",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2503,7 +2503,7 @@
             "language": "Shell",
             "license": "OFL-1.1",
             "last_commit": "2023-03-06T15:42:38Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "Gue3bara",
             "repo": "Cairo",
             "stars": 197,
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:55:01.264Z",
+    "last_updated": "2026-11-07T19:26:23.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
@@ -2849,7 +2849,7 @@
       "open_issues": 9,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 343,
+      "stars": 344,
       "topics": [
         "arabic",
         "arabic-font",
