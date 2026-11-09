@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 628 | 🐛 11 | 📅 2026-10-27
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 628 | 🐛 12 | 📅 2026-10-27
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -80,11 +80,11 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 563 | 🐛 34 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 35 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
-* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 562 | 🐛 34 | 📅 2025-04-05
+* <https://github.com/AhmedKamal/awesome-Islam> ⭐ 562 | 🐛 35 | 📅 2025-04-05
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,261 | 🐛 519 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,504 | 🐛 387 | 🌐 TypeScript | 📅 2026-11-08, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,289 | 🐛 519 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,510 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-09, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,874 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -254,7 +254,7 @@
 
     <span dir=rtl>بسم الله الرحمن الرحيم Quran utils is a set of scripts for detecting ayat in quran images. it's very rough, but it definitely works (tested on 3 sets of images - shamerly, qaloon, and warsh images). ayat.py - detects ayah images in a particular image.</span>
 
-  * <https://github.com/quran/tajweed> ⭐ 77 | 🐛 7 | 🌐 Java | 📅 2018-10-07
+  * <https://github.com/quran/tajweed> ⭐ 76 | 🐛 7 | 🌐 Java | 📅 2018-10-07
 
     <span dir=rtl>بسم الله الرحمن الرحيم In the name of Allah, Most Gracious, Most Merciful The purpose of this project is to experiment with "tajweed syntax highlighting," or writing algorithms to color code the various tajweed rules as is found in the tajweed mus7af.</span>
 
@@ -374,7 +374,7 @@
 
 # لغات برمجة عربية
 
-* <https://github.com/nasser/---> ⭐ 801 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-09
+* <https://github.com/nasser/---> ⭐ 802 | 🐛 6 | 🌐 JavaScript | 📅 2024-03-09
 
   <span dir=rtl>‫قلب‬ is a simple, Scheme-like programming language that you code entirely in Arabic. It is an exploration of the impact of human culture on computer science, the role of tradition in software engineering, and the connection between natural and computer languages. ‫قلب‬ has a minimal Scheme-like parenthesized syntax.</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 27 | 🌐 C++ | 📅 2026-11-07
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-11-07
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -402,7 +402,7 @@
 
   <span dir=rtl>لغة البرمجة "كلمات" العربية 📝.</span>
 
-* <https://github.com/mobadarah/Ammoria> ⭐ 13 | 🐛 1 | 🌐 VBA | 📅 2021-07-17
+* <https://github.com/mobadarah/Ammoria> ⭐ 12 | 🐛 1 | 🌐 VBA | 📅 2021-07-17
 
   <span dir=rtl>لغة البرمجة عموريا.</span>
 
@@ -426,7 +426,7 @@
 
 # ترجمات
 
-* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-11-02
+* <https://github.com/javascript-tutorial/ar.javascript.info> ⭐ 64 | 🐛 19 | 🌐 HTML | 📅 2026-11-09
 
 * <https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic> ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2021-03-14
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 495 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 494 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -528,7 +528,7 @@
 
 ## النص من وإلى الصوت
 
-* <https://github.com/ARBML/klaam> ⭐ 437 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
+* <https://github.com/ARBML/klaam> ⭐ 436 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
 
   <span dir=ltr>Arabic speech recognition, classification and text-to-speech using many advanced models like wave2vec and fastspeech2. This repository allows training and prediction using pretrained models. There are two avilable models for recognition trageting MSA and egyptian dialect . You can set any of them using the lang attribute We currently support four models, three of them are avilable on transformers.</span>
 
@@ -644,7 +644,7 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 478 | 🐛 0 | 🌐 Python | 📅 2026-10-12
+  * <https://github.com/aliftype/amiri> ⭐ 479 | 🐛 0 | 🌐 Python | 📅 2026-10-12
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

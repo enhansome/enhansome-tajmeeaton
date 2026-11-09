@@ -46,7 +46,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:34:50Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 628,
@@ -108,10 +108,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 563,
+            "stars": 562,
             "topics": [
               "arabic",
               "natural-language-processing",
@@ -135,7 +135,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 562,
@@ -244,7 +244,7 @@
                 "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96261,
+                "stars": 96289,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:34:24Z",
-                "open_issues": 387,
+                "last_commit": "2026-11-09T17:25:45Z",
+                "open_issues": 391,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20504,
+                "stars": 20510,
                 "topics": [
                   "javascript",
                   "katex",
@@ -689,7 +689,7 @@
                     "open_issues": 7,
                     "owner": "quran",
                     "repo": "tajweed",
-                    "stars": 77,
+                    "stars": 76,
                     "topics": [
                       "quran",
                       "tajweed"
@@ -1331,7 +1331,7 @@
             "open_issues": 6,
             "owner": "nasser",
             "repo": "---",
-            "stars": 801,
+            "stars": 802,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1412,7 +1412,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-07T05:51:16Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -1478,7 +1478,7 @@
             "open_issues": 1,
             "owner": "mobadarah",
             "repo": "Ammoria",
-            "stars": 13,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -1543,7 +1543,7 @@
             "id": 202420542,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T05:00:09Z",
+            "last_commit": "2026-11-09T05:00:10Z",
             "open_issues": 19,
             "owner": "javascript-tutorial",
             "repo": "ar.javascript.info",
@@ -1630,7 +1630,7 @@
             "open_issues": 13,
             "owner": "linuxscout",
             "repo": "pyarabic",
-            "stars": 495,
+            "stars": 494,
             "topics": [
               "arabic-language",
               "nlp-library",
@@ -2074,7 +2074,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2581,7 +2581,7 @@
                 "open_issues": 0,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:42:35.427Z",
+    "last_updated": "2026-11-09T23:47:05.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
