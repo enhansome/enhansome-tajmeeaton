@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,289 | 🐛 519 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,510 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-09, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,327 | 🐛 519 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,515 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-09, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,874 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -270,11 +270,11 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 413 | 🐛 1 | 📅 2026-10-23
+* <https://github.com/batoulapps/Adhan> ⭐ 414 | 🐛 1 | 📅 2026-10-23
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 45 | 🌐 Java | 📅 2026-11-07
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 142 | 🐛 45 | 🌐 Java | 📅 2026-11-07
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 141 | 🐛 45 | 🌐 Java | 📅 2026-11-07
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 142 | 🐛 45 | 🌐 Java | 📅 2026-11-07
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 28 | 🌐 C++ | 📅 2026-11-07
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 26 | 🌐 C++ | 📅 2026-11-10
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -446,7 +446,7 @@
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 451 | 🐛 22 | 🌐 Python | 📅 2026-11-02
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 453 | 🐛 22 | 🌐 Python | 📅 2026-11-02
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -544,7 +544,7 @@
 
   <span dir=ltr>A Docker image for a relatively light-weight full Arabic speech synthesis system $ git clone <https://github.com/nawarhalabi/festival-tts-arabic-voices-docker> ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-02-12 $ cd festival-tts-arabic-voices-docker $ docker kill festival $ docker rm festival $ docker build -t festival-arabic:latest . $ docker run -p 8080:8080 -v :/tts --name festival festival-arabic:latest This will take about 20 mins to finish.</span>
 
-* <https://github.com/asrajeh/arabic-tts> ⭐ 27 | 🐛 2 | 🌐 Shell | 📅 2019-09-16
+* <https://github.com/asrajeh/arabic-tts> ⭐ 29 | 🐛 2 | 🌐 Shell | 📅 2019-09-16
 
   <span dir=ltr>Arabic TTS ( الناطق العربي ).</span>
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 325 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 326 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 325 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 326 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 99 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -600,7 +600,7 @@
 
 ## تصريف
 
-* <https://github.com/linuxscout/qutrub> ⭐ 110 | 🐛 19 | 🌐 Python | 📅 2023-07-31
+* <https://github.com/linuxscout/qutrub> ⭐ 111 | 🐛 19 | 🌐 Python | 📅 2023-07-31
 
   <span dir=ltr>Qutrub: Arabic verb conjugation software قطرب: تصريف الأفعال العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com pyarabic>=0.6.2 enable mod\_python in Apache extract the qutrub package and run it from the web. The program don't need a database.</span>
 
@@ -632,7 +632,7 @@
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
-* <https://github.com/aiaf/kawkab-mono> ⭐ 173 | 🐛 9 | 📅 2016-01-15
+* <https://github.com/aiaf/kawkab-mono> ⭐ 174 | 🐛 9 | 📅 2016-01-15
 
   <span dir=ltr>Kawkab Mono (كوكب مونو) is a monospaced Arabic typeface. It's designed for code and text-editing in particular, and whenever having a fixed-pitch font is necessary, such as when composing tabular data using text. There's a dearth in monospaced Arabic fonts and Kawkab comes to fill a void in this niche.</span>
 
@@ -644,7 +644,7 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 479 | 🐛 0 | 🌐 Python | 📅 2026-10-12
+  * <https://github.com/aliftype/amiri> ⭐ 481 | 🐛 0 | 🌐 Python | 📅 2026-10-12
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
@@ -696,9 +696,9 @@
 
   <span dir=rtl>1. Introduction 2. Syntax and Parameters 3. Examples of General Use 4. Default Values 5. Option Settings 6. Increasing the Scale 7. Using Arabic-Indic Numbers 8. General Notes on Code 9.</span>
 
-* <https://github.com/latiif/ara> ⭐ 61 | 🐛 0 | 🌐 Go | 📅 2026-08-07
+* <https://github.com/latiif/ara> ⭐ 63 | 🐛 0 | 🌐 Go | 📅 2026-08-07
 
-  <span dir=ltr>A command line tool that correctly displays Arabic text in terminals. Check releases and download the binary directly. Get the binary and add it to your $PATH wget <https://github.com/latiif/ara/releases/download/v0.7/ara> ⭐ 61 | 🐛 0 | 🌐 Go | 📅 2026-08-07 && chmod +x ara 🆕 Undotting of Arabic letters (Rasm). 🆕 Revamped command line interface.</span>
+  <span dir=ltr>A command line tool that correctly displays Arabic text in terminals. Check releases and download the binary directly. Get the binary and add it to your $PATH wget <https://github.com/latiif/ara/releases/download/v0.7/ara> ⭐ 63 | 🐛 0 | 🌐 Go | 📅 2026-08-07 && chmod +x ara 🆕 Undotting of Arabic letters (Rasm). 🆕 Revamped command line interface.</span>
 
 * <https://github.com/imAbdelhadi/simplemde-rtl> ⭐ 54 | 🐛 2 | 🌐 JavaScript | 📅 2021-02-16
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
