@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,327 | 🐛 519 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,515 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-09, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,395 | 🐛 519 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,519 | 🐛 391 | 🌐 TypeScript | 📅 2026-11-11, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,874 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-02
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-11
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -390,7 +390,7 @@
 
   <span dir=rtl>مترجم ألف يقوم بترجمة لغة ألف إلى لغة سي++ مع إستعمال مكتبات بوست Windows - GCC (TDM/MinGW). Windows - Microsoft build tools 2019. Linux - GCC. \[ !</span>
 
-* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 26 | 🌐 C++ | 📅 2026-11-10
+* <https://github.com/Alusus/Alusus> ⭐ 51 | 🐛 26 | 🌐 C++ | 📅 2026-11-11
 
   <span dir=ltr>Alusus is designed to be a language for everything by making language features hot-pluggable, and on a per-project basis (rather than per-environment), which allows the language to: Expand vertically to cover low level features like those in C++ as well as high level features like those found in languages like Python or Ruby.</span>
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 494 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 493 | 🐛 13 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -632,7 +632,7 @@
 
   <span dir=ltr>Cairo is a contemporary Arabic and Latin typeface family. Mohamed Gaber extended the famous Latin typeface family Titillum Web to support the Arabic script, with a design that is based on the Kufi calligraphic style. Cairo balances classic and contemporary tastes with wide open counters and short ascenders and descenders that minimize length while maintaining easy readability.</span>
 
-* <https://github.com/aiaf/kawkab-mono> ⭐ 174 | 🐛 9 | 📅 2016-01-15
+* <https://github.com/aiaf/kawkab-mono> ⭐ 174 | 🐛 10 | 📅 2016-01-15
 
   <span dir=ltr>Kawkab Mono (كوكب مونو) is a monospaced Arabic typeface. It's designed for code and text-editing in particular, and whenever having a fixed-pitch font is necessary, such as when composing tabular data using text. There's a dearth in monospaced Arabic fonts and Kawkab comes to fill a void in this niche.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
