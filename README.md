@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,458 | 🐛 519 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,519 | 🐛 392 | 🌐 TypeScript | 📅 2026-11-11, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,488 | 🐛 519 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,519 | 🐛 392 | 🌐 TypeScript | 📅 2026-11-12, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,874 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -274,7 +274,7 @@
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 142 | 🐛 45 | 🌐 Java | 📅 2026-11-07
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 143 | 🐛 45 | 🌐 Java | 📅 2026-11-07
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-11
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-13
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -308,7 +308,7 @@
 
 ## أذكار
 
-* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 142 | 🐛 45 | 🌐 Java | 📅 2026-11-07
+* <https://github.com/AbdelrahmanBayoumi/Azkar-App> ⭐ 143 | 🐛 45 | 🌐 Java | 📅 2026-11-07
 
   <span dir=ltr>برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span>
 
@@ -644,7 +644,7 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 481 | 🐛 0 | 🌐 Python | 📅 2026-10-12
+  * <https://github.com/aliftype/amiri> ⭐ 480 | 🐛 0 | 🌐 Python | 📅 2026-10-12
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
