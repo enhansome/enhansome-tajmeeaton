@@ -49,7 +49,7 @@
             "open_issues": 13,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 628,
+            "stars": 629,
             "topics": [
               "awesome",
               "awesome-list",
@@ -244,7 +244,7 @@
                 "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96488,
+                "stars": 96524,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 392,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20519,
+                "stars": 20521,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2874,
+                "stars": 2873,
                 "topics": [
                   "editor",
                   "equation",
@@ -445,7 +445,7 @@
                 "open_issues": 7,
                 "owner": "cpfair",
                 "repo": "quran-tajweed",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "decision-trees",
                   "islam",
@@ -1412,7 +1412,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-12T01:31:56Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -2581,7 +2581,7 @@
                 "open_issues": 0,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:26:20.853Z",
+    "last_updated": "2026-11-14T19:56:35.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
