@@ -46,10 +46,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:34:50Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -244,7 +244,7 @@
                 "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96524,
+                "stars": 96560,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T23:33:14Z",
-                "open_issues": 392,
+                "last_commit": "2026-11-15T18:19:27Z",
+                "open_issues": 396,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20521,
+                "stars": 20520,
                 "topics": [
                   "javascript",
                   "katex",
@@ -363,7 +363,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-06-14T00:57:27Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "Alfanous-team",
                 "repo": "alfanous",
                 "stars": 286,
@@ -376,34 +376,6 @@
                   "python",
                   "quran",
                   "search-engine"
-                ]
-              },
-              "first_seen": "2026-08-29T00:01:10.922Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mohamed-Nagdy/Quran-App-Data",
-              "description": "Mohamed-Nagdy/Quran-App-Data",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "كل كتب وصور تطبيقات القرآن",
-                "homepage": null,
-                "id": 329273479,
-                "language": null,
-                "license": null,
-                "last_commit": "2023-02-15T06:18:44Z",
-                "open_issues": 1,
-                "owner": "Mohamed-Nagdy",
-                "repo": "Quran-App-Data",
-                "stars": 235,
-                "topics": [
-                  "azkar",
-                  "hadith",
-                  "names-of-allah",
-                  "names-of-mohamed",
-                  "quran",
-                  "quran-images"
                 ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -424,8 +396,36 @@
                 "open_issues": 14,
                 "owner": "TarteelAI",
                 "repo": "tarteel-ml",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:01:10.922Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mohamed-Nagdy/Quran-App-Data",
+              "description": "Mohamed-Nagdy/Quran-App-Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "كل كتب وصور تطبيقات القرآن",
+                "homepage": null,
+                "id": 329273479,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-02-15T06:18:44Z",
+                "open_issues": 1,
+                "owner": "Mohamed-Nagdy",
+                "repo": "Quran-App-Data",
+                "stars": 234,
+                "topics": [
+                  "azkar",
+                  "hadith",
+                  "names-of-allah",
+                  "names-of-mohamed",
+                  "quran",
+                  "quran-images"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
             },
@@ -668,7 +668,7 @@
                     "open_issues": 4,
                     "owner": "quran",
                     "repo": "ayah-detection",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.922Z"
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T17:25:54Z",
+                "last_commit": "2026-11-15T03:50:59Z",
                 "open_issues": 23,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -1627,7 +1627,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-01-16T09:40:41Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "linuxscout",
             "repo": "pyarabic",
             "stars": 493,
@@ -2581,7 +2581,7 @@
                 "open_issues": 0,
                 "owner": "aliftype",
                 "repo": "amiri",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:56:35.921Z",
+    "last_updated": "2026-11-15T20:24:09.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

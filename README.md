@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 629 | 🐛 13 | 📅 2026-10-27
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 630 | 🐛 14 | 📅 2026-10-27
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,524 | 🐛 519 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,521 | 🐛 392 | 🌐 TypeScript | 📅 2026-11-12, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,560 | 🐛 519 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,520 | 🐛 396 | 🌐 TypeScript | 📅 2026-11-15, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,873 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -200,17 +200,17 @@
 
 ## قرآن
 
-* <https://github.com/Alfanous-team/alfanous> ⭐ 286 | 🐛 24 | 🌐 Python | 📅 2026-06-14
+* <https://github.com/Alfanous-team/alfanous> ⭐ 286 | 🐛 25 | 🌐 Python | 📅 2026-06-14
 
   <span dir=ltr>Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... - Alfanous-team/alfanous</span>
-
-* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 235 | 🐛 1 | 📅 2023-02-15
-
-  <span dir=rtl>كل كتب وصور تطبيقات القرآن.</span>
 
 * <https://github.com/Tarteel-io/tarteel-ml> ⚠️ Archived
 
   <span dir=ltr>This repo is designed to house code related to Tarteel machine learning related tasks. 🔬 Specifically, things like: Model selection ✅ Preprocessing of data 🔉 Model training, validation, and and iteration 🔁 Code here is mostly experimental so check back regularly for updates. If you found this repo helpful, please keep it's contributors in your duaa 🙌.</span>
+
+* <https://github.com/Mohamed-Nagdy/Quran-App-Data> ⭐ 234 | 🐛 1 | 📅 2023-02-15
+
+  <span dir=rtl>كل كتب وصور تطبيقات القرآن.</span>
 
 * <https://github.com/cpfair/quran-tajweed> ⭐ 199 | 🐛 7 | 🌐 Python | 📅 2021-10-12
 
@@ -250,7 +250,7 @@
 
 * <https://github.com/quran>
 
-  * <https://github.com/quran/ayah-detection> ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2023-04-02
+  * <https://github.com/quran/ayah-detection> ⭐ 114 | 🐛 4 | 🌐 Python | 📅 2023-04-02
 
     <span dir=rtl>بسم الله الرحمن الرحيم Quran utils is a set of scripts for detecting ayat in quran images. it's very rough, but it definitely works (tested on 3 sets of images - shamerly, qaloon, and warsh images). ayat.py - detects ayah images in a particular image.</span>
 
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-13
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-15
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -442,7 +442,7 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 493 | 🐛 13 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 493 | 🐛 14 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
@@ -644,7 +644,7 @@
 
   <span dir=ltr>Anti (أنتِ) is a cryptic and playful Arabic typeface AGPL-3.0 Updated 1 6 0 Jun 22, 2021 Mada (مدى) is a geometric, low-contrast Arabic typeface HTML Updated 1 5 0 Jun 15, 2021 Python 0 Updated 2 0 Apr 21, 2021 Makefile 0 Updated 8 0 Apr 17, 2021 Unicode-encoded Quran data Python Updated 15 57 0 Mar 17, 2021 Forked from googlefonts/ufo2ft A bridge from UFOs to FontTools objects (and therefore, OTFs and TTFs).</span>
 
-  * <https://github.com/aliftype/amiri> ⭐ 481 | 🐛 0 | 🌐 Python | 📅 2026-10-12
+  * <https://github.com/aliftype/amiri> ⭐ 482 | 🐛 0 | 🌐 Python | 📅 2026-10-12
 
     <span dir=ltr>Amiri (أميري) is a classical Arabic typeface in Naskh style for typesetting books and other running text. Amiri is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.</span>
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
