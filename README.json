@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 562,
@@ -241,10 +241,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-09T16:23:48Z",
-                "open_issues": 519,
+                "open_issues": 520,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96626,
+                "stars": 96663,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 400,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20525,
+                "stars": 20526,
                 "topics": [
                   "javascript",
                   "katex",
@@ -722,7 +722,7 @@
                 "open_issues": 2,
                 "owner": "batoulapps",
                 "repo": "Adhan",
-                "stars": 414,
+                "stars": 415,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T20:35:11Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-18T15:26:09Z",
+                "open_issues": 24,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -2025,7 +2025,7 @@
                 "open_issues": 5,
                 "owner": "Fahad-Alsaidi",
                 "repo": "raqin",
-                "stars": 20,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2074,7 +2074,7 @@
                 "open_issues": 15,
                 "owner": "ARBML",
                 "repo": "klaam",
-                "stars": 436,
+                "stars": 434,
                 "topics": [
                   "arabic",
                   "arabic-speech-recognition",
@@ -2142,7 +2142,7 @@
                 "open_issues": 2,
                 "owner": "nawarhalabi",
                 "repo": "festival-tts-arabic-voices-docker",
-                "stars": 31,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2270,7 +2270,7 @@
                 "open_issues": 17,
                 "owner": "linuxscout",
                 "repo": "mishkal",
-                "stars": 326,
+                "stars": 325,
                 "topics": [
                   "arabic",
                   "natural-language-processing",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:53:58.019Z",
+    "last_updated": "2026-11-18T22:36:23.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",

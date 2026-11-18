@@ -80,7 +80,7 @@
 
   <span dir=ltr>A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines. - GitHub - abdumostafa/awesome-in-arabic: A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.</span>
 
-* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 37 | 📅 2026-06-09
+* <https://github.com/01walid/awesome-arabic> ⭐ 562 | 🐛 38 | 📅 2026-06-09
 
   <span dir=ltr>A curated list of awesome projects and dev/design resources for supporting Arabic computational needs. - GitHub - 01walid/awesome-arabic: A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.</span>
 
@@ -116,8 +116,8 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,626 | 🐛 519 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,525 | 🐛 400 | 🌐 TypeScript | 📅 2026-11-17, [Mathjax](https://www.mathjax.org/)
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,663 | 🐛 520 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,526 | 🐛 400 | 🌐 TypeScript | 📅 2026-11-17, [Mathjax](https://www.mathjax.org/)
 * [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,873 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
@@ -270,7 +270,7 @@
 
 ## صلاة
 
-* <https://github.com/batoulapps/Adhan> ⭐ 414 | 🐛 2 | 📅 2026-10-23
+* <https://github.com/batoulapps/Adhan> ⭐ 415 | 🐛 2 | 📅 2026-10-23
 
   <span dir=ltr>Adhan is a well tested and well documented library for calculating Islamic prayer times implemented in different languages and platforms. All astronomical calculations are high precision equations directly from the book "Astronomical Algorithms" by Jean Meeus. This book is recommended by the Astronomical Applications Department of the U.S.</span>
 
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-17
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-18
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -514,7 +514,7 @@
 
   <span dir=ltr>Handwriting recognition is the ability of a computer to receive and interpret intelligible handwritten input. This project use Neural Network toolbox in Matlab to train NN with pre registered words, the input to NN is a word (not seperated characters), the word converted to a vector to find the perfect match with other pre-registered words, The input to the project is an image file and the final result saved on a notepad txt file.</span>
 
-* <https://github.com/Fahad-Alsaidi/raqin> ⭐ 20 | 🐛 5 | 🌐 JavaScript | 📅 2021-12-18
+* <https://github.com/Fahad-Alsaidi/raqin> ⭐ 18 | 🐛 5 | 🌐 JavaScript | 📅 2021-12-18
 
   <span dir=rtl>يهدف المشروع إلى إيجاد طريقة لرقمنة كتب التراث العربي عن طريق الجهد الموزع بين فئة كبيرة من الناس.</span>
 
@@ -528,7 +528,7 @@
 
 ## النص من وإلى الصوت
 
-* <https://github.com/ARBML/klaam> ⭐ 436 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
+* <https://github.com/ARBML/klaam> ⭐ 434 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-09-30
 
   <span dir=ltr>Arabic speech recognition, classification and text-to-speech using many advanced models like wave2vec and fastspeech2. This repository allows training and prediction using pretrained models. There are two avilable models for recognition trageting MSA and egyptian dialect . You can set any of them using the lang attribute We currently support four models, three of them are avilable on transformers.</span>
 
@@ -540,9 +540,9 @@
 
   <span dir=ltr>HTS Arabic voice for Festival TTS: is an arabic voice trained by HTS technologie to work on Festival TTS system. The voice is HMM trained on Nawar Arabic Speech Corpus. You can test the voice with diacritics on: <http://ar.arabicspeechcorpus.com/> Install necessary packages: sudo apt-get install festival sudo apt-get install htsengine You can install Festival from pakcage manager from your linux distribution.</span>
 
-* <https://github.com/nawarhalabi/festival-tts-arabic-voices-docker> ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-02-12
+* <https://github.com/nawarhalabi/festival-tts-arabic-voices-docker> ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2021-02-12
 
-  <span dir=ltr>A Docker image for a relatively light-weight full Arabic speech synthesis system $ git clone <https://github.com/nawarhalabi/festival-tts-arabic-voices-docker> ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-02-12 $ cd festival-tts-arabic-voices-docker $ docker kill festival $ docker rm festival $ docker build -t festival-arabic:latest . $ docker run -p 8080:8080 -v :/tts --name festival festival-arabic:latest This will take about 20 mins to finish.</span>
+  <span dir=ltr>A Docker image for a relatively light-weight full Arabic speech synthesis system $ git clone <https://github.com/nawarhalabi/festival-tts-arabic-voices-docker> ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2021-02-12 $ cd festival-tts-arabic-voices-docker $ docker kill festival $ docker rm festival $ docker build -t festival-arabic:latest . $ docker run -p 8080:8080 -v :/tts --name festival festival-arabic:latest This will take about 20 mins to finish.</span>
 
 * <https://github.com/asrajeh/arabic-tts> ⭐ 29 | 🐛 2 | 🌐 Shell | 📅 2019-09-16
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 326 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 325 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 326 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 325 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 99 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
