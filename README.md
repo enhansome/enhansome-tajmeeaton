@@ -72,7 +72,7 @@
 
 # Awesome تجميعات وقوائم رائعة with stars
 
-* <https://github.com/choubari/Awesome-Muslims> ⭐ 631 | 🐛 13 | 📅 2026-11-16
+* <https://github.com/choubari/Awesome-Muslims> ⭐ 629 | 🐛 13 | 📅 2026-11-16
 
   <span dir=ltr>A List of Awesome Muslim Things. Muslim App: Daily Muslim Android App that contains Prayer times, Rememberance, Qibla Finder, Zakat Calculator and other features. Quran: a quran reading application for android Wazaker: An islamic app to know about islam, morning and evening azkar, qibla direction, counter.</span>
 
@@ -88,7 +88,7 @@
 
   <span dir=ltr>A curated list of awesome islam related projects, frameworks, resources and other awesomeness. support existing projects by helping people who want to contribute find them easily. help developers find the best resources that help them while developing new islamic apps being aware of the current repos and apps and the gaps in different platforms. help users in different platforms find the best islamic apps that can help them in their life.</span>
 
-* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 96 | 🐛 2 | 📅 2026-08-25
+* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 95 | 🐛 2 | 📅 2026-08-25
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
@@ -116,9 +116,9 @@
 
 **ما نريد أن ننشيء مثله:**
 
-* [Manim](https://github.com/3b1b/manim) ⭐ 96,663 | 🐛 520 | 🌐 Python | 📅 2026-09-09
-* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,526 | 🐛 400 | 🌐 TypeScript | 📅 2026-11-17, [Mathjax](https://www.mathjax.org/)
-* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,873 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
+* [Manim](https://github.com/3b1b/manim) ⭐ 96,684 | 🐛 520 | 🌐 Python | 📅 2026-09-09
+* [Katex](https://github.com/KaTeX/KaTeX) ⭐ 20,528 | 🐛 400 | 🌐 TypeScript | 📅 2026-11-19, [Mathjax](https://www.mathjax.org/)
+* [Mathquill](https://github.com/mathquill/mathquill) ⭐ 2,871 | 🐛 405 | 🌐 TypeScript | 📅 2025-06-02
 * [Mathpix](https://mathpix.com/)
 * [Graspable Math](https://activities.graspablemath.com/)
 
@@ -290,7 +290,7 @@
 
   <span dir=ltr>Add the following to your Cargo.toml file under the \[dependencies] section: \[dependencies] salah = "0.5.0" To get prayer times, use the PrayerSchedule struct passing in coordinates, date, and calculation parameters. Coordinates Create a Coordinates struct with the latitude and longitude for the location you want prayer times for.</span>
 
-* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-18
+* <https://github.com/meltuhamy/belfastsalah> ⭐ 15 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-19
 
   <span dir=ltr>This is an Ionic app that displays prayer times from a prayer times table. Prayer times directly from mosque prayer time table Realtime countdown to next prayer Notifications when it's time to pray! Automatically enable night mode during the night Clean, simple design. Under 5mb size!</span>
 
@@ -442,11 +442,11 @@
 
   <span dir=ltr>This repository now contains code and implementation for: AraBERT v0.1/v1: Original AraBERT v0.2/v2: Base and large versions with better vocabulary, more data, more training Read More... AraGPT2: base, medium, large and MEGA. Trained from scratch on Arabic Read More... AraELECTRA: Trained from scratch on Arabic Read More...</span>
 
-* <https://github.com/linuxscout/pyarabic> ⭐ 493 | 🐛 14 | 🌐 Python | 📅 2026-01-16
+* <https://github.com/linuxscout/pyarabic> ⭐ 494 | 🐛 14 | 🌐 Python | 📅 2026-01-16
 
   <span dir=ltr>A specific Arabic language library for Python, provides basic functions to manipulate Arabic letters and text, like detecting Arabic letters, Arabic letters groups and characteristics, remove diacritics etc. مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل.</span>
 
-* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 453 | 🐛 22 | 🌐 Python | 📅 2026-11-02
+* <https://github.com/mpcabd/python-arabic-reshaper> ⭐ 452 | 🐛 22 | 🌐 Python | 📅 2026-11-02
 
   <span dir=ltr>Reconstruct Arabic sentences to be used in applications that don't support Arabic script. Works with Python 2.x and 3.x Arabic script is very special with two essential features: It is written from right to left. The characters change shape according to their surrounding characters.</span>
 
@@ -454,7 +454,7 @@
 
   <span dir=ltr>OCR system for Arabic language that converts images of typed text to machine-encoded text. The system currently supports only letters (29 letters) ا-ى , لا. The system aims to solve a simpler problem of OCR with images that contain only Arabic characters (check the dataset link below to see a sample of the images).</span>
 
-* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 96 | 🐛 2 | 📅 2026-08-25
+* <https://github.com/linuxscout/arabicnlptoolslist> ⭐ 95 | 🐛 2 | 📅 2026-08-25
 
   <span dir=ltr>Arabic NLP tools List inventory QalsadiQalsadi Qalsadi: Arabic mophological analyzer Library for python. Buckwalter Arabic Morphological Analyzer (BAMA BAMA) Standard Arabic Morphological Analyzer (SAMA SAMA, version 3.0 of BAMA) ElixirFM ElixirFM : Functional Arabic Morphology Xerox Arabic Morphological Analysis and Generation (Deprecated) NMSU NMSU's Arabic Morphological Analyzer - MAGEAD: Morphological Analysis and Generation for Arabic and its Dialects \~\~- Almorgeana : Arabic Lexeme-based Morphological Generation and Analysis is distributed as part of the MADA system.</span>
 
@@ -576,9 +576,9 @@
 
   <span dir=ltr>Shakkala project use recurrent neural network for Arabic text vocalization to automatically form Arabic characters (تشكيل الحروف) which can be used to enhance text-to-speech systems. This model can be used in many applications such as enhance text-to-speech systems or search results. Execute following commands: cd requirements pip install -r requirements.txt Check full example in (demo.py) file.</span>
 
-* <https://github.com/linuxscout/mishkal> ⭐ 325 | 🐛 17 | 🌐 Python | 📅 2025-09-18
+* <https://github.com/linuxscout/mishkal> ⭐ 324 | 🐛 17 | 🌐 Python | 📅 2025-09-18
 
-  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 325 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
+  <span dir=ltr>Mishkal Arabic text vocalization software مشكال لتشكيل النصوص العربية Developpers: Taha Zerrouki: <http://tahadz.com> taha dot zerrouki at gmail dot com You can Install Mishkal as library or Software Clone mishkal project from GitHub: git clone <https://github.com/linuxscout/mishkal.git> ⭐ 324 | 🐛 17 | 🌐 Python | 📅 2025-09-18 Install necessary packages: pip install -r miskal/requirements.txt requirments - pyarabic : basic arabic library</span>
 
 * <https://github.com/AliOsm/shakkelha> ⭐ 99 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-03-24
 
@@ -738,4 +738,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
