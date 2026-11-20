@@ -97,33 +97,6 @@
         },
         {
           "node_type": "item",
-          "title": "01walid/awesome-arabic",
-          "description": "01walid/awesome-arabic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.",
-            "homepage": null,
-            "id": 42784577,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 38,
-            "owner": "01walid",
-            "repo": "awesome-arabic",
-            "stars": 562,
-            "topics": [
-              "arabic",
-              "natural-language-processing",
-              "nlp",
-              "nlp-arabic",
-              "rtl"
-            ]
-          },
-          "first_seen": "2026-08-29T00:01:10.922Z"
-        },
-        {
-          "node_type": "item",
           "title": "AhmedKamal/awesome-Islam",
           "description": "AhmedKamal/awesome-Islam",
           "children": [],
@@ -138,8 +111,35 @@
             "open_issues": 36,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 562,
+            "stars": 563,
             "topics": []
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
+        },
+        {
+          "node_type": "item",
+          "title": "01walid/awesome-arabic",
+          "description": "01walid/awesome-arabic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.",
+            "homepage": null,
+            "id": 42784577,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-09T14:00:51Z",
+            "open_issues": 39,
+            "owner": "01walid",
+            "repo": "awesome-arabic",
+            "stars": 562,
+            "topics": [
+              "arabic",
+              "natural-language-processing",
+              "nlp",
+              "nlp-arabic",
+              "rtl"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -244,7 +244,7 @@
                 "open_issues": 520,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96684,
+                "stars": 96726,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 400,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20528,
+                "stars": 20527,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T22:24:11Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-20T21:21:37Z",
+                "open_issues": 23,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -1627,7 +1627,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-01-16T09:40:41Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "linuxscout",
             "repo": "pyarabic",
             "stars": 494,
@@ -2326,7 +2326,7 @@
                 "open_issues": 1,
                 "owner": "AliOsm",
                 "repo": "arabic-text-diacritization",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "arabic-language",
                   "comparison",
@@ -2717,7 +2717,7 @@
             "open_issues": 4,
             "owner": "aqeelat",
             "repo": "arabic-apis",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:40:15.134Z",
+    "last_updated": "2026-11-20T22:14:47.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
