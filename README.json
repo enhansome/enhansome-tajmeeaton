@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "arabic",
               "arabic-font",
@@ -46,10 +46,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-16T20:32:54Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -97,6 +97,33 @@
         },
         {
           "node_type": "item",
+          "title": "01walid/awesome-arabic",
+          "description": "01walid/awesome-arabic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.",
+            "homepage": null,
+            "id": 42784577,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-06-09T14:00:51Z",
+            "open_issues": 39,
+            "owner": "01walid",
+            "repo": "awesome-arabic",
+            "stars": 563,
+            "topics": [
+              "arabic",
+              "natural-language-processing",
+              "nlp",
+              "nlp-arabic",
+              "rtl"
+            ]
+          },
+          "first_seen": "2026-08-29T00:01:10.922Z"
+        },
+        {
+          "node_type": "item",
           "title": "AhmedKamal/awesome-Islam",
           "description": "AhmedKamal/awesome-Islam",
           "children": [],
@@ -113,33 +140,6 @@
             "repo": "awesome-Islam",
             "stars": 563,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:01:10.922Z"
-        },
-        {
-          "node_type": "item",
-          "title": "01walid/awesome-arabic",
-          "description": "01walid/awesome-arabic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome projects and dev/design resources for supporting Arabic computational needs.",
-            "homepage": null,
-            "id": 42784577,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 39,
-            "owner": "01walid",
-            "repo": "awesome-arabic",
-            "stars": 562,
-            "topics": [
-              "arabic",
-              "natural-language-processing",
-              "nlp",
-              "nlp-arabic",
-              "rtl"
-            ]
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
         },
@@ -244,7 +244,7 @@
                 "open_issues": 520,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96726,
+                "stars": 96767,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T19:08:32Z",
+                "last_commit": "2026-11-21T02:13:43Z",
                 "open_issues": 400,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20527,
+                "stars": 20528,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T21:21:37Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-21T09:36:32Z",
+                "open_issues": 24,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -1411,8 +1411,8 @@
             "id": 176015477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T23:56:55Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-21T06:27:12Z",
+            "open_issues": 27,
             "owner": "Alusus",
             "repo": "Alusus",
             "stars": 51,
@@ -2244,7 +2244,7 @@
                 "open_issues": 5,
                 "owner": "Barqawiz",
                 "repo": "Shakkala",
-                "stars": 355,
+                "stars": 354,
                 "topics": [
                   "arabic-nlp",
                   "deep-learning",
@@ -2635,7 +2635,7 @@
                 "open_issues": 0,
                 "owner": "aliftype",
                 "repo": "qahiri",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "arabic",
                   "arabic-font",
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:14:47.191Z",
+    "last_updated": "2026-11-21T20:54:39.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
@@ -2849,7 +2849,7 @@
       "open_issues": 9,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 344,
+      "stars": 345,
       "topics": [
         "arabic",
         "arabic-font",
