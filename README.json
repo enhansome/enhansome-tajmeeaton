@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "mobadarah",
             "repo": "tajmeeaton",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "arabic",
               "arabic-font",
@@ -108,7 +108,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-09T14:00:51Z",
-            "open_issues": 42,
+            "open_issues": 44,
             "owner": "01walid",
             "repo": "awesome-arabic",
             "stars": 563,
@@ -135,7 +135,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-04-05T20:44:29Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
             "stars": 563,
@@ -244,7 +244,7 @@
                 "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96918,
+                "stars": 96967,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -266,11 +266,11 @@
                 "id": 11195700,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T17:22:40Z",
-                "open_issues": 402,
+                "last_commit": "2026-11-25T21:22:02Z",
+                "open_issues": 403,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20538,
+                "stars": 20541,
                 "topics": [
                   "javascript",
                   "katex",
@@ -297,7 +297,7 @@
                 "open_issues": 405,
                 "owner": "mathquill",
                 "repo": "mathquill",
-                "stars": 2871,
+                "stars": 2873,
                 "topics": [
                   "editor",
                   "equation",
@@ -743,7 +743,7 @@
                 "open_issues": 45,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "azkar",
                   "desktop-application",
@@ -872,7 +872,7 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T07:53:31Z",
+                "last_commit": "2026-11-25T21:51:55Z",
                 "open_issues": 26,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
@@ -946,7 +946,7 @@
                 "open_issues": 45,
                 "owner": "AbdelrahmanBayoumi",
                 "repo": "Azkar-App",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "azkar",
                   "desktop-application",
@@ -2573,7 +2573,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Amiri (أميري) is a body text Naskh typeface",
-                "homepage": "http://aliftype.com/amiri",
+                "homepage": "http://aliftype.com/fonts/amiri",
                 "id": 39611099,
                 "language": "Python",
                 "license": "OFL-1.1",
@@ -2627,7 +2627,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Qahiri (قاهري) is a manuscript Kufic typeface",
-                "homepage": "https://aliftype.com/qahiri/",
+                "homepage": "https://aliftype.com/fonts/qahiri/",
                 "id": 245898205,
                 "language": "Makefile",
                 "license": "OFL-1.1",
@@ -2669,7 +2669,7 @@
             "open_issues": 0,
             "owner": "drelhaj",
             "repo": "OsmanReadability",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:54:42.810Z",
+    "last_updated": "2026-11-25T23:38:55.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
@@ -2849,7 +2849,7 @@
       "open_issues": 9,
       "owner": "mobadarah",
       "repo": "tajmeeaton",
-      "stars": 345,
+      "stars": 346,
       "topics": [
         "arabic",
         "arabic-font",
