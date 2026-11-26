@@ -46,7 +46,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-16T20:32:54Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "choubari",
             "repo": "Awesome-Muslims",
             "stars": 631,
@@ -111,7 +111,7 @@
             "open_issues": 44,
             "owner": "01walid",
             "repo": "awesome-arabic",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "arabic",
               "natural-language-processing",
@@ -138,7 +138,7 @@
             "open_issues": 39,
             "owner": "AhmedKamal",
             "repo": "awesome-Islam",
-            "stars": 563,
+            "stars": 564,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.922Z"
@@ -244,7 +244,7 @@
                 "open_issues": 519,
                 "owner": "3b1b",
                 "repo": "manim",
-                "stars": 96967,
+                "stars": 97008,
                 "topics": [
                   "3b1b-videos",
                   "animation",
@@ -270,7 +270,7 @@
                 "open_issues": 403,
                 "owner": "KaTeX",
                 "repo": "KaTeX",
-                "stars": 20541,
+                "stars": 20545,
                 "topics": [
                   "javascript",
                   "katex",
@@ -872,8 +872,8 @@
                 "id": 31821353,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T21:51:55Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-26T22:10:19Z",
+                "open_issues": 25,
                 "owner": "meltuhamy",
                 "repo": "belfastsalah",
                 "stars": 15,
@@ -2837,7 +2837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:38:55.643Z",
+    "last_updated": "2026-11-26T23:52:03.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "تجميعة من المشاريع، وخصوصا مفتوحة المصدر",
